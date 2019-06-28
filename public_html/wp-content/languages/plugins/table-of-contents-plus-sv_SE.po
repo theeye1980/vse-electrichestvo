@@ -1,0 +1,471 @@
+# Translation of Stable (latest release) in Swedish
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-01 09:11:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: toc.php:698
+msgid "Before first heading (default)"
+msgstr "Innan första rubriken (standard)"
+
+#: toc.php:699
+msgid "After first heading"
+msgstr "Efter första rubriken"
+
+#: toc.php:700
+msgid "Top"
+msgstr "Toppen"
+
+#: toc.php:701
+msgid "Bottom"
+msgstr "Botten"
+
+#: toc.php:706
+msgid "Show when"
+msgstr "Visa när det finns"
+
+#. translators: text follows drop down list of numbers
+#: toc.php:718
+msgid "or more headings are present"
+msgstr "eller fler rubriker"
+
+#: toc.php:722
+msgid "Auto insert for the following content types"
+msgstr "Infoga automatiskt för följande posttyper"
+
+#. translators: this is the title of the table of contents
+#: toc.php:737
+msgid "Heading text"
+msgstr "Rubriktext"
+
+#: toc.php:739
+msgid "Show title on top of the table of contents"
+msgstr "Visa rubrik överst i innehållsförteckningen"
+
+#: toc.php:742
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "Ex: Innehåll, Innehållsförteckning, Sidans innehåll"
+
+#: toc.php:744
+msgid "Allow the user to toggle the visibility of the table of contents"
+msgstr "Tillåta användare att dölja eller visa innehållsförteckningen"
+
+#: toc.php:749
+msgid "Show text"
+msgstr "Text för visa"
+
+#. translators: example text to display when you want to expand the table of
+#. contents
+#: toc.php:753
+msgid "Eg: show"
+msgstr "Ex: visa"
+
+#: toc.php:756
+msgid "Hide text"
+msgstr "Text för dölja"
+
+#. translators: example text to display when you want to collapse the table of
+#. contents
+#: toc.php:760
+msgid "Eg: hide"
+msgstr "Ex: dölj"
+
+#: toc.php:764
+msgid "Hide the table of contents initially"
+msgstr "Dölj innehållsförteckningen inledningsvis"
+
+#: toc.php:770
+msgid "Show hierarchy"
+msgstr "Visa hierarki"
+
+#: toc.php:774
+msgid "Number list items"
+msgstr "Numrera listobjekt"
+
+#: toc.php:778
+msgid "Enable smooth scroll effect"
+msgstr "Aktivera skrolleffekt"
+
+#: toc.php:779
+msgid "Scroll rather than jump to the anchor link"
+msgstr "Skrolla istället för att hoppa direkt till ankarlänk"
+
+#: toc.php:784
+msgid "Appearance"
+msgstr "Utseende"
+
+#: toc.php:788
+msgid "Width"
+msgstr "Bredd"
+
+#: toc.php:791
+msgid "Fixed width"
+msgstr "Bestämd bredd"
+
+#: toc.php:802
+msgid "Relative"
+msgstr "Relativ"
+
+#: toc.php:803
+msgid "Auto (default)"
+msgstr "Auto (standard)"
+
+#. translators: other width
+#: toc.php:813
+msgid "Other"
+msgstr "Annat"
+
+#: toc.php:814
+msgid "User defined"
+msgstr "Användardefinierad"
+
+#. translators: ignore %s as it's some HTML label tags
+#: toc.php:820
+msgid "Please enter a number and %s select its units, eg: 100px, 10em"
+msgstr "Var vänlig ange ett nummer och %s välj enhetstyp, ex: 100px, 10em"
+
+#: toc.php:831
+msgid "Wrapping"
+msgstr "Justering"
+
+#: toc.php:834
+msgid "None (default)"
+msgstr "Ingen (standard)"
+
+#: toc.php:835
+msgid "Left"
+msgstr "Vänster"
+
+#: toc.php:836
+msgid "Right"
+msgstr "Höger"
+
+#: toc.php:841
+msgid "Font size"
+msgstr "Teckenstorlek"
+
+#. translators: appearance / colour / look and feel options
+#: toc.php:854
+msgid "Presentation"
+msgstr "Presentation"
+
+#: toc.php:857
+msgid "Grey (default)"
+msgstr "Grå (standard)"
+
+#: toc.php:862
+msgid "Light blue"
+msgstr "Ljusblå"
+
+#: toc.php:867
+msgid "White"
+msgstr "Vit"
+
+#: toc.php:872
+msgid "Black"
+msgstr "Svart"
+
+#: toc.php:877
+msgid "Transparent"
+msgstr "Transparent"
+
+#: toc.php:882
+msgid "Custom"
+msgstr "Anpassad"
+
+#: toc.php:892
+msgid "Background"
+msgstr "Bakgrund"
+
+#: toc.php:896
+msgid "Border"
+msgstr "Ram"
+
+#: toc.php:900 toc.php:1678
+msgid "Title"
+msgstr "Titel"
+
+#: toc.php:904
+msgid "Links"
+msgstr "Länkar"
+
+#: toc.php:908
+msgid "Links (hover)"
+msgstr "Länkar (musaktivitet)"
+
+#: toc.php:912
+msgid "Links (visited)"
+msgstr "Länkar (besökta)"
+
+#: toc.php:919
+msgid "Leaving the value as %s will inherit your theme's styles"
+msgstr "Lämna värdet som %s för att ärva temats stilmall"
+
+#: toc.php:926
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: toc.php:926 toc.php:1063
+msgid "show"
+msgstr "visa"
+
+#: toc.php:928
+msgid "Power options"
+msgstr "Avancerade alternativ"
+
+#: toc.php:932
+msgid "Lowercase"
+msgstr "Gemener"
+
+#: toc.php:933
+msgid "Ensure anchors are in lowercase"
+msgstr "Se till att ankare använder gemener"
+
+#: toc.php:936
+msgid "Hyphenate"
+msgstr "Avstavning"
+
+#: toc.php:937
+msgid "Use - rather than _ in anchors"
+msgstr "Använd - istället för _ i ankare"
+
+#: toc.php:940
+msgid "Include homepage"
+msgstr "Inkludera startsida"
+
+#: toc.php:941
+msgid "Show the table of contents for qualifying items on the homepage"
+msgstr "Visa innehållsförteckningen för kvalificerade objekt på startsidan"
+
+#: toc.php:944
+msgid "Exclude CSS file"
+msgstr "Exkludera CSS-fil"
+
+#: toc.php:945
+msgid "Prevent the loading of this plugin's CSS styles. When selected, the appearance options from above will also be ignored."
+msgstr "Förhindra laddning av tilläggets stilmallar. Om detta val markeras kommer inte utseendeinställningarna ovan att användas."
+
+#: toc.php:948
+msgid "Preserve theme bullets"
+msgstr "Bevara temats stil för lista"
+
+#: toc.php:949
+msgid "If your theme includes background images for unordered list elements, enable this to support them"
+msgstr "Om ditt tema använder bakgrundsbilder för oordnade listelement, aktivera detta val för att använda temats stil"
+
+#: toc.php:952
+msgid "Heading levels"
+msgstr "Nivåer av rubriker"
+
+#: toc.php:954
+msgid "Include the following heading levels. Deselecting a heading will exclude it."
+msgstr "Inkludera följande nivåer av rubriker. Avmarkerade rubriknivåer kommer att uteslutas."
+
+#: toc.php:960
+msgid "heading "
+msgstr "rubrik"
+
+#: toc.php:966
+msgid "Exclude headings"
+msgstr "Exkludera rubriker"
+
+#: toc.php:969
+msgid "Specify headings to be excluded from appearing in the table of contents.  Separate multiple headings with a pipe <code>|</code>.  Use an asterisk <code>*</code> as a wildcard to match other text.  Note that this is not case sensitive. Some examples:"
+msgstr "Specificera rubriker som ska exkluderas från visning i innehållsförteckningen. Separera flera rubriker med delningsstreck <code>|</code>. Använd en asterisk <code>*</code> som jokertecken för att matcha annan text. Notera att detta inte är skiftlägeskänsligt. Några exempel:"
+
+#: toc.php:971
+msgid "<code>Fruit*</code> ignore headings starting with \"Fruit\""
+msgstr "<code>Frukt*</code> ignorera rubriker som börjar med \"Frukt\""
+
+#: toc.php:972
+msgid "<code>*Fruit Diet*</code> ignore headings with \"Fruit Diet\" somewhere in the heading"
+msgstr "<code>*Frukt Diet*</code> ignorera rubriker med \"Frukt Diet\" någonstans i rubriken"
+
+#: toc.php:973
+msgid "<code>Apple Tree|Oranges|Yellow Bananas</code> ignore headings that are exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\""
+msgstr "<code>Röda äpplen|Apelsiner|Gröna bananer</code> ignorera exakta rubriker, enligt exempel \"Röda äpplen\", \"Apelsiner\" eller \"Gröna bananer\""
+
+#: toc.php:978
+msgid "Smooth scroll top offset"
+msgstr "Kompensation i topp för skrolleffekt"
+
+#: toc.php:981
+msgid "If you have a consistent menu across the top of your site, you can adjust the top offset to stop the headings from appearing underneath the top menu. A setting of 30 accommodates the WordPress admin bar. This setting appears after you have enabled smooth scrolling from above."
+msgstr "Om du har en meny som alltid ligger högst upp på din webbplats så kan du kompensera för detta och inte få rubriker att hamna under denna meny. Värdet 30 ger en kompensation som motsvarar WordPress verktygsrad. Denna inställning används när du har aktiverat skrollningseffekt ovan."
+
+#: toc.php:985
+msgid "Restrict path"
+msgstr "Begränsa till sökväg"
+
+#: toc.php:988
+msgid "Restrict generation of the table of contents to pages that match the required path. This path is from the root of your site and always begins with a forward slash."
+msgstr "Begränsa generering av innehållsförteckningen till sidor som matchar sökvägen. Denna sökväg gäller från roten av din webbplats och börjar alltid med ett snedstreck."
+
+#. translators: example URL path restriction
+#: toc.php:991
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr "Ex: /wiki/, /foretag/arsrapporter/"
+
+#: toc.php:995
+msgid "Default anchor prefix"
+msgstr "Standardprefix för ankare"
+
+#: toc.php:998
+msgid "Anchor targets are restricted to alphanumeric characters as per HTML specification (see readme for more detail). The default anchor prefix will be used when no characters qualify. When left blank, a number will be used instead."
+msgstr "Ankarmål är begränsade till alfanumeriska tecken i enlighet med HTML-specifikationerna (se dokumentationen för mer information). Standardprefix för ankare kommer att användas om inga kvalificerade tecken angivits. Lämnas det tomt kommer nummer att användas istället."
+
+#: toc.php:999
+msgid "This option normally applies to content written in character sets other than ASCII."
+msgstr "Detta val används normalt för innehåll skrivet med andra tecken än ASCII."
+
+#. translators: example anchor prefixes when no ascii characters match
+#: toc.php:1002
+msgid "Eg: i, toc_index, index, _"
+msgstr "Ex: i, toc_index, index, _"
+
+#. translators: advanced usage
+#: toc.php:1010
+msgid "Usage"
+msgstr "Användning"
+
+#: toc.php:1011
+msgid "If you would like to fully customise the position of the table of contents, you can use the %s shortcode by placing it at the desired position of your post, page or custom post type. This method allows you to generate the table of contents despite having auto insertion disabled for its content type. Please visit the help tab for further information about this shortcode."
+msgstr "Om du vill anpassa positionen för innehållsförteckningen så kan du använda kortkoden %s och placera den på önskad plats i ditt inlägg, på din sida eller i anpassad posttyp. Denna metod låter dig generera innehållsförteckningen även fast automatisk infogning är inaktiverad för posttypen. Var vänlig besök hjälp-fliken för mer information om denna kortkod."
+
+#: toc.php:1019
+msgid "At its simplest, placing %s into a page will automatically create a sitemap of all pages and categories. This also works in a text widget."
+msgstr "I sin enklaste utformning kommer infogning av %s på en sida att automatisk skapa en webbplatskarta med alla sidor och kategorier listade. Detta fungerar även i textwidgets."
+
+#: toc.php:1023
+msgid "Show page listing"
+msgstr "Visa sidlistning"
+
+#: toc.php:1027
+msgid "Show category listing"
+msgstr "Visa kategorilistning"
+
+#: toc.php:1031
+msgid "Heading type"
+msgstr "Rubriktyp"
+
+#. translators: the full line is supposed to read - Use [1-6 drop down list] to
+#. print out the titles
+#: toc.php:1034
+msgid "Use"
+msgstr "Använd"
+
+#. translators: the full line is supposed to read - Use [h1-h6 drop down list]
+#. to print out the titles
+#: toc.php:1045
+msgid "to print out the titles"
+msgstr "för att skriva ut rubriker"
+
+#: toc.php:1049
+msgid "Pages label"
+msgstr "Etikett för sidor"
+
+#: toc.php:1051
+msgid "Eg: Pages, Page List"
+msgstr "Ex: Sidor, Lista över sidor"
+
+#: toc.php:1055
+msgid "Categories label"
+msgstr "Etikett för kategorier"
+
+#: toc.php:1057
+msgid "Eg: Categories, Category List"
+msgstr "Ex: Kategorier, Lista över kategorier"
+
+#: toc.php:1063
+msgid "Advanced usage"
+msgstr "Avancerad använding"
+
+#: toc.php:1065
+msgid "lets you print out a listing of only pages. Similarly %s can be used to print out a category listing. They both can accept a number of attributes so visit the help tab for more information."
+msgstr "låter dig skriva ut en lista av endast sidor. På samma sätt kan %s användas för att skriva ut en lista av endast kategorier. Båda accepterar ett antal olika attribut, besök hjälp-fliken för mer information."
+
+#: toc.php:1066
+msgid "Examples"
+msgstr "Exempel"
+
+#: toc.php:1068
+msgid "hides the heading from a category listing"
+msgstr "döljer rubriken i kategorilistning"
+
+#: toc.php:1069
+msgid "Uses h6 to display %s on a page listing excluding pages with IDs 1 and 15"
+msgstr "Använder h6 för att visa %s i en listning av sidor med exkludering av sidor med ID 1 och 15"
+
+#: toc.php:1078
+msgid "Update Options"
+msgstr "Uppdatera Inställningar"
+
+#: toc.php:1584
+msgid "Display the table of contents in the sidebar with this widget"
+msgstr "Visa innehållsförteckningen i sidofältet med denna widget"
+
+#: toc.php:1684
+msgid "Show the table of contents only in the sidebar"
+msgstr "Visa endast innehållsförteckningen i sidofältet"
+
+#: toc.php:1688
+msgid "For the following content types:"
+msgstr "För följande posttyper:"
+
+#. Plugin Name of the plugin/theme
+msgid "Table of Contents Plus"
+msgstr "Table of Contents Plus"
+
+#. Plugin URI of the plugin/theme
+msgid "http://dublue.com/plugins/toc/"
+msgstr "http://dublue.com/plugins/toc/"
+
+#. Description of the plugin/theme
+msgid "A powerful yet user friendly plugin that automatically creates a table of contents. Can also output a sitemap listing all pages and categories."
+msgstr "Ett kraftfullt med ändå användarvänligt tillägg som automatiskt skapar innehållsförteckningar. Det kan även listningar av sidor och kategorier för webbplatskarta."
+
+#. Author of the plugin/theme
+msgid "Michael Tran"
+msgstr "Michael Tran"
+
+#. Author URI of the plugin/theme
+msgid "http://dublue.com/"
+msgstr "http://dublue.com/"
+
+#: toc.php:221
+msgid "Settings"
+msgstr "Inställningar"
+
+#: toc.php:500 toc.php:501
+msgid "TOC"
+msgstr "TOC"
+
+#: toc.php:671
+msgid "Options saved."
+msgstr "Inställningar sparade."
+
+#: toc.php:673
+msgid "Save failed."
+msgstr "Fel vid sparande."
+
+#: toc.php:685
+msgid "Main Options"
+msgstr "Grundinställningar"
+
+#: toc.php:686
+msgid "Sitemap"
+msgstr "Webbplatskarta"
+
+#: toc.php:687
+msgid "Help"
+msgstr "Hjälp"
+
+#: toc.php:695
+msgid "Position"
+msgstr "Position"

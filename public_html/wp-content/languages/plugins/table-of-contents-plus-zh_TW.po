@@ -1,0 +1,472 @@
+# Translation of Plugins - Table of Contents Plus - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Table of Contents Plus - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-25 15:39:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Table of Contents Plus - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://dublue.com/"
+msgstr "https://dublue.com/"
+
+#. Author of the plugin/theme
+msgid "Michael Tran"
+msgstr "Michael Tran"
+
+#. Description of the plugin/theme
+msgid "A powerful yet user friendly plugin that automatically creates a table of contents. Can also output a sitemap listing all pages and categories."
+msgstr "一個強大且對使用者友善的目錄自動產生工具，亦能產生列出所有頁面及分類的網站地圖。繁體中文本地化由「<a href=\"https://www.alexclassroom.com/\" target=\"_blank\">阿力獅的教室</a>」站長<a href=\"https://www.facebook.com/captain.alexlion\" target=\"_blank\">阿力獅</a>提供。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://dublue.com/plugins/toc/"
+msgstr "https://dublue.com/plugins/toc/"
+
+#. Plugin Name of the plugin/theme
+msgid "Table of Contents Plus"
+msgstr "Table of Contents Plus"
+
+#: toc.php:1688
+msgid "For the following content types:"
+msgstr "針對以下內容類型:"
+
+#: toc.php:1684
+msgid "Show the table of contents only in the sidebar"
+msgstr "僅在側邊欄中顯示文章目錄"
+
+#: toc.php:1584
+msgid "Display the table of contents in the sidebar with this widget"
+msgstr "在側邊欄小工具中顯示文章目錄"
+
+#: toc.php:1078
+msgid "Update Options"
+msgstr "儲存變更"
+
+#: toc.php:1069
+msgid "Uses h6 to display %s on a page listing excluding pages with IDs 1 and 15"
+msgstr "在一個排除頁面 ID 為 1 和 15 的頁面列表上使用 h6 標題顯示 %s"
+
+#: toc.php:1068
+msgid "hides the heading from a category listing"
+msgstr "從分類清單中隱藏標題"
+
+#: toc.php:1066
+msgid "Examples"
+msgstr "範例"
+
+#: toc.php:1065
+msgid "lets you print out a listing of only pages. Similarly %s can be used to print out a category listing. They both can accept a number of attributes so visit the help tab for more information."
+msgstr "用於僅輸出頁面清單。類似的 %s 用於輸出分類清單。兩者都具有多重屬性，請參考 [使用說明] 標籤頁以獲得更多資訊。"
+
+#: toc.php:1063
+msgid "Advanced usage"
+msgstr "進階使用方式"
+
+#: toc.php:1057
+msgid "Eg: Categories, Category List"
+msgstr "例如: 分類、分類清單"
+
+#: toc.php:1055
+msgid "Categories label"
+msgstr "分類標籤"
+
+#: toc.php:1051
+msgid "Eg: Pages, Page List"
+msgstr "例如: 頁面、頁面清單"
+
+#: toc.php:1049
+msgid "Pages label"
+msgstr "頁面標籤"
+
+#. translators: the full line is supposed to read - Use [h1-h6 drop down list]
+#. to print out the titles
+#: toc.php:1045
+msgid "to print out the titles"
+msgstr "輸出標題"
+
+#. translators: the full line is supposed to read - Use [1-6 drop down list] to
+#. print out the titles
+#: toc.php:1034
+msgid "Use"
+msgstr "使用"
+
+#: toc.php:1031
+msgid "Heading type"
+msgstr "標題類型"
+
+#: toc.php:1027
+msgid "Show category listing"
+msgstr "顯示分類清單"
+
+#: toc.php:1023
+msgid "Show page listing"
+msgstr "顯示頁面清單"
+
+#: toc.php:1019
+msgid "At its simplest, placing %s into a page will automatically create a sitemap of all pages and categories. This also works in a text widget."
+msgstr "將 %s 放在一個空白頁面中，是自動產生包含所有頁面和目錄的網站地圖頁面最簡單的方法。這個短代碼在 [文字] 小工具中一樣有效。"
+
+#: toc.php:1011
+msgid "If you would like to fully customise the position of the table of contents, you can use the %s shortcode by placing it at the desired position of your post, page or custom post type. This method allows you to generate the table of contents despite having auto insertion disabled for its content type. Please visit the help tab for further information about this shortcode."
+msgstr "如果你想完全自訂目錄在頁面中出現的位置，可以將短代碼 %s 放在文章、頁面或自訂文章類型中指定的位置。使用短代碼允許你在禁用自動插入的內容類型中，手動插入目錄。請點擊 [使用說明] 標籤頁以取得使用短代碼相關說明。"
+
+#. translators: advanced usage
+#: toc.php:1010
+msgid "Usage"
+msgstr "使用方式"
+
+#. translators: example anchor prefixes when no ascii characters match
+#: toc.php:1002
+msgid "Eg: i, toc_index, index, _"
+msgstr "例如: <code>i</code>、<code>toc_index</code>、<code>index</code>、<code>_</code>"
+
+#: toc.php:999
+msgid "This option normally applies to content written in character sets other than ASCII."
+msgstr "此選項僅適用於以非 ASCII 字元撰寫的內容。"
+
+#: toc.php:998
+msgid "Anchor targets are restricted to alphanumeric characters as per HTML specification (see readme for more detail). The default anchor prefix will be used when no characters qualify. When left blank, a number will be used instead."
+msgstr "因應 HTML 規範，錨點目標只能使用數字或英文字母 (參閱 Readme 以瞭解更多)。如果標題中不包含字母將使用預設錨點前綴，設定欄位留空則使用數字作為錨點前綴。"
+
+#: toc.php:995
+msgid "Default anchor prefix"
+msgstr "預設錨點前綴"
+
+#. translators: example URL path restriction
+#: toc.php:991
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr "例如: /wiki/、/corporate/annual-reports/"
+
+#: toc.php:988
+msgid "Restrict generation of the table of contents to pages that match the required path. This path is from the root of your site and always begins with a forward slash."
+msgstr "只有符合指定路徑的頁面，才能產生目錄；此路徑從網站根目錄開始，且必須以斜線 <code>/</code> 開始。"
+
+#: toc.php:985
+msgid "Restrict path"
+msgstr "限制路徑"
+
+#: toc.php:981
+msgid "If you have a consistent menu across the top of your site, you can adjust the top offset to stop the headings from appearing underneath the top menu. A setting of 30 accommodates the WordPress admin bar. This setting appears after you have enabled smooth scrolling from above."
+msgstr "如果網站最上方有固定選單，可以調整最上端偏移量防止標題顯示黏附於選單下面。建議值 30 可容納 WordPress 管理選單。在上方啟用平滑捲動後，才會出現這項設定。"
+
+#: toc.php:978
+msgid "Smooth scroll top offset"
+msgstr "平滑捲動時的最上方偏移量"
+
+#: toc.php:973
+msgid "<code>Apple Tree|Oranges|Yellow Bananas</code> ignore headings that are exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\""
+msgstr "<code>蘋果樹|橘子|香蕉</code> 目錄會忽略與「蘋果樹」、「橘子」或「香蕉」完全相符的標題"
+
+#: toc.php:972
+msgid "<code>*Fruit Diet*</code> ignore headings with \"Fruit Diet\" somewhere in the heading"
+msgstr "<code>*水果飲食*</code> 目錄會忽略文字中包含「水果飲食」的標題"
+
+#: toc.php:971
+msgid "<code>Fruit*</code> ignore headings starting with \"Fruit\""
+msgstr "<code>水果*</code> 目錄會忽略以「水果」開頭的標題"
+
+#: toc.php:969
+msgid "Specify headings to be excluded from appearing in the table of contents.  Separate multiple headings with a pipe <code>|</code>.  Use an asterisk <code>*</code> as a wildcard to match other text.  Note that this is not case sensitive. Some examples:"
+msgstr "指定在文章目錄中要排除的標題。使用豎線 <code>|</code> 分隔多個標題。使用星號 <code>*</code> 作為萬用字元以符合更多標題文字。此功能不區分大小寫。舉例如下:"
+
+#: toc.php:966
+msgid "Exclude headings"
+msgstr "排除的標題"
+
+#: toc.php:960
+msgid "heading "
+msgstr "標題 "
+
+#: toc.php:954
+msgid "Include the following heading levels. Deselecting a heading will exclude it."
+msgstr "包含以下選取的標題層級。未選取的標題層級不會在目錄中出現。"
+
+#: toc.php:952
+msgid "Heading levels"
+msgstr "標題層級"
+
+#: toc.php:949
+msgid "If your theme includes background images for unordered list elements, enable this to support them"
+msgstr "如果你使用的佈景主題是以圖片呈現項目符號，核取這個選項可以保留佈景主題的原始呈現方式。"
+
+#: toc.php:948
+msgid "Preserve theme bullets"
+msgstr "保留佈景主題項目符號"
+
+#: toc.php:945
+msgid "Prevent the loading of this plugin's CSS styles. When selected, the appearance options from above will also be ignored."
+msgstr "防止載入本外掛的 CSS 樣式。核取選項後，上方的 [目錄外觀] 中的設定均不會生效。"
+
+#: toc.php:944
+msgid "Exclude CSS file"
+msgstr "排除 CSS 檔案"
+
+#: toc.php:941
+msgid "Show the table of contents for qualifying items on the homepage"
+msgstr "在首頁中將符合的項目顯示為目錄"
+
+#: toc.php:940
+msgid "Include homepage"
+msgstr "包含首頁"
+
+#: toc.php:937
+msgid "Use - rather than _ in anchors"
+msgstr "在錨點中使用連字號 <code>-</code> 而非底線 <code>_</code>"
+
+#: toc.php:936
+msgid "Hyphenate"
+msgstr "連字號"
+
+#: toc.php:933
+msgid "Ensure anchors are in lowercase"
+msgstr "確保錨點為小寫"
+
+#: toc.php:932
+msgid "Lowercase"
+msgstr "小寫"
+
+#: toc.php:928
+msgid "Power options"
+msgstr "加強選項"
+
+#: toc.php:926 toc.php:1063
+msgid "show"
+msgstr "顯示"
+
+#: toc.php:926
+msgid "Advanced"
+msgstr "進階設定"
+
+#: toc.php:919
+msgid "Leaving the value as %s will inherit your theme's styles"
+msgstr "使用 %s 就會繼承你目前使用的佈景主題的樣式設定"
+
+#: toc.php:912
+msgid "Links (visited)"
+msgstr "連結顏色 (已點擊)"
+
+#: toc.php:908
+msgid "Links (hover)"
+msgstr "連結顏色 (游標停駐)"
+
+#: toc.php:904
+msgid "Links"
+msgstr "連結顏色"
+
+#: toc.php:900 toc.php:1678
+msgid "Title"
+msgstr "標題顏色"
+
+#: toc.php:896
+msgid "Border"
+msgstr "框線顏色"
+
+#: toc.php:892
+msgid "Background"
+msgstr "背景顏色"
+
+#: toc.php:882
+msgid "Custom"
+msgstr "自訂"
+
+#: toc.php:877
+msgid "Transparent"
+msgstr "透明"
+
+#: toc.php:872
+msgid "Black"
+msgstr "黑色"
+
+#: toc.php:867
+msgid "White"
+msgstr "白色"
+
+#: toc.php:862
+msgid "Light blue"
+msgstr "淡藍色"
+
+#: toc.php:857
+msgid "Grey (default)"
+msgstr "灰色 (預設)"
+
+#. translators: appearance / colour / look and feel options
+#: toc.php:854
+msgid "Presentation"
+msgstr "目錄呈現方式"
+
+#: toc.php:841
+msgid "Font size"
+msgstr "字體大小"
+
+#: toc.php:836
+msgid "Right"
+msgstr "靠右"
+
+#: toc.php:835
+msgid "Left"
+msgstr "靠左"
+
+#: toc.php:834
+msgid "None (default)"
+msgstr "無 (預設)"
+
+#: toc.php:831
+msgid "Wrapping"
+msgstr "目錄對齊內文方式"
+
+#. translators: ignore %s as it's some HTML label tags
+#: toc.php:820
+msgid "Please enter a number and %s select its units, eg: 100px, 10em"
+msgstr "請輸入數字並%s選取寬度單位，例如: 100px、75&#37; 或 10em"
+
+#: toc.php:814
+msgid "User defined"
+msgstr "使用者自訂"
+
+#. translators: other width
+#: toc.php:813
+msgid "Other"
+msgstr "其他設定"
+
+#: toc.php:803
+msgid "Auto (default)"
+msgstr "自動 (預設)"
+
+#: toc.php:802
+msgid "Relative"
+msgstr "相對寬度"
+
+#: toc.php:791
+msgid "Fixed width"
+msgstr "固定寬度"
+
+#: toc.php:788
+msgid "Width"
+msgstr "寬度"
+
+#: toc.php:784
+msgid "Appearance"
+msgstr "目錄外觀"
+
+#: toc.php:779
+msgid "Scroll rather than jump to the anchor link"
+msgstr "採用平滑捲動到相應錨點位置而非採用跳轉方式"
+
+#: toc.php:778
+msgid "Enable smooth scroll effect"
+msgstr "啟用平滑捲動效果"
+
+#: toc.php:774
+msgid "Number list items"
+msgstr "顯示目錄編號"
+
+#: toc.php:770
+msgid "Show hierarchy"
+msgstr "顯示目錄層級"
+
+#: toc.php:764
+msgid "Hide the table of contents initially"
+msgstr "預設隱藏目錄"
+
+#. translators: example text to display when you want to collapse the table of
+#. contents
+#: toc.php:760
+msgid "Eg: hide"
+msgstr "例如: 隱藏"
+
+#: toc.php:756
+msgid "Hide text"
+msgstr "隱藏目錄提示文字"
+
+#. translators: example text to display when you want to expand the table of
+#. contents
+#: toc.php:753
+msgid "Eg: show"
+msgstr "例如: 顯示"
+
+#: toc.php:749
+msgid "Show text"
+msgstr "顯示目錄提示文字"
+
+#: toc.php:744
+msgid "Allow the user to toggle the visibility of the table of contents"
+msgstr "允許使用者切換是否顯示目錄"
+
+#: toc.php:742
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "例如: 內容、目錄、頁面內容"
+
+#: toc.php:739
+msgid "Show title on top of the table of contents"
+msgstr "在目錄最上方顯示標題"
+
+#. translators: this is the title of the table of contents
+#: toc.php:737
+msgid "Heading text"
+msgstr "目錄標題文字"
+
+#: toc.php:722
+msgid "Auto insert for the following content types"
+msgstr "為以下內容類型自動插入目錄"
+
+#. translators: text follows drop down list of numbers
+#: toc.php:718
+msgid "or more headings are present"
+msgstr "個 (含) 以上的標題在內文中出現時"
+
+#: toc.php:706
+msgid "Show when"
+msgstr "顯示條件"
+
+#: toc.php:701
+msgid "Bottom"
+msgstr "內文最下方"
+
+#: toc.php:700
+msgid "Top"
+msgstr "內文最上方"
+
+#: toc.php:699
+msgid "After first heading"
+msgstr "內文第一個標題後"
+
+#: toc.php:698
+msgid "Before first heading (default)"
+msgstr "內文第一個標題前 (預設)"
+
+#: toc.php:695
+msgid "Position"
+msgstr "顯示位置"
+
+#: toc.php:687
+msgid "Help"
+msgstr "使用說明"
+
+#: toc.php:686
+msgid "Sitemap"
+msgstr "網站地圖"
+
+#: toc.php:685
+msgid "Main Options"
+msgstr "主要選項"
+
+#: toc.php:673
+msgid "Save failed."
+msgstr "儲存失敗。"
+
+#: toc.php:671
+msgid "Options saved."
+msgstr "設定已儲存。"
+
+#: toc.php:500 toc.php:501
+msgid "TOC"
+msgstr "TOC"
+
+#: toc.php:221
+msgid "Settings"
+msgstr "設定"

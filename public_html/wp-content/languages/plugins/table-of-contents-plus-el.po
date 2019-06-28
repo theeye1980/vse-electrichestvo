@@ -1,0 +1,472 @@
+# Translation of Plugins - Table of Contents Plus - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Table of Contents Plus - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-30 07:59:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Table of Contents Plus - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://dublue.com/"
+msgstr "http://dublue.com/"
+
+#. Author of the plugin/theme
+msgid "Michael Tran"
+msgstr "Michael Tran"
+
+#. Description of the plugin/theme
+msgid "A powerful yet user friendly plugin that automatically creates a table of contents. Can also output a sitemap listing all pages and categories."
+msgstr "Ένα ισχυρό και ταυτόχρονα φιλικό προς το χρήστη πρόσθετο που δημιουργεί αυτόματα έναν πίνακα περιεχομένων. Μπορεί επίσης να εμφανίσει ένα χάρτη ιστοτόπου σε λίστα με όλες τις σελίδες και κατηγορίες."
+
+#. Plugin URI of the plugin/theme
+msgid "http://dublue.com/plugins/toc/"
+msgstr "http://dublue.com/plugins/toc/"
+
+#. Plugin Name of the plugin/theme
+msgid "Table of Contents Plus"
+msgstr "Table of Contents Plus"
+
+#: toc.php:1688
+msgid "For the following content types:"
+msgstr "Για τους ακόλουθους τύπους περιεχομένου"
+
+#: toc.php:1684
+msgid "Show the table of contents only in the sidebar"
+msgstr "Εμφάνιση του πίνακα περιεχομένων μόνο στη πλευρική στήλη"
+
+#: toc.php:1584
+msgid "Display the table of contents in the sidebar with this widget"
+msgstr "Εμφάνιση του πίνακα περιεχομένων στη πλευρική στήλη με αυτή μικροεφαρμογή"
+
+#: toc.php:1078
+msgid "Update Options"
+msgstr "Ενημέρωση Επιλογών"
+
+#: toc.php:1069
+msgid "Uses h6 to display %s on a page listing excluding pages with IDs 1 and 15"
+msgstr "Χρησιμοποιεί h6 για την προβολή %s μιας σελίδα λίστας εξαιρώντας σελίδες με IDs 1 και 15"
+
+#: toc.php:1068
+msgid "hides the heading from a category listing"
+msgstr "κρύβει την επικεφαλίδα από μια λίστα κατηγοριών"
+
+#: toc.php:1066
+msgid "Examples"
+msgstr "Παραδείγματα"
+
+#: toc.php:1065
+msgid "lets you print out a listing of only pages. Similarly %s can be used to print out a category listing. They both can accept a number of attributes so visit the help tab for more information."
+msgstr "Σας επιτρέπει να εμφανίσετε μια λίστα μόνο με σελίδες. Παρομοίως %s μπορεί να χρησιμοποιηθεί για την εμφάνιση μιας λίστας κατηγοριών, Και τα δύο δέχονται έναν αριθμό παραμέτρων γιαυτό επισκεφθείτε την καρτέλα βοηθείας για περισσότερες πληροφορίες."
+
+#: toc.php:1063
+msgid "Advanced usage"
+msgstr "Χρήση για προχωρημένους"
+
+#: toc.php:1057
+msgid "Eg: Categories, Category List"
+msgstr "πχ: Κατηγορίες, Λίστα Κατηγοριών"
+
+#: toc.php:1055
+msgid "Categories label"
+msgstr "Ετικέτα κατηγοριών"
+
+#: toc.php:1051
+msgid "Eg: Pages, Page List"
+msgstr "πχ: Σελίδες, Λίστα Σελίδων"
+
+#: toc.php:1049
+msgid "Pages label"
+msgstr "Ετικέτα σελίδων"
+
+#. translators: the full line is supposed to read - Use [h1-h6 drop down list]
+#. to print out the titles
+#: toc.php:1045
+msgid "to print out the titles"
+msgstr "για την εμφάνιση των τίτλων"
+
+#. translators: the full line is supposed to read - Use [1-6 drop down list] to
+#. print out the titles
+#: toc.php:1034
+msgid "Use"
+msgstr "Χρησιμοποιήστε"
+
+#: toc.php:1031
+msgid "Heading type"
+msgstr "Τύπος Κεφαλίδας"
+
+#: toc.php:1027
+msgid "Show category listing"
+msgstr "Εμφάνιση λίστας κατηγοριών"
+
+#: toc.php:1023
+msgid "Show page listing"
+msgstr "Εμφάνιση λίστας σελίδων"
+
+#: toc.php:1019
+msgid "At its simplest, placing %s into a page will automatically create a sitemap of all pages and categories. This also works in a text widget."
+msgstr "Στην πιο απλή περίπτωση, τοποθετώντας %s σε μια σελίδα θα δημιουργήσει αυτόματα έναν χάρτη ιστοτόπου με όλες τις σελίδες και κατηγορίες. Αυτό δουλεύει επίσης και σε μικροεφαρμογή κειμένου."
+
+#: toc.php:1011
+msgid "If you would like to fully customise the position of the table of contents, you can use the %s shortcode by placing it at the desired position of your post, page or custom post type. This method allows you to generate the table of contents despite having auto insertion disabled for its content type. Please visit the help tab for further information about this shortcode."
+msgstr "Αν θέλετε να παραμετροποιήσετε πλήρως την θέση του πίνακα περιεχομένων, μπορείτε να χρησιμοποιήσετε το %s shortcode τοποθετώντας το στην επιθυμητή θέση του άρθρου σας, σελίδας ή προσαρμοσμένου άρθρου. Αυτή η μέθοδος σας επιτρέπει να δημιουργήσετε τον πίνακα περιεχομένων ακόμα και αν έχετε την αυτόματη εισαγωγή ανενεργή για τον συγκεκριμένο τύπο περιεχομένου. Παρακαλώ, επισκεφθείτε την καρτέλα βοηθείας για περαιτέρω πληροφορίες σχετικά με αυτό τον shortcode."
+
+#. translators: advanced usage
+#: toc.php:1010
+msgid "Usage"
+msgstr "Χρήση"
+
+#. translators: example anchor prefixes when no ascii characters match
+#: toc.php:1002
+msgid "Eg: i, toc_index, index, _"
+msgstr "πχ: i, toc_index, index, _"
+
+#: toc.php:999
+msgid "This option normally applies to content written in character sets other than ASCII."
+msgstr "Η επιλογή αυτή ισχύει κατά κανόνα για περιεχόμενο γραμμένο σε σετ χαρακτήρων άλλων εκτός ASCII."
+
+#: toc.php:998
+msgid "Anchor targets are restricted to alphanumeric characters as per HTML specification (see readme for more detail). The default anchor prefix will be used when no characters qualify. When left blank, a number will be used instead."
+msgstr "Οι στόχοι αγκύρωσης περιορίζονται σε αλφαριθμητικούς χαρακτήρες σύμφωνα με τις προδιαγραφές HTML (δείτε το readme για περισσότερες λεπτομέρειες). Το προεπιλεγμένο πρόθεμα αγκύρωσης θα χρησιμοποιηθεί όταν κανένας χαρακτήρας δεν προκρίνεται. Όταν αφεθεί κενό, θα χρησιμοποιηθεί ένας αριθμός."
+
+#: toc.php:995
+msgid "Default anchor prefix"
+msgstr "Προεπιλεγμένο πρόθεμα αγκύρωσης"
+
+#. translators: example URL path restriction
+#: toc.php:991
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr "πχ: /wiki/, /corporate/annual-reports/"
+
+#: toc.php:988
+msgid "Restrict generation of the table of contents to pages that match the required path. This path is from the root of your site and always begins with a forward slash."
+msgstr "Περιορισμός δημιουργίας του πίνακα περιεχομένων σε σελίδες που ταιριάζουν με την απαιτούμενη διαδρομή. Αυτή η διαδρομή είναι από τον ριζικό κατάλογο του ιστότοπού σας και αρχίζει πάντα με αριστερόστροφη κάθετο."
+
+#: toc.php:985
+msgid "Restrict path"
+msgstr "Περιορισμός διαδρομής"
+
+#: toc.php:981
+msgid "If you have a consistent menu across the top of your site, you can adjust the top offset to stop the headings from appearing underneath the top menu. A setting of 30 accommodates the WordPress admin bar. This setting appears after you have enabled smooth scrolling from above."
+msgstr "Αν έχετε ένα σταθερό μενού στην κορυφή του ιστότοπού σας, μπορείτε να ρυθμίσετε την αντιστάθμιση κορυφής για να σταματήστε τις επικεφαλίδες από το να εμφανίζονται κάτω από το μενού. Μια ρύθμιση των 30 είναι αρκετή για την μπάρα διαχείρισης του WordPress. Αυτή η ρύθμιση εμφανίζεται αφότου έχετε ενεργοποιήσει την ομαλή κύλιση από παραπάνω."
+
+#: toc.php:978
+msgid "Smooth scroll top offset"
+msgstr "Αντιστάθμιση ομαλής κύλισης κορυφής"
+
+#: toc.php:973
+msgid "<code>Apple Tree|Oranges|Yellow Bananas</code> ignore headings that are exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\""
+msgstr "<code>Μηλιά|Πορτοκάλια|Κίτρινες Μπανάνες</code> αγνοεί τις επικεφαλίδες που είναι ακριβώς \"Μηλιά\", \"Πορτοκάλια\" ή \"Κίτρινες Μπανάνες\""
+
+#: toc.php:972
+msgid "<code>*Fruit Diet*</code> ignore headings with \"Fruit Diet\" somewhere in the heading"
+msgstr "<code>*Δίαιτα Φρούτων*</code> αγνοεί τις επικεφαλίδες με \"Δίαιτα Φρούτων\" οπουδήποτε στην επικεφαλίδα"
+
+#: toc.php:971
+msgid "<code>Fruit*</code> ignore headings starting with \"Fruit\""
+msgstr "<code>Φρούτο*</code> αγνοεί τις επικεφαλίδες που ξεκινούν με \"Φρούτο\""
+
+#: toc.php:969
+msgid "Specify headings to be excluded from appearing in the table of contents.  Separate multiple headings with a pipe <code>|</code>.  Use an asterisk <code>*</code> as a wildcard to match other text.  Note that this is not case sensitive. Some examples:"
+msgstr "Καθορίστε επικεφαλίδες για να εξαιρεθούν από το να εμφανίζονται στον πίνακα περιεχομένων. Διαχωρίστε τις επικεφαλίδες με <code>|</code> . Χρησιμοποιήστε έναν αστερίσκο <code>*</code> ως μπαλαντέρ για να ταιριάζει με το υπόλοιπο κείμενο. Σημειώστε ότι αυτό δεν είναι ευαίσθητο στη διάκριση πεζών. Μερικά παραδείγματα: "
+
+#: toc.php:966
+msgid "Exclude headings"
+msgstr "Εξαίρεση επικεφαλίδων"
+
+#: toc.php:960
+msgid "heading "
+msgstr "επικεφαλίδα"
+
+#: toc.php:954
+msgid "Include the following heading levels. Deselecting a heading will exclude it."
+msgstr "Περίληψη των ακόλουθων επιπέδων επικεφαλίδας. Αποεπιλογή μιας επικεφαλίδας θα την εξαιρέσει."
+
+#: toc.php:952
+msgid "Heading levels"
+msgstr "Επίπεδα επικεφαλίδων"
+
+#: toc.php:949
+msgid "If your theme includes background images for unordered list elements, enable this to support them"
+msgstr "Αν το θέμα σας περιλαμβάνει εικόνες φόντου για στοιχεία λίστας με κουκκίδων , ενεργοποιήστε αυτό για να τις υποστηρίξετε."
+
+#: toc.php:948
+msgid "Preserve theme bullets"
+msgstr "Διατήρηση των κουκκίδων του θέματος"
+
+#: toc.php:945
+msgid "Prevent the loading of this plugin's CSS styles. When selected, the appearance options from above will also be ignored."
+msgstr "Αποτροπή της φόρτωσης των στυλ CSS αυτού του προσθέτου. Όταν επιλεγεί, οι επιλογές εμφάνισης από παραπάνω θα αγνοηθούν επίσης."
+
+#: toc.php:944
+msgid "Exclude CSS file"
+msgstr "Εξαίρεση αρχείου CSS"
+
+#: toc.php:941
+msgid "Show the table of contents for qualifying items on the homepage"
+msgstr "Εμφάνιση πίνακα περιεχομένων για αντικείμενα που πληρούν τις προϋποθέσεις στη αρχική σελίδα"
+
+#: toc.php:940
+msgid "Include homepage"
+msgstr "Να περιλαμβάνεται η αρχική σελίδα"
+
+#: toc.php:937
+msgid "Use - rather than _ in anchors"
+msgstr "Χρησιμοποιήστε - αντί για _ στις αγκυρώσεις"
+
+#: toc.php:936
+msgid "Hyphenate"
+msgstr "Χωρισμός με παύλα"
+
+#: toc.php:933
+msgid "Ensure anchors are in lowercase"
+msgstr "Εξασφαλίστε ότι οι αγκυρώσεις είναι με πεζά"
+
+#: toc.php:932
+msgid "Lowercase"
+msgstr "Πεζά"
+
+#: toc.php:928
+msgid "Power options"
+msgstr "Δυναμικές Επιλογές"
+
+#: toc.php:926 toc.php:1063
+msgid "show"
+msgstr "εμφάνιση"
+
+#: toc.php:926
+msgid "Advanced"
+msgstr "Για Προχωρημένους"
+
+#: toc.php:919
+msgid "Leaving the value as %s will inherit your theme's styles"
+msgstr "Αφήνοντας την τιμή ως %s θα κληρονομήσει τα στυλ του θέματός σας"
+
+#: toc.php:912
+msgid "Links (visited)"
+msgstr "Σύνδεσμοι (επισκέφθηκαν)"
+
+#: toc.php:908
+msgid "Links (hover)"
+msgstr "Σύνδεσμοι (hover)"
+
+#: toc.php:904
+msgid "Links"
+msgstr "Σύνδεσμοι"
+
+#: toc.php:900 toc.php:1678
+msgid "Title"
+msgstr "Τίτλος"
+
+#: toc.php:896
+msgid "Border"
+msgstr "Όρια"
+
+#: toc.php:892
+msgid "Background"
+msgstr "Φόντο"
+
+#: toc.php:882
+msgid "Custom"
+msgstr "Προσαρμοσμένο"
+
+#: toc.php:877
+msgid "Transparent"
+msgstr "Διάφανο"
+
+#: toc.php:872
+msgid "Black"
+msgstr "Μαύρο"
+
+#: toc.php:867
+msgid "White"
+msgstr "ασπρο"
+
+#: toc.php:862
+msgid "Light blue"
+msgstr "Ανοιχτό μπλε"
+
+#: toc.php:857
+msgid "Grey (default)"
+msgstr "Γκρι (προεπιλογή)"
+
+#. translators: appearance / colour / look and feel options
+#: toc.php:854
+msgid "Presentation"
+msgstr "Παρουσίαση"
+
+#: toc.php:841
+msgid "Font size"
+msgstr "Μέγεθος γραμματοσειράς"
+
+#: toc.php:836
+msgid "Right"
+msgstr "Δεξιά"
+
+#: toc.php:835
+msgid "Left"
+msgstr "Αριστερά"
+
+#: toc.php:834
+msgid "None (default)"
+msgstr "Κανένα (προεπιλογή)"
+
+#: toc.php:831
+msgid "Wrapping"
+msgstr "Περιτύλιγμα"
+
+#. translators: ignore %s as it's some HTML label tags
+#: toc.php:820
+msgid "Please enter a number and %s select its units, eg: 100px, 10em"
+msgstr "Παρακαλώ εισάγετε ένα αριθμό και %s και επιλέξτε τις μονάδες του, πχ: 100px, 10em"
+
+#: toc.php:814
+msgid "User defined"
+msgstr "Ορίζεται από το Χρήστη"
+
+#. translators: other width
+#: toc.php:813
+msgid "Other"
+msgstr "Άλλο"
+
+#: toc.php:803
+msgid "Auto (default)"
+msgstr "Αυτόματα (προεπιλογή)"
+
+#: toc.php:802
+msgid "Relative"
+msgstr "Σχετικό"
+
+#: toc.php:791
+msgid "Fixed width"
+msgstr "Καθορισμένο πλάτος"
+
+#: toc.php:788
+msgid "Width"
+msgstr "Πλάτος"
+
+#: toc.php:784
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: toc.php:779
+msgid "Scroll rather than jump to the anchor link"
+msgstr "Κύλιση αντί για πήδημα στο σύνδεσμο αγκύρωσης "
+
+#: toc.php:778
+msgid "Enable smooth scroll effect"
+msgstr "Ενεργοποίηση εφέ ομαλής κύλισης"
+
+#: toc.php:774
+msgid "Number list items"
+msgstr "Αρίθμηση λίστας αντικειμένων"
+
+#: toc.php:770
+msgid "Show hierarchy"
+msgstr "Εμφάνιση ιεραρχίας"
+
+#: toc.php:764
+msgid "Hide the table of contents initially"
+msgstr "Απόκρυψη του πίνακα περιεχομένων αρχικά"
+
+#. translators: example text to display when you want to collapse the table of
+#. contents
+#: toc.php:760
+msgid "Eg: hide"
+msgstr "πχ: απόκρυψη"
+
+#: toc.php:756
+msgid "Hide text"
+msgstr "Απόκρυψη κειμένου"
+
+#. translators: example text to display when you want to expand the table of
+#. contents
+#: toc.php:753
+msgid "Eg: show"
+msgstr "πχ: εμφάνιση"
+
+#: toc.php:749
+msgid "Show text"
+msgstr "Εμφάνιση κειμένου"
+
+#: toc.php:744
+msgid "Allow the user to toggle the visibility of the table of contents"
+msgstr "Επιτρέψτε στον χρήστη να εναλλάσσει την ορατότητα του πίνακα περιεχομένων"
+
+#: toc.php:742
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "πχ: Περιεχόμενα, Πίνακας Περιεχομένων, Περιεχόμενα Σελίδας"
+
+#: toc.php:739
+msgid "Show title on top of the table of contents"
+msgstr "Εμφάνιση τίτλου στην κορυφή του πίνακα περιεχομένων"
+
+#. translators: this is the title of the table of contents
+#: toc.php:737
+msgid "Heading text"
+msgstr "Κείμενο Κεφαλίδας"
+
+#: toc.php:722
+msgid "Auto insert for the following content types"
+msgstr "Αυτόματη εισαγωγή για τους ακόλουθους τύπους περιεχομένου"
+
+#. translators: text follows drop down list of numbers
+#: toc.php:718
+msgid "or more headings are present"
+msgstr "ή περισσότερες επικεφαλίδες είναι παρούσες"
+
+#: toc.php:706
+msgid "Show when"
+msgstr "Εμφάνιση όταν"
+
+#: toc.php:701
+msgid "Bottom"
+msgstr "Κάτω"
+
+#: toc.php:700
+msgid "Top"
+msgstr "Κορυφή"
+
+#: toc.php:699
+msgid "After first heading"
+msgstr "Μετά την πρώτη επικεφαλίδα"
+
+#: toc.php:698
+msgid "Before first heading (default)"
+msgstr "Πριν την πρώτη επικεφαλίδα (προεπιλογή)"
+
+#: toc.php:695
+msgid "Position"
+msgstr "Θέση"
+
+#: toc.php:687
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: toc.php:686
+msgid "Sitemap"
+msgstr "Χάρτης Ιστότοπου"
+
+#: toc.php:685
+msgid "Main Options"
+msgstr "Βασικές Επιλογές"
+
+#: toc.php:673
+msgid "Save failed."
+msgstr "Η αποθήκευση απέτυχε."
+
+#: toc.php:671
+msgid "Options saved."
+msgstr "Οι επιλογές αποθηκεύτηκαν."
+
+#: toc.php:500 toc.php:501
+msgid "TOC"
+msgstr "TOC"
+
+#: toc.php:221
+msgid "Settings"
+msgstr "Ρυθμίσεις"

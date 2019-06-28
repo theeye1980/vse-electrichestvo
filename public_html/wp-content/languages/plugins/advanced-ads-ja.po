@@ -1,0 +1,2870 @@
+# Translation of Plugins - Advanced Ads - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Advanced Ads - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-17 21:22:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Advanced Ads - Stable (latest release)\n"
+
+#: modules/gadsense/admin/admin.php:204
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:23
+msgid "Get a free AdSense account"
+msgstr "無料の AdSense 広告を取得"
+
+#: modules/gadsense/admin/admin.php:158
+msgid "Verification code & Auto ads"
+msgstr "認証コードと自動広告"
+
+#: classes/ad_type_plain.php:106
+msgid "Execute shortcodes"
+msgstr "ショートコードを実行"
+
+#: classes/ad_type_plain.php:103
+msgid "Allow shortcodes"
+msgstr "ショートコードを許可"
+
+#: modules/gadsense/admin/admin.php:54
+msgid "Activate"
+msgstr "有効化"
+
+#: admin/includes/class-settings.php:450
+msgid "Read this first"
+msgstr "まずお読みください"
+
+#: admin/includes/class-settings.php:451
+msgid "Hide ads from crawlers, bots and empty user agents."
+msgstr "クローラー、ボット、ユーザーエージェントが空のユーザーに広告を非表示"
+
+#: admin/includes/class-overview-widgets.php:427
+msgid "Get full access"
+msgstr "フルアクセスを取得"
+
+#: admin/includes/class-overview-widgets.php:425
+msgid "Our best deal with all add-ons included."
+msgstr "すべてのアドオンが含まれた一番お得なプランです。"
+
+#: admin/includes/class-overview-widgets.php:104
+msgid "Get the All Access pass"
+msgstr "オールアクセスパスを取得"
+
+#: admin/views/pitch-bundle.php:1
+msgid "All Access – with all available add-ons"
+msgstr "オールアクセス - 利用可能なアドオンすべてを含む"
+
+#: admin/includes/notices.php:54
+msgid "Ask me later"
+msgstr "またあとで尋ねる"
+
+#: admin/includes/notices.php:53
+msgid "I am not happy, please help"
+msgstr "満足していません。助けが必要です。"
+
+#: admin/includes/class-overview-widgets.php:94 admin/includes/notices.php:52
+msgid "I already did"
+msgstr "すでにやりました"
+
+#: admin/includes/class-overview-widgets.php:92 admin/includes/notices.php:51
+msgid "Sure, I’ll rate the plugin"
+msgstr "はい、プラグインを評価します"
+
+#: vendor/yoast/i18n-module/src/i18n-module.php:272
+msgid "Translation of %s"
+msgstr "%s の翻訳"
+
+#: vendor/yoast/i18n-module/src/i18n-module.php:237
+msgid "Register now &raquo;"
+msgstr "今すぐ登録 &raquo;"
+
+#: admin/views/pitch-pro-tab.php:6
+msgid "Lazy Loading"
+msgstr "レイジーロード"
+
+#: admin/views/pitch-pro-tab.php:5
+msgid "Click Fraud Protection"
+msgstr "クリック詐欺防止"
+
+#: admin/views/pitch-pro-tab.php:4
+msgid "Ads for Ad Blockers"
+msgstr "アドブロッカー向け広告"
+
+#: admin/views/pitch-bundle.php:13
+msgid "Get the Pro Bundle"
+msgstr "プロバンドルを取得"
+
+#: admin/views/pitch-pro-tab.php:13 admin/views/pitch-tracking.php:10
+msgid "See all features and pricing"
+msgstr "すべての機能と価格を表示"
+
+#: admin/views/pitch-tracking.php:6
+msgid "share reports via link or email"
+msgstr "リンクまたはメールでレポートを共有"
+
+#: admin/views/pitch-tracking.php:5
+msgid "compare ads and periods"
+msgstr "広告と期間を比較"
+
+#: admin/views/placement-injection-top.php:28
+msgid "AdSense In-feed"
+msgstr "AdSense フィード内"
+
+#: admin/views/ad-visitor-metabox.php:8
+msgid "cookie"
+msgstr "Cookie"
+
+#: admin/views/ad-visitor-metabox.php:7
+msgid "browser language"
+msgstr "ブラウザー言語"
+
+#: admin/views/ad-display-metabox.php:100 admin/views/ad-visitor-metabox.php:86
+msgid "Add-On features"
+msgstr "アドオン機能"
+
+#: admin/views/ad-display-metabox.php:13
+msgid "accelerated mobile pages"
+msgstr "AMP"
+
+#: admin/views/ad-display-metabox.php:10
+msgid "url parameters"
+msgstr "URL 変数"
+
+#: admin/views/ad-display-metabox.php:9
+msgid "page template"
+msgstr "ページテンプレート"
+
+#: admin/views/ad-display-metabox.php:8
+msgid "post meta"
+msgstr "投稿メタ"
+
+#: admin/views/ad-display-metabox.php:7
+msgid "parent page"
+msgstr "親ページ"
+
+#: admin/includes/class-settings.php:298
+msgid "Are you missing something?"
+msgstr "何か足りませんか ?"
+
+#: admin/includes/class-settings.php:264 admin/views/pitch-tracking.php:2
+msgid "Tracking"
+msgstr "トラッキング"
+
+#: admin/includes/class-settings.php:248
+msgid "Pro"
+msgstr "プロ"
+
+#: admin/views/ad-visitor-metabox.php:9
+msgid "max. ad clicks"
+msgstr "最大広告クリック数"
+
+#: admin/views/ad-visitor-metabox.php:10
+msgid "max. ad impressions"
+msgstr "最大広告インプレッション数"
+
+#: admin/views/ad-visitor-metabox.php:11
+msgid "new visitor"
+msgstr "新規訪問者"
+
+#: admin/includes/class-meta-box.php:79
+msgid "Ad Stats"
+msgstr "広告統計情報"
+
+#: admin/includes/class-meta-box.php:74
+msgid "Increase your ad revenue"
+msgstr "広告収益を増加"
+
+#: admin/views/ad-visitor-metabox.php:13
+msgid "referrer url"
+msgstr "リファラー URL"
+
+#: admin/views/ad-visitor-metabox.php:18
+msgid "geo location"
+msgstr "位置情報"
+
+#: admin/views/ad-visitor-metabox.php:21
+msgid "browser width"
+msgstr "ブラウザー幅"
+
+#: admin/views/ad-visitor-metabox.php:14
+msgid "user agent"
+msgstr "ユーザーエージェント"
+
+#: admin/views/ad-visitor-metabox.php:15
+msgid "user can (capabilities)"
+msgstr "ユーザーに許可 (権限)"
+
+#: modules/gadsense/admin/admin.php:175
+msgid "Transparent background"
+msgstr "透明背景"
+
+#: admin/includes/class-settings.php:448 classes/frontend_checks.php:92
+msgid "You look like a bot"
+msgstr "あなたはボットのようです"
+
+#: classes/frontend_checks.php:183
+msgid "Ads are disabled on all pages"
+msgstr "すべてのページで広告が無効化されています"
+
+#: admin/includes/class-overview-widgets.php:155
+#: admin/includes/class-overview-widgets.php:156
+#: admin/includes/class-overview-widgets.php:157
+#: admin/includes/class-overview-widgets.php:158
+msgid "integrates with <strong>%s</strong>"
+msgstr "<strong>%s</strong> との連携"
+
+#: classes/frontend_checks.php:251
+msgid "AdSense violation"
+msgstr "AdSense 違反"
+
+#: classes/frontend_checks.php:252
+msgid "Ad is hidden"
+msgstr "広告が非表示"
+
+#: classes/frontend_checks.php:253
+msgid "IDs: %s"
+msgstr "ID: %s"
+
+#: modules/gadsense/admin/admin.php:167
+msgid "Disable violation warnings"
+msgstr "違反警告を非表示"
+
+#: modules/adblock-finder/admin/admin.php:16
+msgid "Ad Blocker"
+msgstr "アドブロッカー"
+
+#: modules/adblock-finder/admin/admin.php:23
+msgid "Ad blocker counter"
+msgstr "アドブロッカーカウンター"
+
+#: classes/frontend_checks.php:236
+msgid "Ad IDs: %s"
+msgstr "広告 ID: %s"
+
+#: admin/includes/class-menu.php:84
+msgid "Groups & Rotation"
+msgstr "グループとローテーション"
+
+#: admin/includes/class-menu.php:84
+msgid "Ad Groups & Rotations"
+msgstr "広告グループとローテーション"
+
+#: admin/views/feedback-disable.php:28
+msgid "Keep it & get a reply within 12h"
+msgstr "そのままにして12時間以内に返信を受け取る"
+
+#: public/class-advanced-ads.php:597
+msgctxt "ad group general name"
+msgid "Ad Groups & Rotations"
+msgstr "広告グループとローテーション"
+
+#: admin/views/placement-injection-top.php:7
+msgid "Congratulations! Your ad is now visible in the frontend."
+msgstr "おめでとうございます。広告がフロントエンドに表示されるようになりました。"
+
+#: classes/ad_type_dummy.php:45 classes/ad_type_image.php:65
+msgid "URL"
+msgstr "URL"
+
+#: admin/views/placement-injection-top.php:41
+msgid "see all…"
+msgstr "すべて表示…"
+
+#: admin/views/placement-injection-top.php:38
+msgid "PopUp & Layer"
+msgstr "ポップアップとレイヤー"
+
+#: admin/views/placement-injection-top.php:22
+#: admin/views/placement-injection-top.php:25
+msgid "Custom Position"
+msgstr "カスタム配置"
+
+#: admin/views/placement-injection-top.php:19
+msgid "Header (Manual)"
+msgstr "ヘッダー (手動)"
+
+#: admin/views/placement-injection-top.php:17
+msgid "PHP or Shortcode"
+msgstr "PHP またはショートコード"
+
+#: admin/views/placement-injection-top.php:8
+msgid "Adjust the placement options"
+msgstr "配置オプションを調整"
+
+#: admin/includes/class-overview-widgets.php:213
+msgid "Create a beautiful and simple slider from your ads to show more information on less space."
+msgstr "美しいシンプルなスライダーを広告から作成して、より少ないスペースでより多くの情報を表示します。"
+
+#: admin/includes/class-overview-widgets.php:240
+#: admin/includes/class-overview-widgets.php:261
+#: admin/includes/class-overview-widgets.php:286
+#: admin/includes/class-overview-widgets.php:304
+#: admin/includes/class-overview-widgets.php:322
+#: admin/includes/class-overview-widgets.php:340
+#: admin/includes/class-overview-widgets.php:358
+#: admin/includes/class-overview-widgets.php:376
+msgid "Activate now"
+msgstr "今すぐ有効化"
+
+#: admin/includes/class-overview-widgets.php:444
+msgid "Get this add-on"
+msgstr "このアドオンを取得"
+
+#: admin/includes/class-overview-widgets.php:176
+msgid "Display ads based on the device or the size of your visitor’s browser, and control ads on AMP pages."
+msgstr "デバイスまたは訪問者のブラウザーのサイズに基づいて広告を表示し、AMP ページ上の広告を管理します。"
+
+#: admin/includes/class-overview-widgets.php:189
+msgid "Earn more money and let advertisers pay for ad space directly on the frontend of your site."
+msgstr "広告主がサイトのフロントエンドにある広告スペースに対して直接支払えるようにして、より多くの収益を得ましょう。"
+
+#: admin/includes/class-overview-widgets.php:195
+msgid "Target visitors with ads that match their geo location and make more money with regional campaigns."
+msgstr "地理的位置に合った広告で訪問者をターゲット設定し、地域別キャンペーンで収益を上げましょう。"
+
+#: admin/includes/class-overview-widgets.php:201
+msgid "Increase click rates on your ads by placing them in sticky positions above, next or below your site."
+msgstr "サイトの上下または横の固定位置に広告を配置するとクリック率が向上します。"
+
+#: admin/includes/class-overview-widgets.php:207
+msgid "Users will never miss an ad or other information in a PopUp. Choose when it shows up and for how long a user can close it."
+msgstr "ユーザーはポップアップ内の広告やその他の情報を見逃すことはありません。いつ表示されるか、いつユーザーが非表示にできるかを選択してください。"
+
+#: admin/includes/class-overview-widgets.php:222
+#: admin/includes/class-overview-widgets.php:397
+#: admin/includes/class-overview-widgets.php:413
+msgid "Install now"
+msgstr "今すぐインストール"
+
+#: admin/includes/class-overview-widgets.php:269
+msgid "Visit your ad stats"
+msgstr "広告統計情報へ移動"
+
+#: admin/includes/class-overview-widgets.php:290
+msgid "List of responsive ads by browser width"
+msgstr "ブラウザー幅ごとのレスポンス広告一覧"
+
+#: admin/includes/class-overview-widgets.php:393
+msgid "Use Genesis specific ad positions."
+msgstr "Genesis 固有の広告掲載位置を使用してください。"
+
+#: admin/includes/class-overview-widgets.php:409
+msgid "Manage ad positions with Visual Composer."
+msgstr "Visual Composer を使用して広告掲載位置を管理します。"
+
+#: admin/includes/class-settings.php:190
+msgid "Open links in a new window"
+msgstr "リンクを新しいウィンドウで開く"
+
+#: classes/display-conditions.php:106
+msgid "taxonomy"
+msgstr "タクソノミー"
+
+#: classes/display-conditions.php:107
+msgid "Display ads based on the taxonomy of an archive page."
+msgstr "アーカイブページのタクソノミーに基づいて広告を表示します。"
+
+#: admin/includes/class-overview-widgets.php:152
+#: admin/views/pitch-pro-tab.php:7
+msgid "support for cached sites"
+msgstr "キャッシュされたサイトのサポート"
+
+#: admin/includes/class-overview-widgets.php:162
+#: admin/views/pitch-pro-tab.php:10
+msgid "placement tests for ad optimization"
+msgstr "広告最適化のための配置テスト"
+
+#: admin/includes/class-overview-widgets.php:163
+#: admin/views/pitch-pro-tab.php:11
+msgid "ad grids and many more advanced features"
+msgstr "広告グリッドやその他の高度な機能"
+
+#: admin/includes/class-ad-type.php:638
+msgid "You don’t have access to ads. Please deactivate and re-enable Advanced Ads again to fix this."
+msgstr "広告にアクセスする権限がありません。この問題を解決するには、Advanced Ads を無効にしてから再度有効化してください。"
+
+#: admin/includes/class-overview-widgets.php:75
+msgid "Join the newsletter for more benefits"
+msgstr "その他の便利な情報を得るにはメールマガジンを購読してください"
+
+#: admin/includes/class-overview-widgets.php:79
+msgid "How to earn more with AdSense"
+msgstr "AdSense でさらに収益を上げる方法"
+
+#: admin/includes/class-overview-widgets.php:100
+msgid "Manage your ads"
+msgstr "広告を管理"
+
+#: admin/includes/class-overview-widgets.php:149
+msgid "The solution for professional websites."
+msgstr "プロの Web サイト向けのソリューション。"
+
+#: admin/includes/class-overview-widgets.php:160
+#: admin/views/pitch-pro-tab.php:8
+msgid "11 more display and visitor conditions"
+msgstr "さらに11個の表示と訪問者分岐"
+
+#: admin/includes/class-overview-widgets.php:161
+#: admin/views/pitch-pro-tab.php:9
+msgid "6 more placements"
+msgstr "さらに6個の配置箇所"
+
+#: admin/includes/class-overview-widgets.php:170
+msgid "Analyze clicks and impressions of your ads locally or in Google Analytics, share reports, and limit ads to a specific number of impressions or clicks."
+msgstr "広告のクリック数とインプレッション数をローカルまたは Google アナリティクスで分析し、レポートを共有し、特定のインプレッション数またはクリック数で広告を制限します。"
+
+#: admin/includes/class-ad-groups-list.php:379
+msgid "No ad group created"
+msgstr "広告グループが作成されていません"
+
+#: admin/views/ad-group.php:65
+msgid "Group title"
+msgstr "グループのタイトル"
+
+#: admin/views/ad-group.php:66
+msgid "save"
+msgstr "保存"
+
+#: admin/views/placements.php:121
+msgid "ad label"
+msgstr "広告のラベル"
+
+#: classes/ad_type_image.php:67
+msgid "Link to target site"
+msgstr "ターゲットサイトへのリンク"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:67
+msgid "InArticle"
+msgstr "記事内広告"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:68
+msgid "InFeed"
+msgstr "記事一覧内差し込み広告"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:81
+msgid "Layout"
+msgstr "レイアウト"
+
+#: admin/views/ad-group.php:18
+msgid "Ad Group successfully created"
+msgstr "広告グループを作成しました"
+
+#: admin/views/feedback-disable.php:7
+msgid "I need help to set it up"
+msgstr "設定にヘルプが必要です"
+
+#: admin/views/feedback-disable.php:22
+msgid "Please specify"
+msgstr "指定してください"
+
+#: admin/views/placements.php:96
+msgid "position"
+msgstr "配置"
+
+#: admin/views/setting-license.php:12
+msgid "Update expiry date"
+msgstr "有効期限を更新"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:85
+msgid "Layout-Key"
+msgstr "レイアウト・キー"
+
+#: admin/views/setting-license.php:15
+msgid "Click on %2$s if you renewed it or have a subscription or <a href=\"%1$s\" target=\"_blank\">renew your license</a>."
+msgstr "更新した場合、またはサブスクリプションをお持ちの場合は「%2$s」をクリックしてください。又は<a href=\"%1$s\" target=\"_blank\">ライセンスを更新</a>してください。"
+
+#: admin/views/ad-display-metabox.php:22
+msgid "Hide the ad on some pages"
+msgstr "一部のページで広告を非表示にする"
+
+#: admin/views/placements-ad-label.php:5 admin/views/placements-ad-label.php:7
+msgid "enabled"
+msgstr "有効化済み"
+
+#: admin/views/placements.php:69
+msgid "template (PHP)"
+msgstr "テンプレート (PHP)"
+
+#: admin/includes/class-ad-groups-list.php:213
+msgid "show %d more ads"
+msgstr "さらに%d個の広告を表示"
+
+#: admin/includes/class-ad-groups-list.php:223
+msgid "Add some"
+msgstr "いくつか追加"
+
+#: admin/views/ad-group-list-form-row.php:57
+msgid "Visible ads"
+msgstr "表示広告"
+
+#: admin/views/ad-visitor-metabox.php:30
+msgid "Hide the ad from some users"
+msgstr "一部のユーザーに対して広告を非表示"
+
+#: admin/views/feedback-disable.php:17 admin/views/feedback-disable.php:20
+msgid "Which one?"
+msgstr "どれですか ?"
+
+#: admin/views/placements-ad-label.php:9 admin/views/placements-ad-label.php:11
+msgid "disabled"
+msgstr "無効化済み"
+
+#: admin/views/placements.php:129
+msgid "show all options"
+msgstr "すべてのオプションを表示"
+
+#: classes/ad_type_dummy.php:26
+msgid "Dummy"
+msgstr "ダミー"
+
+#: classes/display-conditions.php:97
+msgid "content age"
+msgstr "コンテンツの経過時間"
+
+#: classes/display-conditions.php:98
+msgid "Display ads based on age of the page."
+msgstr "ページの経過時間に基づいて広告を表示します。"
+
+#: classes/display-conditions.php:597
+msgid "older than"
+msgstr "より古い:"
+
+#: classes/display-conditions.php:598
+msgid "younger than"
+msgstr "より新しい:"
+
+#: classes/display-conditions.php:599
+msgid "days"
+msgstr "日間"
+
+#: classes/frontend_checks.php:78
+msgid "Random AdSense ads"
+msgstr "ランダムな AdSense 広告"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:34
+msgid "Insert new AdSense code"
+msgstr "新規 AdSense コードを挿入"
+
+#: admin/includes/class-settings.php:285
+msgid "Enter license keys for our powerful <a href=\"%s\" target=\"_blank\">add-ons</a>."
+msgstr "パワフルな<a href=\"%s\" target=\"_blank\">アドオン</a>のライセンスキーを入力してください。"
+
+#: admin/includes/class-settings.php:286
+msgid "See also <a href=\"%s\" target=\"_blank\">Issues and questions about licenses</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">ライセンスに関する問題と質問</a>もお読みください。"
+
+#: admin/includes/notices.php:9
+msgid "Advanced Ads successfully installed. <a href=\"%s\" class=\"button button-primary\">Create your first ad</a>"
+msgstr "Advanced Ads をインストールしました。<a href=\"%s\" class=\"button button-primary\">最初の広告を作成</a>"
+
+#: admin/views/ad-display-metabox.php:21
+msgid "Click on the button below if the ad should NOT show up on all pages when included automatically."
+msgstr "自動挿入時に広告がいずれのページにも表示されないようにするには、下のボタンをクリックしてください。"
+
+#: admin/views/ad-group.php:69
+msgid "Find more information about ad groups in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">マニュアル</a>で広告グループについての詳細をご覧ください。"
+
+#: admin/views/ad-visitor-metabox.php:29
+msgid "Click on the button below if the ad should NOT be visible to all visitors"
+msgstr "広告がどの訪問者にも表示されないようにするには、下のボタンをクリックしてください"
+
+#: classes/ad_type_dummy.php:27
+msgid "Uses a simple placeholder ad for quick testing."
+msgstr "クイックテスト用にシンプルなプレースホルダー広告を使います。"
+
+#: admin/views/placements-ad-label-position.php:18
+msgid "Check this if you don't want the following elements to float around the ad. (adds a placement_clearfix)"
+msgstr "次の要素を広告の周りにフロートさせたくない場合はこれをチェックしてください (placement_clearfix を追加)。"
+
+#: admin/views/placements.php:138
+msgid "Tutorial: <a href=\"%s\" target=\"_blank\">How to place visible ads in the header of your website</a>."
+msgstr "チュートリアル: <a href=\"%s\" target=\"_blank\">サイトのヘッダーに広告を表示する方法</a>。"
+
+#: classes/frontend_checks.php:469
+msgid "This ad was automatically placed here by AdSense. <a href=\"%s\" target=\"_blank\" style=\"color:#fff;border-color:#fff;\">Click here to learn more</a>."
+msgstr "この広告は AdSense でここに自動配置されました。<a href=\"%s\" target=\"_blank\" style=\"color:#fff;border-color:#fff;\">詳細についてはここをクリック</a>してください。"
+
+#: admin/views/feedback-disable.php:8
+msgid "I have a problem"
+msgstr "問題があります"
+
+#: admin/views/feedback-disable.php:9
+msgid "Please let us know how we can help"
+msgstr "私たちをどのように助けてくれるのか教えてください"
+
+#. translators: %s is the email address of the current user
+#: admin/views/feedback-disable.php:14
+msgid "Send me free help to %s"
+msgstr "%s への無料ヘルプを送ってください。"
+
+#: admin/views/feedback-disable.php:18
+msgid "I don’t use ads on my site"
+msgstr "私は自分のサイトで広告を使用しない"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:65
+msgid "Link ads"
+msgstr "広告リンク"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:66
+msgid "Link ads (Responsive)"
+msgstr "広告リンク (レスポンシブ)"
+
+#: modules/gadsense/admin/admin.php:364
+msgid "Responsive AdSense ads don’t work reliably with <em>Position</em> set to left or right. Either switch the <em>Type</em> to \"normal\" or follow <a href=\"%s\" target=\"_blank\">this tutorial</a> if you want the ad to be wrapped in text."
+msgstr "レスポンシブなAdSense広告は、<em> 配置</em>を左または右に設定すると確実に動作しません。 テキストを行内に納めるには、<em>タイプ</em>を「通常」に変更するか、<a href=\"%s\" target=\"_blank\">このチュートリアル</a>に従ってください。"
+
+#: admin/includes/class-settings.php:141 classes/ad_placements.php:568
+msgid "Disable level limitation"
+msgstr "レベル制限を無効にします。"
+
+#: admin/includes/class-settings.php:210
+msgid "Disable shortcode button"
+msgstr "ショートコードボタンを無効にします。"
+
+#: admin/includes/class-settings.php:434
+msgid "Advanced Ads ignores paragraphs and other elements in containers when injecting ads into the post content. Check this option to ignore this limitation and ads might show up again."
+msgstr "広告管理は、投稿コンテンツに広告を挿入する際に、段落などのコンテナーの要素を無視します。 この制限を無視すると、広告が再度表示される可能性があります。"
+
+#: admin/includes/class-settings.php:566
+msgid "Disable shortcode button in visual editor."
+msgstr "ビジュアルエディターの [ショートコード] ボタンを無効にします。"
+
+#: admin/includes/class-shortcode-creator.php:155
+msgid "Please, either switch off your ad blocker or disable the shortcode button in the <a href=\"%s\" target=\"_blank\">settings</a>."
+msgstr "広告ブロッカーをオフするか、<a href=\"%s\" target=\"_blank\">設定</a>でショートコードボタンを無効にしてください。"
+
+#. translators: %s stands for the name of the "Disable level limitation" option
+#. and automatically translated as well
+#: classes/ad_placements.php:567
+msgid "Set <em>%s</em> to show more ads"
+msgstr "<em>%s</em>より多くの広告を表示する設定します。"
+
+#: classes/display-conditions.php:304
+msgid "Only %d elements are displayed above. Use the <code>advanced-ads-admin-max-terms</code> filter to change this limit according to <a href=\"%s\" target=\"_blank\">this page</a>."
+msgstr "上記は、%d 要素のみが表示されます。使用、 <code>advanced-ads-admin-max-terms</code> <a href=\"%s\" target=\"_blank\">このページ</a>によるとこの制限を変更するフィルター。"
+
+#: modules/ad-blocker/admin/views/setting-use-adblocker.php:4
+msgid "The ad block disguise can only be set by the super admin on the main site in the network."
+msgstr "広告ブロックの変装は、ネットワークの主なサイトのスーパー管理者によってのみ設定できます。"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:64
+msgid "Responsive (Matched Content)"
+msgstr "レスポンシブ(一致したコンテンツ)"
+
+#: classes/filesystem.php:61
+msgid "Could not access filesystem."
+msgstr "ファイルシステムにアクセスできませんでした。"
+
+#: classes/filesystem.php:65
+msgid "Filesystem error."
+msgstr "ファイルシステムにエラー"
+
+#: classes/filesystem.php:72
+msgid "Unable to locate WordPress root directory."
+msgstr "ワードプレスのルート ディレクトリが見つかりません。"
+
+#: classes/filesystem.php:76
+msgid "Unable to locate WordPress content directory (wp-content)."
+msgstr "ワードプレスのコンテンツのディレクトリ (wp-コンテンツ) が見つかりません。"
+
+#: classes/filesystem.php:80
+msgid "Unable to locate needed folder (%s)."
+msgstr "必要なフォルダー (%s) が見つかりません。"
+
+#: modules/ad-blocker/admin/admin.php:150
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "ファイルシステムに接続することができません。あなたの資格情報をご確認ください。"
+
+#: admin/includes/class-licenses.php:474
+msgid "Download failed. <a href=\"%s\">Click here to try another method</a>."
+msgstr "ダウンロードに失敗しました。<a href=\"%s\">ここをクリックして別の方法を試してください</a>。"
+
+#: admin/includes/class-licenses.php:476
+msgid "Download failed. <a href=\"%s\" target=\"_blank\">Click here to learn why</a>."
+msgstr "ダウンロードに失敗しました。して<a href=\"%s\" target=\"_blank\">理由については、こちらをご覧ください</a>。"
+
+#: admin/views/feedback-disable.php:6
+msgid "It is only temporary"
+msgstr "それは一時的なものです"
+
+#: admin/views/feedback-disable.php:16
+msgid "I miss a feature"
+msgstr "機能が足りません"
+
+#: admin/includes/class-settings.php:402
+msgid "Some plugins and themes trigger ad injections where it shouldn’t happen. Therefore, Advanced Ads ignores injected placements on non-singular pages and outside the loop. However, this can cause problems with some themes. Set this option to -1 in order to enable unlimited ad injection at your own risk, set it to 0 to keep it disabled or choose a positive number to enable the injection only in the first x posts on your archive pages."
+msgstr "いくつかのプラグインとテーマは、広告注入が発生してはならない場所で広告注入を引き起こします。 したがって、アドバンスト広告では、単数ではないページやループ外に挿入されたプレースメントは無視されます。 しかし、これはいくつかのテーマで問題を引き起こす可能性があります。 自己責任で無制限に広告を掲載できるようにするには、このオプションを-1に設定し、無効にする場合は0に設定し、アーカイブページの最初のx投稿にのみ注入を許可する場合は正数を選択します。"
+
+#: admin/views/feedback-disable.php:19
+msgid "I switched to another plugin"
+msgstr "プラグインが必要がなくなった"
+
+#: admin/views/feedback-disable.php:27
+msgid "Submit & Deactivate"
+msgstr "送信＆非アクティブ化"
+
+#: admin/views/feedback-disable.php:30
+msgid "Only Deactivate"
+msgstr "非アクティブ化のみ"
+
+#: admin/includes/class-overview-widgets.php:441
+#: admin/views/ad-display-metabox.php:31 admin/views/ad-visitor-metabox.php:39
+msgid "Visit the manual"
+msgstr "マニュアルをご覧ください"
+
+#: admin/views/ad-display-metabox.php:29
+msgid "Watch video"
+msgstr "動画を見る"
+
+#: admin/views/ad-display-metabox.php:35
+msgid "A page with this ad on it must match all of the following conditions."
+msgstr "この広告が掲載されているページは、次のすべての条件と一致している必要があります。"
+
+#: admin/views/ad-visitor-metabox.php:71
+msgid "It seems that a caching plugin is activated."
+msgstr "キャッシュのプラグインが有効になっているようです。"
+
+#: classes/ad-debug.php:272 classes/frontend_checks.php:235
+msgid "Your website is using HTTPS, but the ad code contains HTTP and might not work."
+msgstr "あなたのウェブサイトは、HTTPSを使用しているが、広告コードは、HTTPが含まれており、動作しない可能性があります。"
+
+#: classes/visitor-conditions.php:32
+msgid "device"
+msgstr "デバイス"
+
+#: classes/visitor-conditions.php:96
+msgid "Mobile (including tablets)"
+msgstr "モバイル（タブレットを含みます）"
+
+#: classes/visitor-conditions.php:97
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#: admin/includes/class-licenses.php:86
+msgid "There might be a new version of %1$s. Please <strong>provide a valid license key</strong> in order to receive updates and support <a href=\"%2$s\">on this page</a>."
+msgstr "新しいバージョンの%1$sが存在する可能性があります。アップデートとサポートを受けるには<a href=\"%2$s\">このページで</a><strong>有効なライセンスキーを入力<strong>してください。"
+
+#: admin/views/support.php:21
+msgid "Take a look at more common issues or contact us directly through the <a href=\"%s\" target=\"_blank\">support page</a>."
+msgstr "より一般的な問題をご覧いただくか、<a href=\"%s\" target=\"_blank\">サポートページ</a>から直接ご連絡ください。"
+
+#: classes/ad-debug.php:32
+msgid "The ad is displayed on the page"
+msgstr "広告がページに表示されます"
+
+#: classes/ad-debug.php:34
+msgid "The ad is not displayed on the page"
+msgstr "広告がページに表示されていません"
+
+#: classes/ad-debug.php:39
+msgid "Current query is not identical to main query."
+msgstr "現在のクエリは、メインクエリと同一ではありません。"
+
+#: classes/ad-debug.php:45
+msgid "current post"
+msgstr "現在の投稿"
+
+#: classes/ad-debug.php:49
+msgid "Current post is not identical to main post."
+msgstr "現在のポストは、メインポストと同一ではありません。"
+
+#: classes/ad-debug.php:51
+msgid "main post"
+msgstr "主な記事"
+
+#: classes/ad-debug.php:98
+msgid "current query"
+msgstr "現在のクエリ"
+
+#: classes/ad-debug.php:98
+msgid "main query"
+msgstr "メインクエリ"
+
+#: classes/ad-debug.php:128
+msgid "Placement"
+msgstr "配置"
+
+#: classes/frontend_checks.php:266
+msgid "debug DFP ads"
+msgstr "DFP広告デバッグ"
+
+#: classes/frontend_checks.php:277
+msgid "highlight ads"
+msgstr "ハイライト広告"
+
+#: public/views/ad-debug.php:20
+msgid "Ad debug output"
+msgstr "広告のデバッグ出力"
+
+#: public/views/ad-debug.php:22
+msgid "Find solutions in the manual"
+msgstr "マニュアルで解決策を見つけます"
+
+#: admin/views/setting-license.php:47
+msgid "Update License"
+msgstr "ライセンスの更新"
+
+#: admin/views/support.php:10
+msgid "Ads not showing up"
+msgstr "広告が表示されません"
+
+#: admin/views/support.php:11
+msgid "Purchase & Licenses"
+msgstr "購入＆ライセンス"
+
+#: admin/views/support.php:12
+msgid "General Issues"
+msgstr "一般的な問題"
+
+#: admin/views/support.php:13
+msgid "Issues with Add-Ons"
+msgstr "アドオンの問題"
+
+#: classes/frontend_checks.php:293
+msgid "Ad Health"
+msgstr "広告の状態"
+
+#: classes/frontend_checks.php:106
+msgid "Ad blocker enabled"
+msgstr "広告ブロッカーが有効になっている"
+
+#: classes/frontend_checks.php:125
+msgid "<em>%s</em> filter does not exist"
+msgstr "<em>%s</em>フィルタは存在しません。"
+
+#: classes/frontend_checks.php:144
+msgid "Ads are disabled on this page"
+msgstr "広告はこのページで無効になっています"
+
+#: classes/frontend_checks.php:157
+msgid "Ads are disabled in the content of this page"
+msgstr "広告はこのページの内容で無効にされています"
+
+#: classes/frontend_checks.php:169
+msgid "the current post ID is 0 "
+msgstr "現在の投稿IDは0です"
+
+#: classes/frontend_checks.php:196
+msgid "Ads are disabled on 404 pages"
+msgstr "広告は404ページで無効になっています"
+
+#: classes/frontend_checks.php:209
+msgid "Ads are disabled on non singular pages"
+msgstr "広告を非単数ページ上で無効にされています"
+
+#: classes/frontend_checks.php:308
+msgid "Everything is fine"
+msgstr "すべて順調"
+
+#: admin/views/placement-injection-top.php:13
+msgid "New placement"
+msgstr "配置の新規作成"
+
+#: admin/views/placement-injection-top.php:65
+msgid "Existing placement"
+msgstr "既存の配置"
+
+#: modules/gadsense/admin/admin.php:228
+msgid "There is no explicit limit for AdSense ads anymore, but you can still use this setting to prevent too many AdSense ads to show accidentally on your site."
+msgstr "AdSense広告には明示的な制限はありませんが、あまりにも多くのAdSense広告があなたのサイトに誤って表示されないようにこの設定を使用することはできます。"
+
+#: admin/views/placement-injection-top.php:9
+msgid "Ad not showing up? Take a look <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "広告が表示されませんか？<a href=\"%s\" target=\"_blank\">こちら</a>を見てください"
+
+#: admin/includes/class-settings.php:200
+msgid "Delete data on uninstall"
+msgstr "アンインストール時にデータを削除します"
+
+#: admin/includes/class-settings.php:553
+msgid "Clean up all data related to Advanced Ads when removing the plugin."
+msgstr "プラグインを削除する際に高度な広告に関連するすべてのデータをクリーンアップします。"
+
+#: public/class-advanced-ads.php:771
+msgctxt "label above ads"
+msgid "Advertisements"
+msgstr "広告"
+
+#: classes/EDD_SL_Plugin_Updater.php:201
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "利用可能な%1$sの新しいバージョンがあります。 %2$sViewバージョン%3$sの詳細%4$s。"
+
+#: classes/EDD_SL_Plugin_Updater.php:209
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "利用可能な%1$s の新しいバージョンがあります。 %2$s表示バージョン %3$sの詳細は%4$s または%5$sの現在更新の%6$s."
+
+#: admin/views/ad-list-no-ads.php:2
+msgid "Watch the “First Ad” Tutorial (Video)"
+msgstr "「First Ad」チュートリアルを見る（ビデオ）"
+
+#: admin/views/ad-info-after-textarea.php:5
+msgid "The code of this ad might not work properly with the <em>Content</em> placement."
+msgstr "<em>コンテンツ</em>の配置は、この広告のコードが正しく動作しない可能性があります。"
+
+#: admin/views/ad-info-after-textarea.php:6
+msgid "Reach out to <a href=\"%s\">support</a> to get help."
+msgstr "ヘルプを表示する<a href=\"%s\">サポート</a>をする手を差し伸べる。"
+
+#: admin/views/ad-display-metabox.php:71
+msgid "Forced to OR."
+msgstr "ORに強制されます。"
+
+#: modules/import-export/classes/import.php:527
+msgid "File is empty."
+msgstr "ファイルは空です。"
+
+#: modules/import-export/views/page.php:33
+msgid "Import"
+msgstr "インポート"
+
+#: modules/import-export/views/page.php:44
+msgid "Choose an XML file"
+msgstr "XML ファイルを選択"
+
+#: modules/import-export/classes/XmlEncoder.php:149
+msgctxt "import_export"
+msgid "An unexpected value could not be serialized: %s"
+msgstr "予期しない値をシリアライズできませんでした: %s"
+
+#: modules/import-export/classes/XmlEncoder.php:201
+msgctxt "import_export"
+msgid "Invalid XML data, it can not be empty"
+msgstr "それは空にできません無効な XML データ"
+
+#: modules/import-export/classes/XmlEncoder.php:223
+msgctxt "import_export"
+msgid "XML error: %s"
+msgstr "エラー: %s"
+
+#: modules/import-export/classes/import.php:66
+msgid "Please enter XML content"
+msgstr "XML コンテンツを入力してください。"
+
+#: modules/import-export/classes/import.php:147
+#: modules/import-export/classes/import.php:563
+msgid "New attachment created <em>%s</em> %s"
+msgstr "<em>%s</em>の %s で新しい添付ファイル作成"
+
+#: modules/import-export/classes/import.php:179
+msgid "Failed to import <em>%s</em>"
+msgstr " <em>%s</em>のインポートに失敗しました。"
+
+#: modules/import-export/classes/import.php:187
+msgid "New ad created: <em>%s</em> %s"
+msgstr "新しい広告の作成: <em>%s</em> %s"
+
+#: modules/import-export/classes/import.php:230
+msgid "Assigned terms: <em>%s</em>, to post: <em>%s</em>"
+msgstr "条件を割り当てられます: <em>%s</em>、投稿する: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:292
+msgid "New group created, id: <em>%s</em>, name: <em>%s</em>"
+msgstr "新しいグループの作成、id: <em>%s</em>名前: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:294
+msgid "Failed to import taxonomy: <em>%s</em>, term: <em>%s</em>"
+msgstr "分類のインポートに失敗しました: <em>%s</em>用語: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:359
+msgid "Placement <em>%s</em> created"
+msgstr "配置<em>%s</em>が作成されました"
+
+#: modules/import-export/classes/import.php:474
+msgid "Option was updated: <em>%s</em>"
+msgstr "オプションが更新されました: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:477
+msgid "Option already exists: <em>%s</em>"
+msgstr "オプションは既に存在します: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:499
+msgid "Failed to create import directory <em>%s</em>"
+msgstr "インポート ディレクトリ<em>%s</em>を作成できませんでした。"
+
+#: modules/import-export/classes/import.php:504
+msgid "Import directory is not writable: <em>%s</em>"
+msgstr "インポート ディレクトリが書き込み可能ではありません: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:512
+msgid "File is empty, uploads are disabled or post_max_size is smaller than upload_max_filesize in php.ini"
+msgstr "ファイルが空で、アップロードが無効になっているまたは post_max_size は php.ini で upload_max_filesize よりも小さい"
+
+#: modules/import-export/classes/import.php:522
+msgid "Failed to upload file, error: <em>%s</em>"
+msgstr "エラー ファイルをアップロードに失敗しました: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:532
+msgid "The file could not be created: <em>%s</em>. This is probably a permissions problem"
+msgstr "ファイルを作成できませんでした: <em>%s</em>。これはおそらく、アクセス許可の問題"
+
+#: modules/import-export/classes/import.php:605
+msgid "Invalid filetype <em>%s</em>"
+msgstr "<em>%s</em> は無効なファイルタイプ"
+
+#: modules/import-export/classes/import.php:610
+#: modules/import-export/classes/import.php:617
+#: modules/import-export/classes/import.php:625
+#: modules/import-export/classes/import.php:640
+msgid "Error getting remote image <em>%s</em>"
+msgstr "リモート イメージ<em>%s</em>を取得中のエラー"
+
+#: modules/import-export/classes/import.php:634
+msgid "Zero size file downloaded <em>%s</em>"
+msgstr "<em>%s</em> はゼロサイズのファイルがダウンロード"
+
+#: modules/import-export/views/page.php:16
+msgid "Export"
+msgstr "エクスポート"
+
+#: modules/import-export/views/page.php:17
+msgid "When you click the button below Advanced Ads will create an XML file for you to save to your computer."
+msgstr "高度な広告の下のボタンをクリックするときは、お使いのコンピューターに保存するために XML ファイルが作成されます。"
+
+#: modules/import-export/views/page.php:28
+msgid "Download Export File"
+msgstr "エクスポートファイルのダウンロード"
+
+#: modules/import-export/views/page.php:45
+msgid "Copy an XML content"
+msgstr "XML コンテンツをコピーします。"
+
+#: modules/import-export/views/page.php:52
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "インポートファイルをアップロードする前に、次を修正する必要があります:"
+
+#: modules/import-export/views/page.php:57
+msgid "Maximum size: %s"
+msgstr "最大サイズ: %s"
+
+#: modules/import-export/views/page.php:65
+msgid "Start import"
+msgstr "インポートの開始"
+
+#: admin/views/ad-display-metabox.php:72
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:70
+msgid "manual"
+msgstr "マニュアル"
+
+#: admin/views/ad-info-bottom.php:2
+msgctxt "wizard navigation"
+msgid "previous"
+msgstr "前"
+
+#: admin/views/ad-info-bottom.php:5
+msgctxt "wizard navigation"
+msgid "save"
+msgstr "保存"
+
+#: admin/views/ad-info-bottom.php:5 admin/views/ad-info-bottom.php:6
+msgctxt "wizard navigation"
+msgid "next"
+msgstr "次"
+
+#: admin/views/ad-info-bottom.php:7 admin/views/ad-info-top.php:19
+msgid "Stop Wizard and show all options"
+msgstr "ウィザードを停止し、すべてのオプションを表示"
+
+#: admin/views/ad-info-top.php:2
+msgid "Start Wizard"
+msgstr "ウィザードで開始"
+
+#: admin/views/ad-info-top.php:3
+msgid "Stop Wizard"
+msgstr "ウィザードを停止します。"
+
+#: admin/views/ad-parameters-size.php:1
+msgid "size"
+msgstr "サイズ"
+
+#: admin/views/settings.php:46 modules/import-export/main.php:15
+msgid "Import &amp; Export"
+msgstr "インポート &amp; エクスポート"
+
+#: classes/ad_type_plain.php:88
+msgid "Allow PHP"
+msgstr "PHP ができるように"
+
+#: classes/frontend_checks.php:222
+#: modules/import-export/classes/XmlEncoder.php:61
+#: modules/import-export/classes/XmlEncoder.php:64
+#: modules/import-export/classes/XmlEncoder.php:193
+#: modules/import-export/classes/XmlEncoder.php:196
+msgid "The %s extension(s) is not loaded"
+msgstr "%s 拡張子が読み込まれていません"
+
+#: modules/gadsense/admin/admin.php:377
+msgid "Use the <a href=\"%s\" target=\"_blank\">Responsive add-on</a> in order to define the exact size for each browser width or choose between horizontal, vertical, or rectangle formats."
+msgstr "各ブラウザーの幅の正確なサイズを定義または、水平、垂直、または四角形の形式の間で選択するために<a href=\"%s\" target=\"_blank\">応答のアドオン</a>を使用します。"
+
+#: modules/import-export/classes/XmlEncoder.php:75
+msgctxt "import_export"
+msgid "The data must be an array"
+msgstr "データ配列でなければなりません"
+
+#: modules/import-export/classes/XmlEncoder.php:103
+msgctxt "import_export"
+msgid "The key %s is not valid"
+msgstr "キー %s が無効"
+
+#: admin/views/placement-injection-top.php:15 classes/ad_placements.php:59
+msgid "Content"
+msgstr "コンテンツ  "
+
+#: admin/views/placement-injection-top.php:36
+msgid "Show PopUp"
+msgstr "ポップアップを表示"
+
+#: admin/class-advanced-ads-admin.php:214
+msgid "After which paragraph?"
+msgstr "段落後?（インライン設定）"
+
+#: admin/views/placement-injection-top.php:12
+msgid "Where do you want to display the ad?"
+msgstr "あなたは広告をどこに表示したいですか？"
+
+#: admin/views/placement-injection-top.php:18
+msgid "Manage Sidebar"
+msgstr "サイドバーで管理"
+
+#: admin/views/placement-injection-top.php:23
+msgid "Show Pro Places"
+msgstr "プロの配置で表示"
+
+#: admin/views/placement-injection-top.php:32
+msgid "Show Sticky Places"
+msgstr "固定配置で表示"
+
+#: admin/views/placement-injection-top.php:70
+msgid "Or use the shortcode %s to insert the ad into the content manually."
+msgstr "またはコンテンツに手動で広告を挿入するショートコード %s を使用します。"
+
+#: admin/includes/class-licenses.php:245 admin/includes/class-licenses.php:267
+msgid "License couldn’t be deactivated. Please try again later."
+msgstr "ライセンスは、非アクティブ化できませんでした。後でもう一度試してください。"
+
+#: admin/views/setting-license.php:5
+msgid "Your license expired."
+msgstr "ライセンス失効"
+
+#: classes/ad_type_group.php:31
+msgid "Choose an existing ad group. Use this type when you want to assign the same display and visitor conditions to all ads in that group."
+msgstr "既存の広告グループを選択します。そのグループのすべての広告に同じ表示と訪問者条件を割り当てる場合は、この種類を使用します。"
+
+#: classes/ad_type_group.php:85
+msgid "ad group"
+msgstr "広告グループ"
+
+#: admin/includes/class-meta-box.php:150
+msgid "Video"
+msgstr "動画"
+
+#: admin/includes/class-licenses.php:132
+msgid "License couldn’t be activated. Please try again later."
+msgstr "ライセンスをアクティブ化することができませんでした。後でもう一度試してください。"
+
+#: admin/includes/class-licenses.php:149
+msgid "There are no activations left."
+msgstr "左のアクティブ化があります。"
+
+#: admin/includes/class-settings.php:181
+msgid "Ad label"
+msgstr "広告ラベル"
+
+#: admin/includes/class-settings.php:512
+msgctxt "label before ads"
+msgid "Advertisements"
+msgstr "広告"
+
+#: admin/includes/class-settings.php:519
+msgid "Displayed above ads."
+msgstr "広告上に表示"
+
+#: classes/ad_placements.php:223
+msgid "paragraph without image (%s)"
+msgstr "画像なしの段落 (%s)"
+
+#: classes/display-conditions.php:488
+msgid "title or id"
+msgstr "タイトルまたは id"
+
+#: classes/display-conditions.php:568
+msgid "Feed"
+msgstr "フィード"
+
+#: admin/views/settings-disable-ads.php:21
+msgid "Disable ads in Feed"
+msgstr "フィード内の広告を無効にする"
+
+#: classes/display-conditions.php:569
+msgid "allow ads in Feed"
+msgstr "フィードの広告を許可します。"
+
+#: admin/views/ad-parameters-size.php:8
+msgid "reserve this space"
+msgstr "このスペースを確保する"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:31
+msgid "Rename assets"
+msgstr "アセットの名称変更"
+
+#: admin/class-advanced-ads-admin.php:213
+#: admin/views/ad-visitor-metabox.php:120 classes/display-conditions.php:199
+#: classes/visitor-conditions.php:251
+msgid "and"
+msgstr "and"
+
+#: admin/class-advanced-ads-admin.php:212
+#: admin/views/ad-display-metabox.php:134 classes/display-conditions.php:199
+#: classes/visitor-conditions.php:251
+msgid "or"
+msgstr "or"
+
+#: admin/views/ad-output-metabox.php:47
+msgid "Enable debug mode"
+msgstr "デバッグモードを有効化"
+
+#: classes/display-conditions.php:258 classes/display-conditions.php:303
+#: classes/display-conditions.php:390 classes/display-conditions.php:434
+msgctxt "Error message shown when no display condition term is selected"
+msgid "Please select some items."
+msgstr "いくつかの項目を選択してください"
+
+#: classes/display-conditions.php:131
+msgid "archive: %s"
+msgstr "アーカイブ: %s"
+
+#: classes/display-conditions.php:69
+msgid "post type"
+msgstr "投稿タイプ"
+
+#: classes/display-conditions.php:88
+msgid "author"
+msgstr "投稿者"
+
+#: admin/views/ad-display-metabox.php:34
+#: admin/views/notices/jqueryui_error.php:2
+msgid "There might be a problem with layouts and scripts in your dashboard. Please check <a href=\"%s\" target=\"_blank\">this article to learn more</a>."
+msgstr "ダッシュボードのレイアウトやスクリプトに問題がある可能性があります。 詳細については、<a href=\"%s\" target=\"_blank\">この記事をご覧ください</a>。"
+
+#: classes/display-conditions.php:76
+msgid "specific pages"
+msgstr "特定のページ"
+
+#: classes/display-conditions.php:82
+msgid "general conditions"
+msgstr "一般的な条件"
+
+#: admin/includes/class-meta-box.php:140 admin/includes/class-meta-box.php:151
+#: admin/includes/class-meta-box.php:156 admin/includes/class-settings.php:519
+#: admin/views/ad-output-metabox.php:51
+msgid "Manual"
+msgstr "マニュアル"
+
+#: admin/class-advanced-ads-admin.php:322
+msgid "time of %s"
+msgstr "%s の時間"
+
+#: admin/includes/class-licenses.php:147
+msgid "This is the bundle license key."
+msgstr "バンドル ライセンス キーです。"
+
+#: admin/includes/class-licenses.php:148
+msgid "This is not the correct key for this add-on."
+msgstr "これは、このアドオンの正しいキーではありません。"
+
+#: admin/includes/class-overview-widgets.php:131
+msgid "<a href=\"%s\" target=\"_blank\">FAQ and Support</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">よくある質問とサポート</a>"
+
+#: admin/class-advanced-ads-admin.php:372
+#: admin/includes/class-overview-widgets.php:33
+msgid "Add-Ons"
+msgstr "アドオン  "
+
+#: admin/views/feedback-disable.php:4
+msgid "Why did you decide to disable Advanced Ads?"
+msgstr "広告管理を無効にする理由は何でですか？"
+
+#: admin/views/feedback-disable.php:21
+msgid "other reason"
+msgstr "他の理由"
+
+#: classes/visitor-conditions.php:102 classes/visitor-conditions.php:142
+msgid "Manual and Troubleshooting"
+msgstr "マニュアルおよびトラブルシューティング"
+
+#: admin/includes/class-settings.php:501
+msgid "You can assign different ad-related roles on a user basis with <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">アドバンスト広告管理</a>を使用して、ユーザーごとに異なる広告関連の役割を割り当てることができます。"
+
+#: admin/includes/notices.php:41
+msgid "One or more license keys for <strong>Advanced Ads add-ons are invalid or missing</strong>."
+msgstr "<strong>広告管理のアドオンのライセンスキーが無効または不足しています</strong>。"
+
+#: admin/includes/notices.php:41
+msgid "Please add valid license keys <a href=\"%s\">here</a>."
+msgstr "<a href=\"%s\">ここ</a>で有効なライセンス キーを追加してください。"
+
+#: admin/views/support.php:6
+msgid "Please fix the red highlighted issues on this page or try to understand their consequences before contacting support."
+msgstr "このページ上の問題を強調したりサポートに連絡する前に自分の結果を理解しようとするために赤い表示を修正してください。"
+
+#: classes/visitor-conditions.php:108
+msgid "Display ads by the available space on the device or target tablets with the <a href=\"%s\" target=\"_blank\">Responsive add-on</a>"
+msgstr "持つデバイスまたはターゲットタブレット上で利用可能なスペースでディスプレイ広告<a href=\"%s\" target=\"_blank\">応答アドオン</a>"
+
+#: modules/ad-blocker/admin/admin.php:96
+msgid "Ad blocker fix"
+msgstr "広告ブロッカーの修正"
+
+#: modules/ad-blocker/admin/admin.php:165
+msgid "The asset folder was rebuilt successfully"
+msgstr "asset フォルダーが正常に再構築されました。"
+
+#: modules/ad-blocker/admin/admin.php:226
+msgid "There is no writable upload folder"
+msgstr "書き込み可能なアップロード先のフォルダーがないです。"
+
+#: modules/ad-blocker/admin/admin.php:255
+msgid "Unable to rename \"%s\" directory"
+msgstr "ディレクトリ\"%s\"の名前を変更できません。"
+
+#: modules/ad-blocker/admin/admin.php:271
+#: modules/ad-blocker/admin/admin.php:284
+#: modules/ad-blocker/admin/admin.php:301
+msgid "Unable to copy assets to the \"%s\" directory"
+msgstr "アセットを\"%s\"ディレクトリにコピーできません。"
+
+#: modules/ad-blocker/admin/admin.php:334
+#: modules/ad-blocker/admin/admin.php:417
+msgid "We do not have direct write access to the \"%s\" directory"
+msgstr "\"%s\"のディレクトリに直接アクセスしていません。"
+
+#: modules/ad-blocker/admin/admin.php:428
+msgid "Unable to copy files to %s"
+msgstr "ファイルを %s にコピーできません。"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:1
+msgid "Ad blocker file folder"
+msgstr "広告ブロッカー ファイル フォルダー"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:10
+msgid "Upload folder is not writable"
+msgstr "アップロード先のフォルダーが書き込み可能ではありません。"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:23
+msgid "Asset path"
+msgstr "アセットパス"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:27
+msgid "Asset URL"
+msgstr "アセット URL"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:34
+msgid "Check if you want to change the names of the assets"
+msgstr "アセットの名前を変更するかどうかはチェックしてください。"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:43
+msgid "Please, rebuild the asset folder. All assets will be located in <strong>%s</strong>"
+msgstr "アセットフォルダーを再構築してください。すべてのアセットを<strong>%s</strong>に配置されます。"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:46
+msgid "Rebuild asset folder"
+msgstr "アセットフォルダーを再構築します。"
+
+#: modules/ad-blocker/admin/views/setting-use-adblocker.php:6
+msgid "Prevents ad block software from breaking your website when blocking asset files (.js, .css)."
+msgstr "広告ブロック ソフトウェアが資産に (.js や .css) ファイルをブロックするときにあなたのウェブサイトを破壊するを防ぎます。"
+
+#: admin/includes/class-settings.php:173
+msgid "Allow editors to manage ads"
+msgstr "広告を管理する編集者を許可します。"
+
+#: admin/includes/class-settings.php:500
+msgid "Allow editors to also manage and publish ads."
+msgstr "編集者が広告を管理して公開できるようにする。"
+
+#: admin/includes/class-ad-groups-list.php:198
+#: admin/views/ad-list-timing-column.php:30
+msgid "<strong>expired</strong> %s"
+msgstr "<strong>期限切れ</strong>%s"
+
+#: admin/includes/class-ad-type.php:185
+msgid "any expiry date"
+msgstr "有効期限"
+
+#: admin/includes/class-ad-type.php:186
+msgid "planned"
+msgstr "計画済み"
+
+#: admin/views/ad-list-filters.php:2
+msgid "all ad types"
+msgstr "すべての広告タイプ"
+
+#: admin/views/ad-list-filters.php:5
+msgid "all ad sizes"
+msgstr "すべての広告サイズ"
+
+#: admin/views/ad-list-filters.php:8
+msgid "all ad dates"
+msgstr "すべての広告日付"
+
+#: admin/views/ad-list-filters.php:16
+msgid "all ad groups"
+msgstr "すべてのグループ"
+
+#: classes/checks.php:219
+msgid "Possible conflict between jQueryUI library, used by Advanced Ads and other libraries (probably <a href=\"%s\">Twitter Bootstrap</a>). This might lead to misfortunate formats in forms, but should not damage features."
+msgstr "広告管理と他のライブラリ（おそらく<a href=\"%s\"> Twitter Bootstrap </a>）によって使用されるjQueryUIライブラリとの競合が考えられます。 これは、形式の中で不幸な形式につながる可能性がありますが、機能に損傷を与えてはいけません。"
+
+#: classes/ad_placements.php:65
+msgid "Sidebar Widget"
+msgstr "サイドバー ウィジェット"
+
+#: admin/includes/class-ad-groups-list.php:176
+#: admin/views/ad-list-timing-column.php:4
+msgid "starts %s"
+msgstr "%sを開始"
+
+#: admin/includes/class-ad-groups-list.php:196
+#: admin/views/ad-list-timing-column.php:28
+msgid "expires %s"
+msgstr "%sの有効期限 "
+
+#: admin/includes/class-ad-type.php:82 admin/includes/class-ad-type.php:87
+msgid "Ad Planning"
+msgstr "広告掲載状態"
+
+#: admin/includes/class-licenses.php:218
+msgid "Error while trying to disable the license. Please contact support."
+msgstr "ライセンスを無効にしようとしてエラーが発生しました。サポートに問い合わせてください。"
+
+#: admin/includes/class-settings.php:418
+msgid "Please check your post content. A priority of 10 and below might cause issues (wpautop function might run twice)."
+msgstr "投稿内容を確認してください。 優先度が10以下の場合、問題が発生する可能性があります（wpautop関数が2回実行される可能性があります）。"
+
+#: admin/includes/shortcode-creator-l10n.php:10
+msgctxt "shortcode creator"
+msgid "Add an ad"
+msgstr "広告を追加"
+
+#: admin/includes/shortcode-creator-l10n.php:11
+msgctxt "shortcode creator"
+msgid "Add shortcode"
+msgstr "ショートコードを追加"
+
+#: admin/includes/shortcode-creator-l10n.php:12
+msgctxt "shortcode creator"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: admin/views/checks.php:31
+msgid "Ads are disabled for all or some pages. See \"disabled ads\" in <a href=\"%s\">settings</a>."
+msgstr "一部または全部のページで広告が無効になっています。 <a href=\"%s\">設定</a>の「無効な広告」を参照してください。"
+
+#: classes/ad_placements.php:66
+msgid "Create a sidebar widget with an ad. Can be placed and used like any other widget."
+msgstr "広告をサイドバーのウィジェットを作成します。配置され、他のウィジェットのように使用することができます。"
+
+#: modules/gadsense/admin/admin.php:232
+msgid "Due to technical restrictions, the limit does not work on placements with cache-busting enabled."
+msgstr "技術的な制限のため、キャッシュの破棄が有効になっているプレースメントでは制限が適用されません。"
+
+#: admin/views/setting-license.php:41
+msgid "Deactivate License"
+msgstr "ライセンスの有効化を解除"
+
+#: admin/includes/class-licenses.php:106 admin/views/setting-license.php:49
+msgid "Please enter a valid license key"
+msgstr "有効なライセンスキーを入力してください"
+
+#: classes/ad_type_image.php:56
+msgid "edit"
+msgstr "編集"
+
+#: classes/ad_type_image.php:55
+msgid "Insert"
+msgstr "挿入"
+
+#: classes/ad_type_image.php:55
+msgid "Insert File"
+msgstr "ファイルを挿入"
+
+#: admin/views/ad-output-metabox.php:35
+msgid "container ID"
+msgstr "カスタム コンテナー ID"
+
+#: admin/views/ad-output-metabox.php:38
+msgid "Specify the id of the ad container. Leave blank for random or no id."
+msgstr "広告コンテナのIDを指定します。 無作為または無IDの場合は空白のままにします。"
+
+#: admin/views/ad-output-metabox.php:41
+msgid "container classes"
+msgstr "コンテナー クラス"
+
+#: admin/views/ad-output-metabox.php:44
+msgid "Specify one or more classes for the container. Separate multiple classes with a space"
+msgstr "コンテナに1つまたは複数のクラスを指定します。 複数のクラスをスペースで区切る"
+
+#: classes/ad_type_image.php:34
+msgid "Image Ad"
+msgstr "画像広告"
+
+#: classes/ad_type_image.php:35
+msgid "Ads in various image formats."
+msgstr "さまざまな画像形式の広告です。"
+
+#: classes/ad_type_image.php:55
+msgid "select image"
+msgstr "画像選択"
+
+#: admin/views/checks.php:25
+msgid "Plugins that are known to cause (partial) problems: <strong>%1$s</strong>. <a href=\"%2$s\" target=\"_blank\">Learn more</a>."
+msgstr "(一部の) 問題を引き起こすことが分かっているプラグイン: <strong>%1$s</strong>。<a href=\"%2$s\" target=\"_blank\">詳細</a>"
+
+#: modules/gadsense/includes/class-gadsense-data.php:40
+msgid "Auto"
+msgstr "自動"
+
+#: public/class-advanced-ads.php:641
+msgid "View"
+msgstr "表示"
+
+#. Plugin Name of the plugin/theme
+msgid "Advanced Ads"
+msgstr "Advanced Ads"
+
+#. #-#-#-#-#  advanced-ads-code.pot (Advanced Ads 1.8.28)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  advanced-ads-code.pot (Advanced Ads 1.8.28)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://wpadvancedads.com"
+msgstr "https://wpadvancedads.com"
+
+#. Author of the plugin/theme
+msgid "Thomas Maier"
+msgstr "Thomas Maier"
+
+#: admin/includes/class-menu.php:79 public/class-advanced-ads.php:637
+msgid "Add New Ad"
+msgstr "広告を新規追加"
+
+#: admin/includes/class-menu.php:79 admin/views/ad-group-list-ads.php:17
+#: public/class-advanced-ads.php:636 public/class-advanced-ads.php:640
+msgid "New Ad"
+msgstr "新しい広告"
+
+#: classes/ad-debug.php:121 public/class-advanced-ads.php:598
+msgctxt "ad group singular name"
+msgid "Ad Group"
+msgstr "広告グループ"
+
+#: modules/gadsense/includes/class-ad-type-adsense.php:35
+msgid "AdSense ad"
+msgstr "アドセンス広告"
+
+#: modules/gadsense/includes/class-ad-type-adsense.php:36
+msgid "Use ads from your Google AdSense account"
+msgstr "あなたの Google AdSense アカウントの広告を使用してください。"
+
+#: modules/gadsense/includes/class-ad-type-adsense.php:108
+msgid "Your AdSense Publisher ID is missing."
+msgstr "サイト運営者 ID がありません。"
+
+#: modules/gadsense/main.php:19
+msgid " at "
+msgstr "の"
+
+#: public/class-advanced-ads.php:329
+msgid "Advanced Ads Error following:"
+msgstr "高度な広告エラーをフォロー中："
+
+#: public/class-advanced-ads.php:332
+msgid "Advanced Ads Error: %s"
+msgstr "高度な広告エラー: %s"
+
+#: public/class-advanced-ads.php:599
+msgid "Search Ad Groups"
+msgstr "広告グループを検索..."
+
+#: public/class-advanced-ads.php:600
+msgid "All Ad Groups"
+msgstr "すべてのグループ"
+
+#: public/class-advanced-ads.php:601
+msgid "Parent Ad Groups"
+msgstr "親広告グループ"
+
+#: public/class-advanced-ads.php:602
+msgid "Parent Ad Groups:"
+msgstr "親広告グループ:"
+
+#: public/class-advanced-ads.php:603
+msgid "Edit Ad Group"
+msgstr "広告グループを編集"
+
+#: public/class-advanced-ads.php:604
+msgid "Update Ad Group"
+msgstr "広告グループの更新"
+
+#: public/class-advanced-ads.php:605
+msgid "Add New Ad Group"
+msgstr "新しい広告グループを追加"
+
+#: public/class-advanced-ads.php:606
+msgid "New Ad Groups Name"
+msgstr "新しい広告グループの名前"
+
+#: public/class-advanced-ads.php:608
+msgid "No Ad Group found"
+msgstr "広告グループが見つかりません"
+
+#: public/class-advanced-ads.php:639
+msgid "Edit Ad"
+msgstr "広告編集"
+
+#: public/class-advanced-ads.php:642
+msgid "View the Ad"
+msgstr "広告を表示"
+
+#: public/class-advanced-ads.php:643
+msgid "Search Ads"
+msgstr "広告を検索"
+
+#: public/class-advanced-ads.php:644
+msgid "No Ads found"
+msgstr "広告がみつかりません"
+
+#: public/class-advanced-ads.php:645
+msgid "No Ads found in Trash"
+msgstr "ゴミ箱に広告がみつかりません"
+
+#: public/class-advanced-ads.php:646
+msgid "Parent Ad"
+msgstr "メイン広告"
+
+#. Description of the plugin/theme
+msgid "Manage and optimize your ads in WordPress"
+msgstr "WordPress 内の広告を管理・最適化"
+
+#: includes/array_ad_conditions.php:39
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: classes/display-conditions.php:548 includes/array_ad_conditions.php:78
+msgid "Search Results"
+msgstr "検索結果"
+
+#: classes/ad_type_content.php:35
+msgid "Rich Content"
+msgstr "リッチコンテンツ"
+
+#: includes/array_ad_conditions.php:51
+msgid "Category Archives"
+msgstr "カテゴリーアーカイブ"
+
+#: modules/gadsense/admin/admin.php:29
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:63
+msgid "Responsive"
+msgstr "レスポンシブ"
+
+#: classes/display-conditions.php:549 includes/array_ad_conditions.php:79
+msgid "show on search result pages"
+msgstr "検索結果ページで表示"
+
+#: classes/display-conditions.php:553 includes/array_ad_conditions.php:83
+msgid "404 Page"
+msgstr "404ページ"
+
+#: admin/includes/class-shortcode-creator.php:82 classes/widget.php:77
+msgid "--empty--"
+msgstr "-- 空欄 --"
+
+#: admin/views/placement-injection-top.php:14 classes/ad_placements.php:47
+msgid "Before Content"
+msgstr "コンテンツの前"
+
+#: admin/views/placement-injection-top.php:16 classes/ad_placements.php:53
+msgid "After Content"
+msgstr "コンテンツの後"
+
+#: classes/ad_placements.php:48
+msgid "Injected before the post content."
+msgstr "記事の内容前に注入します。"
+
+#: classes/ad_placements.php:54
+msgid "Injected after the post content."
+msgstr "記事の内容後注入。"
+
+#: classes/ad_placements.php:60
+msgid "Injected into the content. You can choose the paragraph after which the ad content is displayed."
+msgstr "記事の内容に注入します。広告コンテンツを表示した後段落を選択できます。"
+
+#: classes/ad_placements.php:222
+msgid "paragraph (%s)"
+msgstr "段落 (%s)"
+
+#: classes/ad_placements.php:224
+msgid "headline 2 (%s)"
+msgstr "見出し 2 (%s)"
+
+#: classes/ad_placements.php:225
+msgid "headline 3 (%s)"
+msgstr "見出し 3 (%s)"
+
+#: classes/ad_placements.php:226
+msgid "headline 4 (%s)"
+msgstr "見出し 4 (%s)"
+
+#: classes/ad_type_content.php:36
+msgid "The full content editor from WordPress with all features like shortcodes, image upload or styling, but also simple text/html mode for scripts and code."
+msgstr "ショートコード、画像のアップロード、スタイリングだけでなくスクリプトやコードから単純なテキスト/html モードのようなすべての機能を備えた WordPress の完全なコンテンツエディター。"
+
+#: classes/ad_type_plain.php:31
+msgid "Plain Text and Code"
+msgstr "プレーン テキストとコード"
+
+#: classes/ad_type_plain.php:52
+msgid "Insert plain text or code into this field."
+msgstr "このフィールドには、プレーン テキストまたはコードを挿入します。"
+
+#: classes/ad_type_plain.php:90
+msgid "Execute PHP code (wrapped in <code>&lt;?php ?&gt;</code>)"
+msgstr "PHP コードを実行 (包まれた <code>&lt;?php ?&gt;</code> )"
+
+#: classes/display-conditions.php:234 classes/display-conditions.php:287
+#: classes/display-conditions.php:342 classes/display-conditions.php:459
+#: classes/visitor-conditions.php:136
+msgid "is"
+msgstr "一致"
+
+#: classes/display-conditions.php:235 classes/display-conditions.php:288
+#: classes/display-conditions.php:343 classes/display-conditions.php:460
+#: classes/visitor-conditions.php:137
+msgid "is not"
+msgstr "一致しない"
+
+#: classes/display-conditions.php:533 includes/array_ad_conditions.php:63
+msgid "Home Page"
+msgstr "ホームページ"
+
+#: classes/display-conditions.php:534 includes/array_ad_conditions.php:64
+msgid "show on Home page"
+msgstr "ホーム ページに表示します。"
+
+#: classes/display-conditions.php:538 includes/array_ad_conditions.php:68
+msgid "Singular Pages"
+msgstr "単一ページ"
+
+#: classes/display-conditions.php:539 includes/array_ad_conditions.php:69
+msgid "show on singular pages/posts"
+msgstr "単数ページ/投稿を表示します。"
+
+#: classes/display-conditions.php:543 includes/array_ad_conditions.php:73
+msgid "Archive Pages"
+msgstr "アーカイブページ"
+
+#: classes/display-conditions.php:544 includes/array_ad_conditions.php:74
+msgid "show on any type of archive page (category, tag, author and date)"
+msgstr "あらゆる種類のアーカイブ ページ (カテゴリ、タグ、作成者、日付) の地図します。"
+
+#: classes/display-conditions.php:558 includes/array_ad_conditions.php:88
+msgid "Attachment Pages"
+msgstr "添付ファイルページ"
+
+#: classes/display-conditions.php:559 includes/array_ad_conditions.php:89
+msgid "show on attachment pages"
+msgstr "添付ファイルのページを表示します。"
+
+#: classes/display-conditions.php:563 includes/array_ad_conditions.php:93
+msgid "Secondary Queries"
+msgstr "セカンダリのクエリ"
+
+#: classes/display-conditions.php:564 includes/array_ad_conditions.php:94
+msgid "allow ads in secondary queries"
+msgstr "セカンダリ クエリで広告を許可します。"
+
+#: classes/visitor-conditions.php:33
+msgid "Display ads only on mobile devices or hide them."
+msgstr "モバイル デバイス上でのみ広告を表示または非表示にします。"
+
+#: classes/visitor-conditions.php:39
+msgid "logged in visitor"
+msgstr "訪問者をログイン"
+
+#: classes/visitor-conditions.php:40
+msgid "Whether the visitor has to be logged in or not in order to see the ads."
+msgstr "訪問者がログインする、または広告を見るためにかどうか。"
+
+#: classes/visitor-conditions.php:171
+msgid "equal"
+msgstr "等しい"
+
+#: classes/visitor-conditions.php:172
+msgid "equal or higher"
+msgstr "同等以上"
+
+#: classes/visitor-conditions.php:173
+msgid "equal or lower"
+msgstr "同じ、または低い"
+
+#: classes/visitor-conditions.php:204
+msgid "contains"
+msgstr "含まれています"
+
+#: classes/visitor-conditions.php:205
+msgid "starts with"
+msgstr "開始する"
+
+#: classes/visitor-conditions.php:206
+msgid "ends with"
+msgstr "終了する"
+
+#: classes/visitor-conditions.php:207
+msgid "matches"
+msgstr "一致"
+
+#: classes/visitor-conditions.php:208
+msgid "matches regex"
+msgstr "正規表現に一致"
+
+#: classes/visitor-conditions.php:209
+msgid "does not contain"
+msgstr "含まれていません"
+
+#: classes/visitor-conditions.php:210
+msgid "does not start with"
+msgstr "下記より始まらない"
+
+#: classes/visitor-conditions.php:211
+msgid "does not end with"
+msgstr "以下で終わらない"
+
+#: classes/visitor-conditions.php:212
+msgid "does not match"
+msgstr "不一致"
+
+#: classes/visitor-conditions.php:213
+msgid "does not match regex"
+msgstr "正規表現パターンに一致しません"
+
+#: classes/widget.php:22
+msgid "Display Ads and Ad Groups."
+msgstr "広告や広告グループを表示します。"
+
+#: classes/widget.php:71
+msgid "Title:"
+msgstr "タイトル:"
+
+#: includes/array_ad_conditions.php:45
+msgid "Categories, Tags and Taxonomies"
+msgstr "カテゴリ、タグと分類"
+
+#: includes/array_ad_conditions.php:46
+msgid "Choose terms from public category, tag and other taxonomies a post must belong to in order to have ads."
+msgstr "公開カテゴリ、タグおよびポストは広告があるために属さなければならない他の分類から用語を選択します。"
+
+#: includes/array_ad_conditions.php:52
+msgid "comma seperated IDs of category archives"
+msgstr "コンマ区切り Id カテゴリをアーカイブします。"
+
+#: includes/array_ad_conditions.php:57
+msgid "Individual Posts, Pages and Public Post Types"
+msgstr "個々 の投稿、ページおよびパブリック ポスト タイプ"
+
+#: modules/gadsense/admin/admin.php:48
+msgid "The ad details couldn't be retrieved from the ad code"
+msgstr "広告コードから広告の詳細を取得できませんでした。"
+
+#: modules/gadsense/admin/admin.php:49
+msgid "Warning : The AdSense account from this code does not match the one set with the Advanced Ads Plugin. This ad might cause troubles when used in the front end."
+msgstr "警告: このコードから AdSense アカウントは、高度な広告のプラグインの 1 つのセットを一致しません。この広告は、フロント エンドで使用する場合の問題を可能性があります。"
+
+#: modules/gadsense/admin/admin.php:312
+msgid "AdSense"
+msgstr "Google AdSense"
+
+#: modules/gadsense/admin/admin.php:140
+msgid "AdSense ID"
+msgstr "アドセンス ID"
+
+#: modules/gadsense/admin/admin.php:149
+msgid "Limit to 3 ads"
+msgstr "3つの広告に制限する"
+
+#: modules/gadsense/admin/admin.php:210
+msgid "Please enter your Publisher ID in order to use AdSense on your page. See the <a href=\"%s\" target=\"_blank\">manual</a> for more information."
+msgstr "あなたのページに AdSense を使用するためにサイト運営者 ID を入力してください。<a href=\"%s\" target=\"_blank\">マニュアル</a>の詳細を参照してください。"
+
+#: modules/gadsense/admin/admin.php:206
+msgid "Your AdSense Publisher ID <em>(pub-xxxxxxxxxxxxxx)</em>"
+msgstr "AdSense サイト運営者 ID <em>(pub-xxxxxxxxxxxxxx)</em>"
+
+#: modules/gadsense/admin/admin.php:224
+msgid "Limit to %d AdSense ads"
+msgstr "%d 個のAdSense広告に制限します。"
+
+#: modules/gadsense/admin/admin.php:290
+#: modules/gadsense/includes/class-ad-type-adsense.php:73
+msgid "The Publisher ID has an incorrect format. (must start with \"pub-\")"
+msgstr "パブリッシャーIDの形式が正しくありません。(「pub-」で始まる必要があります)"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:30
+msgid "Get details"
+msgstr "詳細を取得"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:39
+msgid "Ad Slot ID"
+msgstr "広告スロット ID"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:44
+msgid "Publisher ID: %s"
+msgstr "パブリッシャー ID: %s"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:56
+msgid "Please <a href=\"%s\" target=\"_blank\">change it here</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">ここでそれを変更</a>してください。"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:62
+msgid "Normal"
+msgstr "標準"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:73
+msgid "Resizing"
+msgstr "サイズ"
+
+#: classes/display-conditions.php:554 includes/array_ad_conditions.php:84
+msgid "show on 404 error page"
+msgstr "404 エラーのページに表示"
+
+#: admin/views/ad-submitbox-meta.php:12
+msgid "Month"
+msgstr "月"
+
+#: admin/views/ad-submitbox-meta.php:21
+msgid "Day"
+msgstr "日"
+
+#: admin/views/ad-submitbox-meta.php:22
+msgid "Year"
+msgstr "年"
+
+#: admin/views/ad-submitbox-meta.php:24
+msgid "Minute"
+msgstr "分"
+
+#: admin/views/setting-license.php:31
+msgid "License key"
+msgstr "ライセンスキー"
+
+#: admin/views/ad-parameters-size.php:4
+msgid "height"
+msgstr "高さ"
+
+#: admin/views/ad-display-metabox.php:107 admin/views/ad-group-list-ads.php:24
+#: admin/views/ad-visitor-metabox.php:93
+msgid "add"
+msgstr "追加"
+
+#: admin/views/setting-license.php:47
+msgid "Activate License"
+msgstr "ライセンスを有効化"
+
+#: admin/views/support.php:18
+msgid "search"
+msgstr "検索"
+
+#: admin/views/ad-output-metabox.php:14
+#: admin/views/placements-ad-label-position.php:12
+#: admin/views/placements-ad-label-position.php:14
+msgid "right"
+msgstr "右"
+
+#: admin/views/ad-output-metabox.php:11
+#: admin/views/placements-ad-label-position.php:9
+#: admin/views/placements-ad-label-position.php:11
+msgid "center"
+msgstr "中央"
+
+#: admin/views/ad-output-metabox.php:8
+#: admin/views/placements-ad-label-position.php:6
+#: admin/views/placements-ad-label-position.php:8
+msgid "left"
+msgstr "左"
+
+#: classes/ad_placements.php:42
+msgid "Footer Code"
+msgstr "フッターコード"
+
+#: classes/ad_placements.php:37
+msgid "Header Code"
+msgstr "ヘッダーコード"
+
+#: admin/views/ad-output-metabox.php:4
+#: admin/views/placements-ad-label-position.php:1
+msgid "Position"
+msgstr "配置"
+
+#: admin/views/ad-parameters-size.php:3
+msgid "width"
+msgstr "横幅"
+
+#: admin/views/ad-submitbox-meta.php:23
+msgid "Hour"
+msgstr "時間"
+
+#: admin/views/setting-license.php:51
+msgid "License key invalid"
+msgstr "無効なライセンスキー"
+
+#: admin/includes/class-overview-widgets.php:77
+msgid "Get 2 free add-ons"
+msgstr "2つの無料アドオンを入手"
+
+#: admin/views/ad-display-metabox.php:92 admin/views/ad-visitor-metabox.php:76
+msgid "New condition"
+msgstr "新しい条件"
+
+#: admin/views/ad-display-metabox.php:95 admin/views/ad-visitor-metabox.php:79
+msgid "-- choose a condition --"
+msgstr "-- 条件を選択して下さい。 --"
+
+#: admin/views/ad-group.php:29
+msgid "Ad Groups successfully updated"
+msgstr "正常に更新された広告グループ"
+
+#: admin/views/ad-group.php:59
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; の検索結果"
+
+#: admin/views/ad-group.php:68
+msgid "Ad Groups are a very flexible method to bundle ads. You can use them to display random ads in the frontend or run split tests, but also just for informational purposes. Not only can an Ad Groups have multiple ads, but an ad can belong to multiple ad groups."
+msgstr "広告グループ、広告をバンドルする非常に柔軟な方法です。フロント エンドのランダム広告を表示分割テストを実行または情報提供の目的だけではなく、それらを使用できます。広告グループは、複数の広告を持つことができますだけ広告を複数の広告グループに属することができます。"
+
+#: admin/views/ad-group.php:96
+msgid "Update Groups"
+msgstr "グループを更新します。"
+
+#: admin/views/placement-injection-top.php:71
+msgid "Learn more about your choices to display an ad in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">手動</a>で広告を表示するあなたの選択肢について説明します。"
+
+#: admin/views/ad-info.php:2
+msgid "Ad Id: %s"
+msgstr "広告 Id: %s"
+
+#: admin/views/ad-info.php:5
+msgid "theme function"
+msgstr "テーマ機能"
+
+#: admin/views/ad-info.php:7
+msgid "Find more display options in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">マニュアル</a>で複数の表示オプションを検索します。"
+
+#: admin/views/ad-info.php:11
+msgid "click to change"
+msgstr "クリックして変更する"
+
+#: admin/views/ad-info.php:15
+msgid "Add a description"
+msgstr "詳細な説明を追加"
+
+#: admin/views/ad-info.php:18
+msgid "Internal description or your own notes about this ad."
+msgstr "この広告についての内部説明またはあなたの注釈。"
+
+#: admin/views/ad-main-metabox.php:3
+msgid "No ad types defined"
+msgstr "定義されている広告の種類がありません。"
+
+#: admin/views/ad-output-metabox.php:1
+msgid "Everything connected to the ads layout and output."
+msgstr "接続された全ての広告のレイアウトの出力位置"
+
+#: admin/views/ad-output-metabox.php:6
+msgid "- default -"
+msgstr "- デフォルト -"
+
+#: admin/views/ad-output-metabox.php:7
+#: admin/views/placements-ad-label-position.php:2
+#: admin/views/placements-ad-label-position.php:4
+#: admin/views/placements-ad-label.php:1 admin/views/placements-ad-label.php:3
+#: admin/views/placements.php:53
+msgid "default"
+msgstr "既定"
+
+#: admin/views/ad-output-metabox.php:18
+msgid "Check this if you don't want the following elements to float around the ad. (adds a clearfix)"
+msgstr "次の要素を広告の周りに浮かべたくない場合は、これをチェックします。 （clearfixを追加する）"
+
+#: admin/views/ad-output-metabox.php:22
+msgid "Margin"
+msgstr "マージン"
+
+#: admin/views/ad-output-metabox.php:24
+msgid "top:"
+msgstr "上端"
+
+#: admin/views/ad-output-metabox.php:26
+msgid "right:"
+msgstr "右"
+
+#: admin/views/ad-output-metabox.php:28
+msgid "bottom:"
+msgstr "下部"
+
+#: admin/views/ad-output-metabox.php:30
+msgid "left:"
+msgstr "左"
+
+#: admin/views/ad-output-metabox.php:32
+msgid "tip: use this to add a margin around the ad"
+msgstr "ヒント: これを使用して広告の周りに余白を追加する"
+
+#: admin/views/ad-submitbox-meta.php:6
+msgid "Set expiry date"
+msgstr "有効期限"
+
+#: admin/views/ad-submitbox-meta.php:29
+msgctxt "order of expiry date fields 1: month, 2: day, 3: year, 4: hour, 5: minute"
+msgid "%1$s %2$s, %3$s @ %4$s %5$s"
+msgstr "%1$s %2$s, %3$s @ %4$s %5$s"
+
+#: admin/views/ad-visitor-metabox.php:34
+msgid "Display conditions that are based on the user. Use with caution on cached websites."
+msgstr "ユーザーに基づく条件を表示します。 キャッシュされたWebサイトでは慎重に使用してください。"
+
+#: admin/views/ad-visitor-metabox.php:69
+msgid "Visitor conditions limit the number of users who can see your ad. There is no need to set visitor conditions if you want all users to see the ad."
+msgstr "ユーザーの条件によって、広告を表示できるユーザー数が制限されます。 すべてのユーザーに広告を表示させる場合は、訪問ユーザーの条件を設定する必要はありません。"
+
+#: admin/views/ad-visitor-metabox.php:72
+msgid "Check out cache-busting in <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> if dynamic features get cached."
+msgstr "ダイナミック機能でキャッシュされる場合は、<a href=\"%s\" target=\"_blank\">広告管理プロ</a>のキャッシュ無効化をご覧ください。"
+
+#: admin/views/ad-visitor-metabox.php:98
+msgid "Define the exact browser width for which an ad should be visible using the <a href=\"%s\" target=\"_blank\">Responsive add-on</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">レスポンシブアドオン</a>を使用してブラウザの幅を正確に定義し広告を表示します。"
+
+#: admin/views/ad-visitor-metabox.php:145
+msgid "The visitor conditions below are deprecated. Please use the new version of visitor conditions to replace it."
+msgstr "以下の訪問者の条件は推奨されていません。 新しいバージョンの訪問者の条件を使用して交換してください。"
+
+#: admin/views/ad-visitor-metabox.php:151
+msgid "Display on all devices"
+msgstr "すべてのデバイスを表示します。"
+
+#: admin/views/ad-visitor-metabox.php:155
+msgid "only on mobile devices"
+msgstr "モバイルのみ"
+
+#: admin/views/ad-visitor-metabox.php:159
+msgid "not on mobile devices"
+msgstr "モバイルで無効"
+
+#: admin/views/notices/adblock.php:2
+msgid "Please disable your <strong>AdBlocker</strong> to prevent problems with your ad setup."
+msgstr "広告セットアップで問題を防ぐためにあなたの<strong>広告ブロッカー</strong>を無効にしてください。"
+
+#: admin/views/placements-content-index.php:1
+msgid "after"
+msgstr "後"
+
+#: admin/views/placements-content-index.php:1
+msgid "before"
+msgstr "前"
+
+#: admin/views/placements-content-index.php:21
+msgid "start counting from bottom"
+msgstr "下から数え始めます"
+
+#: admin/views/placements-item.php:2 admin/views/placements.php:191
+msgid "--not selected--"
+msgstr "-- 選択なし --"
+
+#: admin/views/placements.php:8
+msgid "Couldn’t create the new placement. Please check your form field and whether the name is already in use."
+msgstr "新しい配置を作成できませんでした。 フォームフィールドと名前が既に使用されているかどうかを確認してください。"
+
+#: admin/views/placements.php:10
+msgid "Placements updated"
+msgstr "設置を更新"
+
+#: admin/views/placements.php:14
+msgid "Placements are physically places in your theme and posts. You can use them if you plan to change ads and ad groups on the same place without the need to change your templates."
+msgstr "配置はテーマや投稿に物理的に配置されます。 テンプレートを変更することなく、同じ場所で広告と広告グループを変更する予定がある場合は、これを使用できます。"
+
+#: admin/views/placements.php:15
+msgid "See also the manual for more information on <a href=\"%s\">placements</a>."
+msgstr "<a href=\"%s\">配置</a>の詳細についてはマニュアルを参照してください。"
+
+#: admin/views/placements.php:25 modules/import-export/views/page.php:26
+msgid "Options"
+msgstr "オプション"
+
+#: admin/views/placements.php:59
+msgid "show usage"
+msgstr "ショートコードなどを表示"
+
+#: admin/views/placements.php:84
+msgid "Item"
+msgstr "アイテム"
+
+#: admin/views/placements.php:100
+msgid "Important Notice"
+msgstr "重要なお知らせ"
+
+#: admin/views/placements.php:145
+msgctxt "checkbox to remove placement"
+msgid "delete"
+msgstr "削除"
+
+#: admin/views/placements.php:152
+msgid "Save Placements"
+msgstr "配置を保存"
+
+#: admin/views/placements.php:154
+msgid "Create a new placement"
+msgstr "新しい配置を作成します。"
+
+#: admin/views/placements.php:155
+msgid "New Placement"
+msgstr "配置の新規作成"
+
+#: admin/views/placements.php:164
+msgid "Choose a placement type"
+msgstr "配置の種類を選択します。"
+
+#: admin/views/placements.php:165
+msgid "Placement types define where the ad is going to be displayed. Learn more about the different types from the <a href=\"%s\">manual</a>"
+msgstr "配置タイプは、広告は表示する予定を定義します。詳細については、<a href=\"%s\">マニュアル</a>を見てください。"
+
+#: admin/views/placements.php:182
+msgid "Please select a placement type."
+msgstr "配置タイプを選択してください。"
+
+#: admin/views/placements.php:184
+msgid "Choose a Name"
+msgstr "名前を選択"
+
+#: admin/views/placements.php:185
+msgid "The name of the placement is only visible to you. Tip: choose a descriptive one, e.g. <em>Below Post Headline</em>."
+msgstr "配置のの名前はあなただけが見ることができます。ヒント: 説明的なものを選択してください。 <em>記事の見出しの下</em>。"
+
+#: admin/views/placements.php:186
+msgid "Placement Name"
+msgstr "配置名"
+
+#: admin/views/placements.php:187
+msgid "Please enter a name for your placement."
+msgstr "あなたの配置の名前を入力してください。"
+
+#: admin/views/placements.php:188
+msgid "Choose the Ad or Group"
+msgstr "広告またはグループを選択"
+
+#: admin/views/placements.php:189
+msgid "The ad or group that should be displayed."
+msgstr "表示されるべき広告またはグループ。"
+
+#: admin/views/placements.php:208
+msgid "Save New Placement"
+msgstr "新しい配置を保存"
+
+#: admin/views/post-ad-settings-metabox.php:3
+msgid "Disable ads on this page"
+msgstr "このページの広告を無効にします。"
+
+#: admin/views/setting-license.php:27
+msgid "(%d days left)"
+msgstr "(残り %d 日)"
+
+#: admin/views/setting-license.php:54
+msgid "active"
+msgstr "アクティブ"
+
+#: admin/views/settings-disable-ads.php:3
+msgid "Disable all ads in frontend"
+msgstr "フロント エンドのすべての広告を無効にします。"
+
+#: admin/views/settings-disable-ads.php:4
+msgid "Use this option to disable all ads in the frontend, but still be able to use the plugin."
+msgstr "このオプションを使用すると、フロント エンドのすべての広告を無効にするが、まだプラグインを使用することができます。"
+
+#: admin/views/settings-disable-ads.php:8
+msgid "Disable ads on 404 error pages"
+msgstr "404エラーのページ上で広告を無効にします。"
+
+#: admin/views/settings-disable-ads.php:12
+msgid "Disable ads on non-singular pages"
+msgstr "非特異的なページの広告を無効にする"
+
+#: admin/views/settings-disable-ads.php:13
+msgid "e.g. archive pages like categories, tags, authors, front page (if a list)"
+msgstr "例えば カテゴリ、タグ、著者、フロントページなどのアーカイブページ（一覧の場合）"
+
+#: admin/views/settings-disable-ads.php:16
+msgid "Disable ads on secondary queries"
+msgstr "セカンダリクエリで広告を無効にする"
+
+#: admin/views/settings-disable-ads.php:17
+msgid "Secondary queries are custom queries of posts outside the main query of a page. Try this option if you see ads injected on places where they shouldn’t appear."
+msgstr "セカンダリクエリは、ページのメインクエリ以外のポストのカスタムクエリです。 広告が表示されない場所に広告が掲載されている場合は、このオプションをお試しください。"
+
+#: admin/views/settings.php:39
+msgid "Save settings on this page"
+msgstr "このページに設定を保存する"
+
+#: admin/views/checks.php:10
+msgid "Your <strong>PHP version (%s) is too low</strong>. Advanced Ads is built for PHP 5.3 and higher. It might work, but updating PHP is highly recommended. Please ask your hosting provider for more information."
+msgstr "あなたが<strong>PHP バージョン (%s) が低すぎます</strong>。広告管理は、PHP 5.3以上で作成されています。 それはうまくいくかもしれませんが、PHPの更新を強くお勧めします。 詳細については、ホスティングプロバイダにお尋ねください。"
+
+#: admin/views/checks.php:13
+msgid "Your <strong>website uses cache</strong>. Some dynamic features like ad rotation or visitor conditions might not work properly. Use the cache-busting feature of <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> to load ads dynamically."
+msgstr "あなたが<strong>ウェブサイトはキャッシュを使用</strong>します。広告のローテーションや訪問ユーザーのような動的な機能は正しく動作しない可能性があります。 動的に広告を読み込むには、<a href=\"%s\" target=\"_blank\"> 広告管理Pro </a>のキャッシュ無効化機能を使用します。"
+
+#: admin/views/checks.php:16
+msgid "There is a <strong>new WordPress version available</strong>. Please update."
+msgstr "<strong>利用可能な新しいWordPress のバージョン</strong>があります。更新してください。"
+
+#: admin/views/checks.php:19
+msgid "There are <strong>plugin updates available</strong>. Please update."
+msgstr "<strong>利用可能なプラグインの更新</strong>があります。更新してください。"
+
+#: admin/views/checks.php:22
+msgid "<strong>Autoptimize plugin detected</strong>. While this plugin is great for site performance, it is known to alter code, including scripts from ad networks. <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> has a build-in support for Autoptimize."
+msgstr "<strong>Autoptimize プラグインが検出されました</strong>。このプラグインは、サイトのパフォーマンスのためですが、広告ネットワークからのスクリプトを含むコードを変更が知られています。<a href=\"%s\" target=\"_blank\">広告管理プロ</a>でAutoptimizeを使用した構築をサポートしています。"
+
+#: admin/views/support.php:8
+msgid "Possible Issues"
+msgstr "考えられる問題"
+
+#: admin/views/support.php:15
+msgid "Use the following form to search for solutions in the manual on wpadvancedads.com"
+msgstr "次のフォームを使用して、wpadvancedads.com で手動でソリューションを検索"
+
+#: classes/EDD_SL_Plugin_Updater.php:399
+msgid "You do not have permission to install plugin updates"
+msgstr "あなたはプラグインの更新プログラムをインストールする権限がありません"
+
+#: classes/EDD_SL_Plugin_Updater.php:399
+msgid "Error"
+msgstr "エラー  "
+
+#: classes/ad_placements.php:31
+msgid "Manual Placement"
+msgstr "手動で配置"
+
+#: classes/ad_placements.php:32
+msgid "Manual placement to use as function or shortcode."
+msgstr "手動配置機能やショートコードとして使用します。"
+
+#: classes/ad_placements.php:38
+msgid "Injected in Header (before closing &lt;/head&gt; Tag, often not visible)."
+msgstr "ヘッダーに挿入(終値前に &lt;/head&gt; タグ、頻繁に表示されていません) "
+
+#: admin/views/placements.php:43
+msgid "Placement type \"%s\" is missing and was reset to \"default\".<br/>Please check if the responsible add-on is activated."
+msgstr "配置タイプ「%s」が見つからないため「デフォルト」にリセットしました。<br/>対応するアドオンが有効になっているか確認してください。"
+
+#: admin/views/ad-submitbox-meta.php:16
+msgctxt "1: month number (01, 02, etc.), 2: month abbreviation"
+msgid "%1$s-%2$s"
+msgstr "%1$s (%2$s)"
+
+#: admin/includes/class-ad-groups-list.php:314
+msgid "Usage"
+msgstr "使い方"
+
+#: admin/views/ad-group-list-form-row.php:41 admin/views/placements.php:23
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:59
+msgid "Type"
+msgstr "タイプ"
+
+#: admin/includes/class-ad-groups-list.php:323
+msgid "Delete"
+msgstr "削除"
+
+#: admin/views/ad-group-edit.php:59
+msgid "Update"
+msgstr "更新"
+
+#: admin/views/ad-group-list-header.php:4
+msgid "Details"
+msgstr "詳細"
+
+#: admin/views/settings.php:12
+msgid "General"
+msgstr "一般"
+
+#: admin/includes/class-settings.php:231
+msgid "Licenses"
+msgstr "ライセンス"
+
+#: admin/views/ad-group-list-row.php:8 admin/views/ad-info.php:3
+#: admin/views/placements.php:66
+msgid "shortcode"
+msgstr "ショートコード"
+
+#: admin/views/ad-group-list-row.php:11
+msgid "template"
+msgstr "テンプレート"
+
+#: admin/includes/class-settings.php:357
+msgid "Admin"
+msgstr "管理者"
+
+#: admin/includes/class-settings.php:353
+msgid "Subscriber"
+msgstr "購読者"
+
+#: admin/includes/class-overview-widgets.php:130
+msgid "<a href=\"%s\" target=\"_blank\">Manual</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">手動</a>"
+
+#: admin/includes/class-settings.php:354
+msgid "Contributor"
+msgstr "寄稿者"
+
+#: admin/includes/class-settings.php:355
+msgid "Author"
+msgstr "投稿者"
+
+#: admin/includes/class-settings.php:356
+msgid "Editor"
+msgstr "編集者"
+
+#: admin/includes/class-ad-groups-list.php:165
+msgid "Ad weight"
+msgstr "広告重要度"
+
+#: admin/includes/class-ad-groups-list.php:217
+msgid "all published ads are displayed"
+msgstr "すべての公開された広告が表示されています"
+
+#: admin/includes/class-ad-groups-list.php:219
+msgid "up to %d ads displayed"
+msgstr "最大 %d 個の広告が表示されます"
+
+#: admin/includes/class-ad-groups-list.php:222
+msgid "No ads assigned"
+msgstr "割り当てられている広告がありません"
+
+#: admin/includes/class-ad-groups-list.php:289
+msgid "Random ads"
+msgstr "ランダム広告"
+
+#: admin/includes/class-ad-groups-list.php:290
+msgid "Display random ads based on ad weight"
+msgstr "広告重き付けに基づいてランダム広告を表示します。"
+
+#: admin/includes/class-ad-groups-list.php:293
+msgid "Ordered ads"
+msgstr "順序付けられた広告"
+
+#: admin/includes/class-ad-groups-list.php:294
+msgid "Display ads with the highest ad weight first"
+msgstr "最初に最高の広告重量と広告を表示します。"
+
+#: admin/includes/class-ad-groups-list.php:313
+#: modules/import-export/classes/import.php:146
+#: modules/import-export/classes/import.php:186
+#: modules/import-export/classes/import.php:562
+#: public/class-advanced-ads.php:638
+msgid "Edit"
+msgstr "編集 "
+
+#: admin/includes/class-ad-groups-list.php:344
+#: admin/includes/class-ad-groups-list.php:394
+msgid "Invalid Ad Group"
+msgstr "広告グループは無効"
+
+#: admin/includes/class-ad-groups-list.php:349
+#: admin/includes/class-ad-groups-list.php:399
+msgid "You don’t have permission to change the ad groups"
+msgstr "広告グループを変更する権限がありません。"
+
+#: admin/includes/class-ad-type.php:81 admin/includes/class-ad-type.php:86
+msgid "Ad Details"
+msgstr "広告の詳細"
+
+#: admin/includes/class-ad-type.php:184
+msgid "expired"
+msgstr "期限切れ"
+
+#: admin/includes/class-ad-type.php:206
+msgid "%s ad updated."
+msgid_plural "%s ads updated."
+msgstr[0] "%s の広告を更新"
+
+#: admin/includes/class-ad-type.php:207
+msgid "%s ad not updated, somebody is editing it."
+msgid_plural "%s ads not updated, somebody is editing them."
+msgstr[0] "%s の広告は更新されません、誰かがそれを編集しています。"
+
+#: admin/includes/class-ad-type.php:208
+msgid "%s ad permanently deleted."
+msgid_plural "%s ads permanently deleted."
+msgstr[0] "%s の広告が完全に削除された。"
+
+#: admin/includes/class-ad-type.php:209
+msgid "%s ad moved to the Trash."
+msgid_plural "%s ads moved to the Trash."
+msgstr[0] "%s の広告はゴミ箱に移動しました。"
+
+#: admin/includes/class-ad-type.php:210
+msgid "%s ad restored from the Trash."
+msgid_plural "%s ads restored from the Trash."
+msgstr[0] "%s の広告をゴミ箱から復元します。"
+
+#: admin/includes/class-ad-type.php:539 admin/includes/class-ad-type.php:540
+msgid "Ad updated."
+msgstr "更新した広告"
+
+#. translators: %s: date and time of the revision
+#: admin/includes/class-ad-type.php:542
+msgid "Ad restored to revision from %s"
+msgstr "リビジョン %s から復元された広告"
+
+#: admin/includes/class-ad-type.php:543 admin/includes/class-ad-type.php:544
+msgid "Ad saved."
+msgstr "広告を保存"
+
+#: admin/includes/class-ad-type.php:545
+msgid "Ad submitted."
+msgstr "広告の送信"
+
+#: admin/includes/class-ad-type.php:547
+msgid "Ad scheduled for: <strong>%1$s</strong>."
+msgstr "広告のスケジュール設定: <strong>%1$s</strong>。"
+
+#: admin/includes/class-ad-type.php:551
+msgid "Ad draft updated."
+msgstr "広告の下書きを更新"
+
+#: admin/includes/class-licenses.php:101
+msgid "Error while trying to register the license. Please contact support."
+msgstr "ライセンスを登録しようとしてエラーが発生しました。サポートに問い合わせてください。"
+
+#: admin/includes/class-licenses.php:158
+msgid "License is invalid. Reason: %s"
+msgstr "ライセンスが有効ではありません。理由: %s"
+
+#: admin/includes/class-menu.php:206
+msgid "You attempted to edit an ad group that doesn&#8217;t exist. Perhaps it was deleted?"
+msgstr "あなたは存在しないアイテムを編集しようとしました。多分それを削除した？"
+
+#: admin/includes/class-meta-box.php:55
+msgid "Ad Type"
+msgstr "広告タイプ"
+
+#: admin/includes/class-meta-box.php:61
+msgid "Ad Parameters"
+msgstr "広告パラメーター"
+
+#: admin/includes/class-meta-box.php:64
+msgid "Layout / Output"
+msgstr "レイアウト/出力"
+
+#: admin/includes/class-meta-box.php:67 classes/ad-debug.php:152
+msgid "Display Conditions"
+msgstr "表示条件"
+
+#: admin/includes/class-meta-box.php:70 classes/ad-debug.php:239
+msgid "Visitor Conditions"
+msgstr "訪問者条件"
+
+#: admin/includes/class-meta-box.php:244
+msgid "Ad Settings"
+msgstr "広告設定"
+
+#: admin/includes/class-meta-box.php:346 admin/views/overview.php:6
+msgid "Ads Dashboard"
+msgstr "ダッシュ ボード広告"
+
+#: admin/includes/class-meta-box.php:439
+msgid "From the ad optimization universe"
+msgstr "広告の最適化の宇宙から"
+
+#: admin/includes/class-meta-box.php:448
+msgid "Advanced Ads Tutorials"
+msgstr "高度な広告のチュートリアル"
+
+#: admin/includes/class-meta-box.php:357
+msgid "%d ads – <a href=\"%s\">manage</a> - <a href=\"%s\">new</a>"
+msgstr "%d件の広告 - <a href=\"%s\">管理</a>- <a href=\"%s\">新規</a>"
+
+#: admin/includes/class-meta-box.php:369
+msgid "plugin manual and homepage"
+msgstr "プラグインのマニュアルやホームページ"
+
+#: admin/includes/class-meta-box.php:376
+msgid "Get the tutorial via email"
+msgstr "E メール経由でチュートリアルを取得します。"
+
+#: admin/includes/class-meta-box.php:383
+msgid "Get AdSense tips via email"
+msgstr "E メール経由で AdSense のヒントを得る"
+
+#: admin/includes/class-notices.php:458
+msgid "You don’t seem to have an email address. Please use <a href=\"%s\" target=\"_blank\">this form</a> to sign up."
+msgstr "あなたは電子メール アドレスを持っていないようです。<a href=\"%s\" target=\"_blank\">このフォーム</a>を使用してサインアップするしてください。"
+
+#: admin/includes/class-notices.php:476
+msgid "How embarrassing. The email server seems to be down. Please try again later."
+msgstr "なにか戸惑っていますか？メール サーバーがダウンしているようです。後でもう一度試してください。"
+
+#: admin/includes/class-notices.php:481
+msgid "Please check your email (%s) for the confirmation message. If you didn’t receive one or want to use another email address then please use <a href=\"%s\" target=\"_blank\">this form</a> to sign up."
+msgstr "確認メッセージのメール (%s) を確認してください。メールアドレスを受け取っていない場合や、別のメールアドレスを使用したい場合は、<a href=\"%s\" target=\"_blank\">このフォーム</a>を使用してください。"
+
+#: admin/includes/class-overview-widgets.php:27
+msgid "Next steps"
+msgstr "次のステップ"
+
+#: admin/includes/class-overview-widgets.php:29
+msgid "Manual and Support"
+msgstr "マニュアルとサポート"
+
+#: admin/includes/class-overview-widgets.php:65
+msgid "Create your first ad"
+msgstr "あなたの最初の広告を作成します。"
+
+#: admin/includes/class-overview-widgets.php:78
+msgid "Get the first steps and more tutorials to your inbox"
+msgstr "受信トレイに最初の手順やチュートリアルを取得する"
+
+#: admin/includes/class-overview-widgets.php:82
+msgid "Join now"
+msgstr "今すぐ登録！"
+
+#: admin/includes/class-overview-widgets.php:132
+msgid "Thank the developer with a &#9733;&#9733;&#9733;&#9733;&#9733; review on <a href=\"%s\" target=\"_blank\">wordpress.org</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Wordpress.org</a>上的なアーケード レビューと開発者に感謝します。"
+
+#: admin/includes/class-settings.php:101
+msgid "Disable ads"
+msgstr "広告を無効にする"
+
+#: admin/includes/class-settings.php:109
+msgid "Hide ads for logged in users"
+msgstr "ログインしているユーザーのための広告を非表示します。"
+
+#: admin/includes/class-settings.php:117
+msgid "Use advanced JavaScript"
+msgstr "高度なJavaScriptを使用する"
+
+#: admin/includes/class-settings.php:125
+msgid "Unlimited ad injection"
+msgstr "無制限の広告の注入"
+
+#: admin/includes/class-settings.php:133
+msgid "Priority of content injection filter"
+msgstr "コンテンツ挿入フィルターの優先順位"
+
+#: admin/includes/class-settings.php:149
+msgid "Hide ads from bots"
+msgstr "ボットから広告を非表示します。"
+
+#: admin/includes/class-settings.php:157
+msgid "Disable notices"
+msgstr "通知を無効にします。"
+
+#: admin/includes/class-settings.php:165
+msgid "ID prefix"
+msgstr "IDプレフィックス"
+
+#: admin/includes/class-settings.php:352
+msgid "(display to all)"
+msgstr "(すべて表示)"
+
+#: admin/includes/class-settings.php:365
+msgid "Choose the lowest role a user must have in order to not see any ads."
+msgstr "広告が表示されないようにするには、ユーザーが最低限必要な役割を選択します。"
+
+#: admin/includes/class-settings.php:379
+msgid "<strong>notice: </strong>the file is currently enabled by an add-on that needs it."
+msgstr "<strong>お知らせ:</strong>：そのファイルは、現在必要なアドオンによって有効になっています。"
+
+#: admin/includes/class-settings.php:382
+msgid "Enable advanced JavaScript functions (<a href=\"%s\" target=\"_blank\">here</a>). Some features and add-ons might override this setting if they need features from this file."
+msgstr "高度なJavaScript関数を有効にします（<a href=\"%s\" target=\"_blank\">ここ</a>）。 このファイルの機能が必要な場合、一部の機能やアドオンがこの設定を上書きすることがあります。"
+
+#: admin/includes/class-settings.php:420
+msgid "Play with this value in order to change the priority of the injected ads compared to other auto injected elements in the post content."
+msgstr "投稿内容で他の自動的に投じられた要素と比較して投じられた広告のプライオリティを変えるためにこの値で遊んでください。"
+
+#: admin/includes/class-settings.php:464
+msgid "Disable internal notices like tips, tutorials, email newsletters and update notices. Disabling notices is recommended if you run multiple blogs with Advanced Ads already."
+msgstr "ヒント、チュートリアル、電子メールニュースレター、更新通知などの内部通知を無効にする。 アドバンスド広告で複数のブログを既に実行している場合は、通知を無効にすることをおすすめします。"
+
+#: admin/includes/notices.php:15
+msgid "Thank you for activating <strong>Advanced Ads</strong>. Would you like to receive the first steps via email?"
+msgstr "<strong>広告管理</strong>をご利用いただきありがとうございます。E メール経由で最初のステップを表示しますか?"
+
+#: admin/includes/notices.php:16
+msgid "Yes, send it"
+msgstr "はい、メールを送信"
+
+#: admin/includes/notices.php:22
+msgid "Thank you for using <strong>Advanced Ads</strong>. Stay informed and receive <strong>2 free add-ons</strong> for joining the newsletter."
+msgstr "<strong>広告管理</strong>を使用していただきありがとうございます。把握し、ニュースレターに参加するため<strong>2 無料のアドオン</strong>が表示されます。"
+
+#: admin/includes/notices.php:23
+msgid "Add me now"
+msgstr "今すぐ私を追加します。"
+
+#: admin/includes/notices.php:29
+msgid "Learn more about how and <strong>how much you can earn with AdSense</strong> and Advanced Ads from my dedicated newsletter."
+msgstr "専用のニュースレターで、<strong> AdSenseで収益を上げる方法</strong>とアドバンスド広告の詳細については、こちらをご覧ください。"
+
+#: admin/includes/notices.php:30 admin/views/notices/inline.php:3
+#: admin/views/notices/subscribe.php:3
+msgid "Subscribe me now"
+msgstr "今すぐ購読"
+
+#: admin/views/ad-display-metabox.php:88
+msgid "If you want to display the ad everywhere, don't do anything here. "
+msgstr "どこでも広告を表示したい場合は、ここでは何もしないでください。"
+
+#: admin/views/ad-group-edit.php:14
+msgid "You did not select an item for editing."
+msgstr "編集するアイテムを選択していません。"
+
+#: admin/views/ad-group-edit.php:33
+msgctxt "Taxonomy Name"
+msgid "Name"
+msgstr "名称"
+
+#: admin/views/ad-group-edit.php:38
+msgctxt "Taxonomy Slug"
+msgid "Slug"
+msgstr "スラッグ"
+
+#: admin/views/ad-group-edit.php:40
+msgid "An id-like string with only letters in lower case, numbers, and hyphens."
+msgstr "小文字、数字、およびハイフンの文字だけで id のような文字列です。"
+
+#: admin/views/ad-group-edit.php:45
+msgctxt "Taxonomy Description"
+msgid "Description"
+msgstr "説明"
+
+#: admin/views/ad-group-edit.php:57
+msgid "Create new Ad Group"
+msgstr "新規グループを作成"
+
+#: admin/views/ad-group-list-ads.php:2 classes/ad-debug.php:118
+#: classes/ad-debug.php:167 classes/ad-debug.php:169
+#: public/class-advanced-ads.php:635
+msgid "Ad"
+msgstr "広告"
+
+#: admin/views/ad-group-list-ads.php:3
+msgid "weight"
+msgstr "重要度"
+
+#: admin/views/ad-group-list-form-row.php:12 admin/views/placements.php:24
+msgid "Name"
+msgstr "ニックネーム"
+
+#: admin/views/ad-group-list-form-row.php:51
+msgctxt "option to display all ads in an ad groups"
+msgid "all"
+msgstr "すべて"
+
+#: admin/views/ad-group-list-form-row.php:59
+msgid "Number of ads that are visible at the same time"
+msgstr "同時に表示される広告の数"
+
+#: admin/views/ad-group-list-header.php:3 classes/ad_type_group.php:30
+msgid "Ad Group"
+msgstr "広告グループ"
+
+#: admin/views/ad-group-list-row.php:14
+msgid "Learn more about using groups in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">マニュアル</a>でグループの使用について説明します。"
+
+#: admin/views/ad-group-list-row.php:19
+msgid "Type: %s"
+msgstr "タイプ: %s"
+
+#: admin/views/ad-group-list-row.php:20
+msgid "ID: %s"
+msgstr "ID: %s"
+
+#: classes/display-conditions.php:70 includes/array_ad_conditions.php:40
+msgid "Choose the public post types on which to display the ad."
+msgstr "広告を表示するパブリック ポスト タイプを選択します。"
+
+#: classes/display-conditions.php:77 includes/array_ad_conditions.php:58
+msgid "Choose on which individual posts, pages and public post type pages you want to display or hide ads."
+msgstr "広告を非表示にする個々 の投稿、ページ、投稿型のページを選択します。"
+
+#: classes/display-conditions.php:425
+msgctxt "display the terms search field on ad edit page"
+msgid "add more terms"
+msgstr "用語を追加します。"
+
+#: classes/display-conditions.php:427
+msgid "term name or id"
+msgstr "項名またはID"
+
+#. translators: Publish box date format, see http://php.net/date
+#: admin/includes/class-ad-type.php:549
+msgid "M j, Y @ G:i"
+msgstr "Y年n月j日 @ G:i"
+
+#: admin/includes/class-menu.php:93
+msgid "Settings"
+msgstr "設定"
+
+#: modules/import-export/views/page.php:24 public/class-advanced-ads.php:607
+msgid "Groups"
+msgstr "グループ"
+
+#: admin/class-advanced-ads-admin.php:368 admin/includes/class-menu.php:107
+#: admin/includes/class-menu.php:110 admin/views/settings.php:26
+msgid "Support"
+msgstr "サポート"
+
+#: admin/includes/class-menu.php:55 admin/includes/class-menu.php:68
+#: admin/includes/class-menu.php:72
+msgid "Overview"
+msgstr "概要"
+
+#: admin/includes/class-menu.php:62
+#: admin/includes/class-shortcode-creator.php:84
+#: admin/views/ad-group-list-form-row.php:68
+#: admin/views/ad-group-list-header.php:5 admin/views/placements-item.php:11
+#: admin/views/placements.php:200 classes/widget.php:93
+#: modules/import-export/views/page.php:23 public/class-advanced-ads.php:634
+msgid "Ads"
+msgstr "広告"
+
+#: admin/includes/class-shortcode-creator.php:91
+#: admin/views/placements-item.php:4 admin/views/placements.php:193
+#: classes/widget.php:86
+msgid "Ad Groups"
+msgstr "広告グループ"
+
+#: admin/includes/class-menu.php:89
+msgid "Ad Placements"
+msgstr "広告の設置"
+
+#: admin/includes/class-menu.php:89
+#: admin/includes/class-shortcode-creator.php:98 admin/views/placements.php:18
+#: classes/widget.php:79 modules/import-export/views/page.php:25
+msgid "Placements"
+msgstr "設置"
+
+#: admin/includes/class-menu.php:93
+msgid "Advanced Ads Settings"
+msgstr "広告の詳細設定"
+
+#: admin/includes/class-menu.php:193 admin/includes/class-menu.php:220
+msgid "Sorry, you are not allowed to access this feature."
+msgstr "申し訳ありませんが、ことはできませんこの機能にアクセスします。"

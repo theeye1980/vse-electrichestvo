@@ -1,0 +1,472 @@
+# Translation of Plugins - Table of Contents Plus - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Table of Contents Plus - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-28 08:43:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Table of Contents Plus - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://dublue.com/"
+msgstr "http://dublue.com/"
+
+#. Author of the plugin/theme
+msgid "Michael Tran"
+msgstr "Michael Tran"
+
+#. Description of the plugin/theme
+msgid "A powerful yet user friendly plugin that automatically creates a table of contents. Can also output a sitemap listing all pages and categories."
+msgstr "Een krachtige en toch gebruiker vriendelijke plugin die automatisch een inhoudsopgave maakt. Kan ook een sitemap met alle pagina's en categorieën genereren."
+
+#. Plugin URI of the plugin/theme
+msgid "http://dublue.com/plugins/toc/"
+msgstr "http://dublue.com/plugins/toc/"
+
+#. Plugin Name of the plugin/theme
+msgid "Table of Contents Plus"
+msgstr "Table of Contents Plus"
+
+#: toc.php:1688
+msgid "For the following content types:"
+msgstr "Voor de volgende inhoud typen:"
+
+#: toc.php:1684
+msgid "Show the table of contents only in the sidebar"
+msgstr "Toon de inhoudsopgave alleen in de sidebar"
+
+#: toc.php:1584
+msgid "Display the table of contents in the sidebar with this widget"
+msgstr "Toon de inhoudsopgave in de sidebar met dit widget"
+
+#: toc.php:1078
+msgid "Update Options"
+msgstr "Bijwerken Opties"
+
+#: toc.php:1069
+msgid "Uses h6 to display %s on a page listing excluding pages with IDs 1 and 15"
+msgstr "Gebruik h6 om %s te tonen op een pagina index zonder de pagina's met ID's 1 en 15"
+
+#: toc.php:1068
+msgid "hides the heading from a category listing"
+msgstr "verberg de koptekst van een categorie index"
+
+#: toc.php:1066
+msgid "Examples"
+msgstr "Voorbeelden"
+
+#: toc.php:1065
+msgid "lets you print out a listing of only pages. Similarly %s can be used to print out a category listing. They both can accept a number of attributes so visit the help tab for more information."
+msgstr "Hiermee kunt u een index afdrukken van alleen pagina's. Ook kunnen %s worden gebruikt om een ​​categorie index afdrukken. Beiden kunnen een aantal attributen  accepteren, bekijk het tabblad Help voor meer informatie."
+
+#: toc.php:1063
+msgid "Advanced usage"
+msgstr "Geavanceerd gebruik"
+
+#: toc.php:1057
+msgid "Eg: Categories, Category List"
+msgstr "Bijv: Categorieën, Categorie Lijst"
+
+#: toc.php:1055
+msgid "Categories label"
+msgstr "Categorieën label"
+
+#: toc.php:1051
+msgid "Eg: Pages, Page List"
+msgstr "Bijv: Pagina's, Pagina Lijst"
+
+#: toc.php:1049
+msgid "Pages label"
+msgstr "Pagina's label"
+
+#. translators: the full line is supposed to read - Use [h1-h6 drop down list]
+#. to print out the titles
+#: toc.php:1045
+msgid "to print out the titles"
+msgstr "om de titels uit te printen"
+
+#. translators: the full line is supposed to read - Use [1-6 drop down list] to
+#. print out the titles
+#: toc.php:1034
+msgid "Use"
+msgstr "Gebruik"
+
+#: toc.php:1031
+msgid "Heading type"
+msgstr "Koptekst type"
+
+#: toc.php:1027
+msgid "Show category listing"
+msgstr "Toon categorie lijst"
+
+#: toc.php:1023
+msgid "Show page listing"
+msgstr "Toon pagina lijst"
+
+#: toc.php:1019
+msgid "At its simplest, placing %s into a page will automatically create a sitemap of all pages and categories. This also works in a text widget."
+msgstr "Op zijn eenvoudigst, bij het plaatsen van %s in een pagina wordt automatisch een sitemap van alle pagina's en categorieën gemaakt. Dit werkt ook in een tekst widget."
+
+#: toc.php:1011
+msgid "If you would like to fully customise the position of the table of contents, you can use the %s shortcode by placing it at the desired position of your post, page or custom post type. This method allows you to generate the table of contents despite having auto insertion disabled for its content type. Please visit the help tab for further information about this shortcode."
+msgstr "Als u de positie van de inhoudsopgave volledig zou willen aanpassen passen kunt u de %s shortcode gebruiken door het te plaatsen op de gewenste positie van uw bericht, pagina of custom post type. Met deze methode kunt u de inhoudsopgave genereren ondanks de uitschakeling van auto invoegen voor het content type. Bekijk  het tabblad help voor meer informatie over deze shortcode."
+
+#. translators: advanced usage
+#: toc.php:1010
+msgid "Usage"
+msgstr "Gebruik"
+
+#. translators: example anchor prefixes when no ascii characters match
+#: toc.php:1002
+msgid "Eg: i, toc_index, index, _"
+msgstr "Bijv: i, toc_index, index, _"
+
+#: toc.php:999
+msgid "This option normally applies to content written in character sets other than ASCII."
+msgstr "Deze optie is normaliter van toepassing op inhoud die geschreven is in karaktersets anders dan ASCII."
+
+#: toc.php:998
+msgid "Anchor targets are restricted to alphanumeric characters as per HTML specification (see readme for more detail). The default anchor prefix will be used when no characters qualify. When left blank, a number will be used instead."
+msgstr "Anker doelen worden beperkt tot alfanumerieke tekens zoals per HTML-specificatie (zie readme (Engels) voor meer details). Het standaard anker voorvoegsel wordt gebruikt wanneer er geen tekens in aanmerking komen. Indien leeg gelaten zal een nummer in plaats daarvan worden gebruikt."
+
+#: toc.php:995
+msgid "Default anchor prefix"
+msgstr "Standaard anker voorvoegsel"
+
+#. translators: example URL path restriction
+#: toc.php:991
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr "Bijv: /wiki/, /corporate/annual-reports/"
+
+#: toc.php:988
+msgid "Restrict generation of the table of contents to pages that match the required path. This path is from the root of your site and always begins with a forward slash."
+msgstr "Beperk de generatie van de inhoudsopgave naar pagina's die overeenkomen met het vereiste pad. Dit pad van de root van uw site en begint altijd met een slash."
+
+#: toc.php:985
+msgid "Restrict path"
+msgstr "Pad beperken"
+
+#: toc.php:981
+msgid "If you have a consistent menu across the top of your site, you can adjust the top offset to stop the headings from appearing underneath the top menu. A setting of 30 accommodates the WordPress admin bar. This setting appears after you have enabled smooth scrolling from above."
+msgstr "Als u een vast menu aan de bovenkant van uw site heeft kunt u de bovenste offset aanpassen zodat de kopteksten niet weergegeven worden onder het bovenste menu.  Een instelling van 30 is voor het WordPress admin menu. Deze instelling verschijnt nadat u bovenstaande smooth scrolling ingeschakeld heeft."
+
+#: toc.php:978
+msgid "Smooth scroll top offset"
+msgstr "Smooth scroll bovenkant compensatie"
+
+#: toc.php:973
+msgid "<code>Apple Tree|Oranges|Yellow Bananas</code> ignore headings that are exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\""
+msgstr "<code>Appel Boom|Sinaasappels|Gele Bananen</code> negeer kopteksten welke exact \"Apple Boom\", \"Sinaasappels\" or \"Gele Bananen\" zijn"
+
+#: toc.php:972
+msgid "<code>*Fruit Diet*</code> ignore headings with \"Fruit Diet\" somewhere in the heading"
+msgstr "<code>*Fruit Dieet*</code> negeer kopteksten met \"Fruit Dieet\" ergens in de koptekst"
+
+#: toc.php:971
+msgid "<code>Fruit*</code> ignore headings starting with \"Fruit\""
+msgstr "<code>Fruit*</code> negeer kopteksten welke starten met \"Fruit\""
+
+#: toc.php:969
+msgid "Specify headings to be excluded from appearing in the table of contents.  Separate multiple headings with a pipe <code>|</code>.  Use an asterisk <code>*</code> as a wildcard to match other text.  Note that this is not case sensitive. Some examples:"
+msgstr "Specificeer kopteksten welke moeten worden uitgesloten in de inhoudsopgave.  Scheid meerdere kopteksten met een pipe <code>|</code>.  Gebruik een asterisk <code>*</code> als een wildcard om andere tekst te matchen. Opmerking: dit is niet hoofdlettergevoelig. Enkele voorbeelden:"
+
+#: toc.php:966
+msgid "Exclude headings"
+msgstr "Uitsluiten kopteksten"
+
+#: toc.php:960
+msgid "heading "
+msgstr "koptekst"
+
+#: toc.php:954
+msgid "Include the following heading levels. Deselecting a heading will exclude it."
+msgstr "Bevat de volgende koptekst niveaus. Deselecteren van een koptekst zal het uitsluiten."
+
+#: toc.php:952
+msgid "Heading levels"
+msgstr "Koptekst niveaus"
+
+#: toc.php:949
+msgid "If your theme includes background images for unordered list elements, enable this to support them"
+msgstr "Als uw thema achtergrondafbeeldingen bevat voor ongeordende lijst elementen, schakel dit in ter ondersteuning"
+
+#: toc.php:948
+msgid "Preserve theme bullets"
+msgstr "Behoud thema bullets"
+
+#: toc.php:945
+msgid "Prevent the loading of this plugin's CSS styles. When selected, the appearance options from above will also be ignored."
+msgstr "Voorkom het laden van deze plugin's CSS-stijlen. Indien geselecteerd zullen de bovenstaande weergave opties ook worden genegeerd."
+
+#: toc.php:944
+msgid "Exclude CSS file"
+msgstr "Uitsluiten CSS bestand"
+
+#: toc.php:941
+msgid "Show the table of contents for qualifying items on the homepage"
+msgstr "Toon de inhoudsopgave voor gekwalificeerde items op de homepage"
+
+#: toc.php:940
+msgid "Include homepage"
+msgstr "Toevoegen homepage"
+
+#: toc.php:937
+msgid "Use - rather than _ in anchors"
+msgstr "Gebruik - in plaats van _ in ankers"
+
+#: toc.php:936
+msgid "Hyphenate"
+msgstr "Afbreken"
+
+#: toc.php:933
+msgid "Ensure anchors are in lowercase"
+msgstr "Wees er zeker van dat ankers in kleine letters zijn"
+
+#: toc.php:932
+msgid "Lowercase"
+msgstr "Kleine letters"
+
+#: toc.php:928
+msgid "Power options"
+msgstr "Krachtige opties"
+
+#: toc.php:926 toc.php:1063
+msgid "show"
+msgstr "toon"
+
+#: toc.php:926
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: toc.php:919
+msgid "Leaving the value as %s will inherit your theme's styles"
+msgstr "Wanneer de waarde %s blijft zal dit terugkomen in uw thema's stijlen"
+
+#: toc.php:912
+msgid "Links (visited)"
+msgstr "Links (bezocht)"
+
+#: toc.php:908
+msgid "Links (hover)"
+msgstr "Links (hover)"
+
+#: toc.php:904
+msgid "Links"
+msgstr "Links"
+
+#: toc.php:900 toc.php:1678
+msgid "Title"
+msgstr "Titel"
+
+#: toc.php:896
+msgid "Border"
+msgstr "Rand"
+
+#: toc.php:892
+msgid "Background"
+msgstr "Achtergrond"
+
+#: toc.php:882
+msgid "Custom"
+msgstr "Aangepast"
+
+#: toc.php:877
+msgid "Transparent"
+msgstr "Transparant"
+
+#: toc.php:872
+msgid "Black"
+msgstr "Zwart"
+
+#: toc.php:867
+msgid "White"
+msgstr "Wit"
+
+#: toc.php:862
+msgid "Light blue"
+msgstr "Lichtblauw"
+
+#: toc.php:857
+msgid "Grey (default)"
+msgstr "Grijs (standaard)"
+
+#. translators: appearance / colour / look and feel options
+#: toc.php:854
+msgid "Presentation"
+msgstr "Presentatie"
+
+#: toc.php:841
+msgid "Font size"
+msgstr "Font grootte"
+
+#: toc.php:836
+msgid "Right"
+msgstr "Rechts"
+
+#: toc.php:835
+msgid "Left"
+msgstr "Links"
+
+#: toc.php:834
+msgid "None (default)"
+msgstr "Geen (standaard)"
+
+#: toc.php:831
+msgid "Wrapping"
+msgstr "Tekstterugloop"
+
+#. translators: ignore %s as it's some HTML label tags
+#: toc.php:820
+msgid "Please enter a number and %s select its units, eg: 100px, 10em"
+msgstr "Voer een nummer in en %s selecteer de eenheid, bijv: 100px, 10em"
+
+#: toc.php:814
+msgid "User defined"
+msgstr "Door de gebruiker gedefinieerd"
+
+#. translators: other width
+#: toc.php:813
+msgid "Other"
+msgstr "Anders"
+
+#: toc.php:803
+msgid "Auto (default)"
+msgstr "Automatisch (standaard)"
+
+#: toc.php:802
+msgid "Relative"
+msgstr "Relatief"
+
+#: toc.php:791
+msgid "Fixed width"
+msgstr "Vaste breedte"
+
+#: toc.php:788
+msgid "Width"
+msgstr "Breedte"
+
+#: toc.php:784
+msgid "Appearance"
+msgstr "Weergave"
+
+#: toc.php:779
+msgid "Scroll rather than jump to the anchor link"
+msgstr "Scrollen in plaats van springen naar de anker link"
+
+#: toc.php:778
+msgid "Enable smooth scroll effect"
+msgstr "Inschakelen smooth scroll effect"
+
+#: toc.php:774
+msgid "Number list items"
+msgstr "Aantal lijstitems"
+
+#: toc.php:770
+msgid "Show hierarchy"
+msgstr "Toon hiërarchie"
+
+#: toc.php:764
+msgid "Hide the table of contents initially"
+msgstr "Verberg eerst de inhoudsopgave"
+
+#. translators: example text to display when you want to collapse the table of
+#. contents
+#: toc.php:760
+msgid "Eg: hide"
+msgstr "Bijv. verbergen"
+
+#: toc.php:756
+msgid "Hide text"
+msgstr "Verbergen tekst"
+
+#. translators: example text to display when you want to expand the table of
+#. contents
+#: toc.php:753
+msgid "Eg: show"
+msgstr "Bijv. toon"
+
+#: toc.php:749
+msgid "Show text"
+msgstr "Tekst tonen"
+
+#: toc.php:744
+msgid "Allow the user to toggle the visibility of the table of contents"
+msgstr "De gebruiker toestaan ​​om de zichtbaarheid van de inhoudsopgave aan/uit te zetten"
+
+#: toc.php:742
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "Bijv: Inhoud, Inhoudsopgave, Pagina Inhoud"
+
+#: toc.php:739
+msgid "Show title on top of the table of contents"
+msgstr "Toon titel boven de inhoudsopgave"
+
+#. translators: this is the title of the table of contents
+#: toc.php:737
+msgid "Heading text"
+msgstr "Koptekst"
+
+#: toc.php:722
+msgid "Auto insert for the following content types"
+msgstr "Automatisch invoegen voor de volgende inhoud typen"
+
+#. translators: text follows drop down list of numbers
+#: toc.php:718
+msgid "or more headings are present"
+msgstr "of meer kopteksten aanwezig zijn"
+
+#: toc.php:706
+msgid "Show when"
+msgstr "Toon wanneer"
+
+#: toc.php:701
+msgid "Bottom"
+msgstr "Onderkant"
+
+#: toc.php:700
+msgid "Top"
+msgstr "Bovenkant"
+
+#: toc.php:699
+msgid "After first heading"
+msgstr "Na eerste koptekst"
+
+#: toc.php:698
+msgid "Before first heading (default)"
+msgstr "Voor eerste koptekst (standaard)"
+
+#: toc.php:695
+msgid "Position"
+msgstr "Positie"
+
+#: toc.php:687
+msgid "Help"
+msgstr "Help"
+
+#: toc.php:686
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: toc.php:685
+msgid "Main Options"
+msgstr "Algemene Opties"
+
+#: toc.php:673
+msgid "Save failed."
+msgstr "Opslaan mislukt."
+
+#: toc.php:671
+msgid "Options saved."
+msgstr "Opties opgeslagen."
+
+#: toc.php:500 toc.php:501
+msgid "TOC"
+msgstr "TOC"
+
+#: toc.php:221
+msgid "Settings"
+msgstr "Instellingen"

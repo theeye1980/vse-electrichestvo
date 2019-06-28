@@ -1,0 +1,161 @@
+.wpcalc{		
+	
+	font-weight: normal;	
+	border: 1px solid #ccc;
+	padding: 15px;
+	background:#fff;	
+	-webkit-box-shadow: 0px 0px 10px #000;
+	-moz-box-shadow: 0px 0px 10px #000;
+	box-shadow: 0px 0px 10px #000;
+	margin: auto;	
+	overflow: auto;
+	color:#000;
+	
+	
+
+}
+
+.wpcalc input[type=text],.wpcalc input[type=tel],.wpcalc input[type=number], .wpcalc input[type=date], .wpcalc select, .wpcalc textarea {
+	background: #efefef;	
+	border: 1px solid #cecece;
+	padding: 10px;
+	width: 80%;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	display: inline-block;
+	margin: 2px;
+	color:#000;
+	}
+	
+	.wpcalcresult {
+	color: #37c781;
+	font-weight: 700;
+}
+
+.wpcb {
+	
+	font-weight: 700;
+}
+
+.wpcr {
+	text-align: right;
+}
+
+.wpcc {
+	text-align: center;
+}
+
+.wpclink {overflow: auto; margin: auto;	max-width:700px;padding:10px 0;}
+
+.wpclink a{font-size:16px; color:#666666; font-style: normal; text-decoration:underline;}
+
+.wpcalc input[type=text]:focus,.wpcalc input[type=tel]:focus,.wpcalc input[type=number]:focus,select:focus{background:#fff;border:1px solid #f07d7d}
+
+
+
+
+.wpcalc button,.wpcalc input[type=button],.wpcalc input[type=submit]{
+	   background:#37c781;	   
+	   text-align:center;	   
+	   color:#fff;
+	   font-size:24px;
+	   font-weight:700;	   
+	   height:50px;
+	   padding:5px 20px;
+	   cursor:pointer;
+	   
+	   }
+	.wpcalc button:focus,.wpcalc input[type=button]:focus,.wpcalc input[type=submit]:focus{
+		background:#20a866;		
+	}
+	.wpcalc input[type=reset]{
+		background:#4C4C4C;		
+		text-align:center;
+		color:#fff;
+		font-size:24px;
+		font-weight:700;		
+		height:50px;
+		padding:5px 10px;
+	   cursor:pointer;
+		}
+	.wpcalc input[type=reset]:focus{background:#4d4d4d}
+	
+.wpcalc input[readonly],.wpcalc input[type=text]:disabled{background:#fff;border:1px solid #f07d7d}
+	.prevClass a{background:#178ad2;text-decoration:none;color:#fff;float:left;font:normal 11px/26px Tahoma,Geneva,sans-serif;border:1px solid #3a9bd9;padding:0 10px}
+
+
+.group{padding:5px;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;margin:5px 0}.group_con{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;float:left!important;width:20%;padding-right:5px;margin-bottom:5px}.group_stats{width:13%!important}.group_small{width:10%!important}.group_con_width{width:5%!important}.group span{display:table-cell;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;padding-right:2px;font-family:Arial,Helvetica,sans-serif;padding-left:5px}.group label{font-family:Arial,Helvetica,sans-serif;padding-left:4px;display:block}.matrix{width:9.5%!important;padding:2px;margin-right:2px!important;margin-bottom:2px!important;float:left!important}.width_100{width:100%}.width_95{width:95%!important}.width_90{width:90%!important}.width_80{width:80%!important}.width_60{width:60%!important}.width_45{width:45%!important}.general_list{margin:20px;padding:0}
+.group_con{width:30%}.group label{text-align:left}
+.group_con,.group_con_100,.group_con_30,.group_con_40,.group_con_25{width:100%!important}.matrix{width:9%!important}
+.group_con_edit{-moz-box-sizing:border-box;float:left!important;margin-bottom:5px;padding-right:5px}.group_con_100{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;float:left!important;width:100%;padding-right:5px;margin-bottom:5px}.group_con_40{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;float:left!important;width:40%;padding-right:5px;margin-bottom:5px}.group_con_30{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;float:left!important;width:30%;padding-right:5px;margin-bottom:5px}.group_con_25{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;float:left!important;width:25%;padding-right:5px;margin-bottom:5px}
+.group:after,.group:before{content:"";display:table}.group:after{clear:both}.group{zoom:1}
+.group_specific label{color:#000;font:bold 14px Arial,Helvetica,sans-serif!important}.group_specific input[type="text"]:disabled,.group_specific input[readonly]{border:1px solid #898989;box-shadow:7px 7px 5px -6px rgba(0,0,0,0.3) inset}.matrixFormat{border-collapse:inherit!important;width:auto!important;border-radius:20px!important;border-left:3px solid #333!important;border-right:3px solid #333!important;padding:5px!important;font:bold 14px Arial,Helvetica,sans-serif!important;margin:5px;color:#3F3F3F}.matrixFormat td{padding:5px!important}.matrixHighLight{background:#C6C9CE}
+.radio_check{padding:7px 5px;font-size:14px;margin-right:4px;float:left;font-family:Arial,Helvetica,sans-serif;color:#717070;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+.result{margin-top:10px;background:#e4ddcb;padding:14px 20px;width:100%;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;overflow: auto;}
+.result_box{background:#fff;-webkit-box-shadow:inset 7px 7px 5px -6px rgba(0,0,0,.3);-moz-box-shadow:inset 7px 7px 5px -6px rgba(0,0,0,.3);box-shadow:inset 7px 7px 5px -6px rgba(0,0,0,.3);border:1px solid #f07d7d;border-radius:5px;-moz-border-radius:5px;-o-border-radius:5px;-webkit-border-radius:5px;margin:5px 0}
+.group label{text-align:left}
+.wpcalc table{width:99%;border-collapse:collapse}
+.wpcalc table,.wpcalc td,.wpcalc th{border:none}
+.customTextarea{min-height:200px!important}
+	
+	.prevClass a:hover{text-decoration:none;color:#1674ad;display:block;background:#fff}
+	.nextClass a{background:#178ad2;text-decoration:none;color:#fff;float:right;font:normal 11px/26px Tahoma,Geneva,sans-serif;border:1px solid #3a9bd9;padding:0 10px}
+	.nextClass a:hover{text-decoration:none;color:#1674ad;display:block;background:#fff}
+	.errClass{padding-left:4px;font:normal 12px Arial,Helvetica,sans-serif;color:red;text-align:left}
+	.selectWidth{width:95%!important}
+	.selectWidth80{width:80%!important}
+	.selectWidth90{width:90%!important}
+	.textboxRight{float:right!important}
+.pregnancy_calc_bg{margin:10px auto;padding:10px;text-align:center}.pregnancy_calc_bg h5{font-size:18px;padding:10px 10px 10px 20px;color:#4a4a4a;text-align:left}.pregnancy_calc_img{border-radius:.5em;border:1px solid #dfdede;background:#fff;margin:10px;display:inline-block;width:46%!important}.pregnancy_calc_left{display:table-cell;vertical-align:top}.pregnancy_calc_left_top{border-top-left-radius:.5em;background:#686868;color:#fff;font-size:13.5px;font-weight:700;padding:10px}.pregnancy_calc_left_bottom{padding:5px;font-size:14px;font-weight:700}.to{display:block;padding:0}.pregnancy_calc_right{border-bottom-right-radius:.5em;border-top-right-radius:.5em;display:table-cell;background-color:#dc4e26;padding:0;vertical-align:middle}.pregnancy_calc_right img{border-bottom-right-radius:5px;border-top-right-radius:5px;vertical-align:middle}
+
+.wpcalc-col {
+position:relative;
+width: 100%;
+float: left;	
+	min-height: 1px;	
+	white-space: normal
+	
+	}  
+.wpcalc-col-1, .wpcalc-col-2, .wpcalc-col-3, .wpcalc-col-4, .wpcalc-col-5, .wpcalc-col-6, .wpcalc-col-7, .wpcalc-col-8, .wpcalc-col-9, .wpcalc-col-10, .wpcalc-col-11, .wpcalc-col-12 {
+	float: left;	
+	min-height: 1px;	
+	padding-top: 15px;
+	white-space: normal;
+	display: inline-block;
+  vertical-align: middle;
+	}    
+.wpcalc-col-12 {width: 100%;}
+.wpcalc-col-11 {width: 91.66666666666666%;}
+.wpcalc-col-10 {width: 83.33333333333334%;}
+.wpcalc-col-9 {width: 75%;}
+.wpcalc-col-8 {width: 66.66666666666666%;}
+.wpcalc-col-7 {width: 58.333333333333336%;}
+.wpcalc-col-6 {width: 50%;}
+.wpcalc-col-5 {width: 41.66666666666667%;}
+.wpcalc-col-4 {width: 33.33333333333333%;}
+.wpcalc-col-3 {width: 25%;}
+.wpcalc-col-2 {width: 16.666666666666664%;}
+.wpcalc-col-1 {width: 8.333333333333332%;}
+.subforcalc{
+width: 80%;
+  max-width: 550px;
+  margin: 3em auto;
+  padding: 1em;
+  box-shadow:
+   -15px -15px 2px -5px rgba(160,82,45,.5),
+   -15px 15px 2px -5px rgba(0,255,255,.5),
+   15px -15px 2px -5px rgba(255,0,0,.5),
+   15px 15px 2px -5px rgba(255,255,0,.5);
+
+}
+@media only screen and (max-width: 480px) {
+    .wpcalc-col {
+
+white-space: normal;
+	} 
+    .wpcalc-col-1, .wpcalc-col-2, .wpcalc-col-3, .wpcalc-col-4, .wpcalc-col-5, .wpcalc-col-6, .wpcalc-col-7, .wpcalc-col-8, .wpcalc-col-9, .wpcalc-col-10, .wpcalc-col-11, .wpcalc-col-12 {
+	width: 100%;
+	display: block;
+	}  
+}
+

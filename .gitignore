@@ -1,0 +1,11 @@
+public_html/wp-admin/
+public_html/wp-content/cache/
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.xls
+*.doc
+public_html/wp-config.php
+logs/
+public_html/index.html

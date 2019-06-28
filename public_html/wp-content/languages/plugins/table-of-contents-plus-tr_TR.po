@@ -1,0 +1,474 @@
+# Translation of Plugins - Table of Contents Plus - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Table of Contents Plus - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-21 20:21:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Table of Contents Plus - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://dublue.com/"
+msgstr "http://dublue.com/"
+
+#. Author of the plugin/theme
+msgid "Michael Tran"
+msgstr "Michael Tran"
+
+#. Description of the plugin/theme
+msgid "A powerful yet user friendly plugin that automatically creates a table of contents. Can also output a sitemap listing all pages and categories."
+msgstr "Otomatik olarak içindekiler tablosu oluşturan güçlü kullanıcı dostu eklenti. Tüm sayfalar ve kategoriler için site haritası listesi çıktısı verebilir."
+
+#. Plugin URI of the plugin/theme
+msgid "http://dublue.com/plugins/toc/"
+msgstr "http://dublue.com/plugins/toc/"
+
+#. Plugin Name of the plugin/theme
+msgid "Table of Contents Plus"
+msgstr "Table of Contents Plus"
+
+#: toc.php:1688
+msgid "For the following content types:"
+msgstr "Aşağıdaki içerik türleri için:"
+
+#: toc.php:1684
+msgid "Show the table of contents only in the sidebar"
+msgstr "İçindekiler tablosunu kenar çubuğunda göster"
+
+#: toc.php:1584
+msgid "Display the table of contents in the sidebar with this widget"
+msgstr "İçindekiler tablosunu kenar çubuğunda bu bileşen içinde göster"
+
+#: toc.php:1078
+msgid "Update Options"
+msgstr "Seçenekleri güncelle"
+
+#: toc.php:1069
+msgid "Uses h6 to display %s on a page listing excluding pages with IDs 1 and 15"
+msgstr "ID 1 ve 15 olan sayfa listelemede hariç tutulan %s görüntülenmesi için h6 kullanır"
+
+#: toc.php:1068
+msgid "hides the heading from a category listing"
+msgstr "Kategori listelemesinde başlığı gizler"
+
+#: toc.php:1066
+msgid "Examples"
+msgstr "Örnekler"
+
+#: toc.php:1065
+msgid "lets you print out a listing of only pages. Similarly %s can be used to print out a category listing. They both can accept a number of attributes so visit the help tab for more information."
+msgstr "Sadece sayfa listesinin çıktısına izin verir. Benzer olarak %s kategori listesi çıktısı içinde kullanılabilir. Her ikisi de nitelik olarak numara alabilir daha fazla bilgi için yardım sekmesini ziyaret edin."
+
+#: toc.php:1063
+msgid "Advanced usage"
+msgstr "Gelişmiş kullanım"
+
+#: toc.php:1057
+msgid "Eg: Categories, Category List"
+msgstr "Örn: Kategoriler, kategori listesi"
+
+#: toc.php:1055
+msgid "Categories label"
+msgstr "Kategori etiketi"
+
+#: toc.php:1051
+msgid "Eg: Pages, Page List"
+msgstr "Örn: Sayfalar, sayfa listesi"
+
+#: toc.php:1049
+msgid "Pages label"
+msgstr "Sayfa etiketleri"
+
+#. translators: the full line is supposed to read - Use [h1-h6 drop down list]
+#. to print out the titles
+#: toc.php:1045
+msgid "to print out the titles"
+msgstr "başlıkları yazdırmak için"
+
+#. translators: the full line is supposed to read - Use [1-6 drop down list] to
+#. print out the titles
+#: toc.php:1034
+msgid "Use"
+msgstr "Kullan"
+
+#: toc.php:1031
+msgid "Heading type"
+msgstr "Başlık türü"
+
+#: toc.php:1027
+msgid "Show category listing"
+msgstr "Kategori listesini göster"
+
+#: toc.php:1023
+msgid "Show page listing"
+msgstr "Sayfa listesini göster"
+
+#: toc.php:1019
+msgid "At its simplest, placing %s into a page will automatically create a sitemap of all pages and categories. This also works in a text widget."
+msgstr "%s kısa kodunu sayfa içerisine eklemek otomatik olarak tüm sayfa ve kategorilerin site haritasını oluşturacaktır. Aynı zamanda bu kısa kod metin bileşenlerde de çalışır."
+
+#: toc.php:1011
+msgid "If you would like to fully customise the position of the table of contents, you can use the %s shortcode by placing it at the desired position of your post, page or custom post type. This method allows you to generate the table of contents despite having auto insertion disabled for its content type. Please visit the help tab for further information about this shortcode."
+msgstr "Eğer içindekiler tablosunun pozisyonunu tam olarak kişiselleştirmek istiyorsanız, gönderinizin,sayfanızın yada özel yazı türünüzün içerisine %s kısa kodunu ekleyebilirsiniz.Bu yöntem otomatik eklemenin geçersiz olduğu içerik türlerine rağmen içindekiler tablosunu oluşturacaktır. Lütfen kısakodlar ile ilgili daha fazla bilgi için yardım sekmesini ziyaret edin."
+
+#. translators: advanced usage
+#: toc.php:1010
+msgid "Usage"
+msgstr "Kullanım"
+
+#. translators: example anchor prefixes when no ascii characters match
+#: toc.php:1002
+msgid "Eg: i, toc_index, index, _"
+msgstr "Örn: i, toc_index, index, _"
+
+#: toc.php:999
+msgid "This option normally applies to content written in character sets other than ASCII."
+msgstr "Bu seçenek normalde içeriğin yazılması için ASCII haricindeki karakter setlerini onaylar."
+
+#: toc.php:998
+msgid "Anchor targets are restricted to alphanumeric characters as per HTML specification (see readme for more detail). The default anchor prefix will be used when no characters qualify. When left blank, a number will be used instead."
+msgstr "Çapa metin hedefleri HTML belirtimine göre alfa sayısal karakterlerle sınırlandırılmıştır (detaylar için beni oku dosyasını inceleyin). Varsayılan çapa öneki hiçbir karakter belirtilmediğinde kullanılacaktır. Boş bırakıldığında bunun yerine bir sayı kullanılacaktır."
+
+#: toc.php:995
+msgid "Default anchor prefix"
+msgstr "Varsayılan anchor öneki"
+
+#. translators: example URL path restriction
+#: toc.php:991
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr "Örn: /wiki/, /corporate/annual-reports/"
+
+#: toc.php:988
+msgid "Restrict generation of the table of contents to pages that match the required path. This path is from the root of your site and always begins with a forward slash."
+msgstr "İçindekiler tablosunu sadece belirttiğim yol ile eşleşen sayfalarda oluştur. Bu yol, sitenizin kök dizinidir ve daima eğik çizgi ile başlar."
+
+#: toc.php:985
+msgid "Restrict path"
+msgstr "Yolu kısıtla"
+
+#: toc.php:981
+msgid "If you have a consistent menu across the top of your site, you can adjust the top offset to stop the headings from appearing underneath the top menu. A setting of 30 accommodates the WordPress admin bar. This setting appears after you have enabled smooth scrolling from above."
+msgstr "Sitenizin üst kısmında sabit bir menü varsa, başlıkların üstteki menünün altında görünmesini engellemek için üst ofset ayarlayabilirsiniz. 30 olarak ayarlamak, WordPress yönetici çubuğunu barındırır. Bu ayar, üstten yumuşak kaydırma seçeneği etkinleştirildikten sonra görüntülenir."
+
+#: toc.php:978
+msgid "Smooth scroll top offset"
+msgstr "Üste doğru yumuşak kaydırma"
+
+#: toc.php:973
+msgid "<code>Apple Tree|Oranges|Yellow Bananas</code> ignore headings that are exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\""
+msgstr "<code>Apple Tree|Oranges|Yellow Bananas</code> tam olarak \"Apple Tree\", \"Oranges\" yada \"Yellow Bananas\" şeklindeki başlıkları görmezden gelir"
+
+#: toc.php:972
+msgid "<code>*Fruit Diet*</code> ignore headings with \"Fruit Diet\" somewhere in the heading"
+msgstr "<code>*Fruit Diet*</code> yazıldığında içerisinde \"Fruit Diet\" bulunan başlıkları görmezden gelir."
+
+#: toc.php:971
+msgid "<code>Fruit*</code> ignore headings starting with \"Fruit\""
+msgstr "<code>Fruit*</code> yazıldığında \"Fruit\" ile başlayan başlıkları görmezden gelir."
+
+#: toc.php:969
+msgid "Specify headings to be excluded from appearing in the table of contents.  Separate multiple headings with a pipe <code>|</code>.  Use an asterisk <code>*</code> as a wildcard to match other text.  Note that this is not case sensitive. Some examples:"
+msgstr ""
+"İçindekiler tablosu içerisinde görüntülenmeyecek olan başlıkları belirtin. Birden çok başlığı dikey çizgi ile <code>|</code> belirtin. Diğer metni eşleştirmek için joker olarak <code>*</code> kullanın. Büyük küçük harf duyarlı değildir.\n"
+"Bazı örnekler:"
+
+#: toc.php:966
+msgid "Exclude headings"
+msgstr "Hariç tutulacak başlıklar"
+
+#: toc.php:960
+msgid "heading "
+msgstr "başlık"
+
+#: toc.php:954
+msgid "Include the following heading levels. Deselecting a heading will exclude it."
+msgstr "Aşağıdaki başlık seviyelerini dahil et. Seçilmeyen başlıklar hariç tutulacaktır."
+
+#: toc.php:952
+msgid "Heading levels"
+msgstr "Başlık seviyeleri"
+
+#: toc.php:949
+msgid "If your theme includes background images for unordered list elements, enable this to support them"
+msgstr "Eğer temanız sırasız liste elemanları için arkaplan resmi kullanıyorsa, bu özelliğin desteklenmesi için bunu etkinleştirin"
+
+#: toc.php:948
+msgid "Preserve theme bullets"
+msgstr "Tema dizilimini koru"
+
+#: toc.php:945
+msgid "Prevent the loading of this plugin's CSS styles. When selected, the appearance options from above will also be ignored."
+msgstr "Eklentiye ait Css stillerinin yüklenmesini engelle. Seçildiğinde, üst kısımdaki görünüm ayarları görmezden gelinecektir."
+
+#: toc.php:944
+msgid "Exclude CSS file"
+msgstr "Css dosyasını hariç tut"
+
+#: toc.php:941
+msgid "Show the table of contents for qualifying items on the homepage"
+msgstr "İçindekiler tablosunu anasayfada niteleyici elemanlar için göster"
+
+#: toc.php:940
+msgid "Include homepage"
+msgstr "Anasayfayı dahil et"
+
+#: toc.php:937
+msgid "Use - rather than _ in anchors"
+msgstr "Link metinleri içerisinde _ yerine - kullanın"
+
+#: toc.php:936
+msgid "Hyphenate"
+msgstr "Tire koy"
+
+#: toc.php:933
+msgid "Ensure anchors are in lowercase"
+msgstr "Link metnini küçük harf yap"
+
+#: toc.php:932
+msgid "Lowercase"
+msgstr "Küçük harf"
+
+#: toc.php:928
+msgid "Power options"
+msgstr "Güç seçenekleri"
+
+#: toc.php:926 toc.php:1063
+msgid "show"
+msgstr "göster"
+
+#: toc.php:926
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: toc.php:919
+msgid "Leaving the value as %s will inherit your theme's styles"
+msgstr "%s değerini boş bıraktığınızda tema stiliniz kullanılacaktır."
+
+#: toc.php:912
+msgid "Links (visited)"
+msgstr "Linkler (ziyaret edilmiş)"
+
+#: toc.php:908
+msgid "Links (hover)"
+msgstr "Linkler (imleç üstünde)"
+
+#: toc.php:904
+msgid "Links"
+msgstr "Linkler"
+
+#: toc.php:900 toc.php:1678
+msgid "Title"
+msgstr "Başlık"
+
+#: toc.php:896
+msgid "Border"
+msgstr "Çerçeve"
+
+#: toc.php:892
+msgid "Background"
+msgstr "Arkaplan"
+
+#: toc.php:882
+msgid "Custom"
+msgstr "Özel"
+
+#: toc.php:877
+msgid "Transparent"
+msgstr "Transparan"
+
+#: toc.php:872
+msgid "Black"
+msgstr "Siyah"
+
+#: toc.php:867
+msgid "White"
+msgstr "Beyaz"
+
+#: toc.php:862
+msgid "Light blue"
+msgstr "Açık mavi"
+
+#: toc.php:857
+msgid "Grey (default)"
+msgstr "Gri (varsayılan)"
+
+#. translators: appearance / colour / look and feel options
+#: toc.php:854
+msgid "Presentation"
+msgstr "Görünüm"
+
+#: toc.php:841
+msgid "Font size"
+msgstr "Yazı tipi boyutu"
+
+#: toc.php:836
+msgid "Right"
+msgstr "Sağ"
+
+#: toc.php:835
+msgid "Left"
+msgstr "Sol"
+
+#: toc.php:834
+msgid "None (default)"
+msgstr "Hiçbiri (varsayılan)"
+
+#: toc.php:831
+msgid "Wrapping"
+msgstr "Hizalama"
+
+#. translators: ignore %s as it's some HTML label tags
+#: toc.php:820
+msgid "Please enter a number and %s select its units, eg: 100px, 10em"
+msgstr "Lütfen bir rakam girin ve %s birimleri seçin, örn: 100px, 10em"
+
+#: toc.php:814
+msgid "User defined"
+msgstr "Kullanıcı tanımlı"
+
+#. translators: other width
+#: toc.php:813
+msgid "Other"
+msgstr "Diğer"
+
+#: toc.php:803
+msgid "Auto (default)"
+msgstr "Otomatik (varsayılan)"
+
+#: toc.php:802
+msgid "Relative"
+msgstr "İçeriğe uygun"
+
+#: toc.php:791
+msgid "Fixed width"
+msgstr "Sabit genişlik"
+
+#: toc.php:788
+msgid "Width"
+msgstr "Genişlik"
+
+#: toc.php:784
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: toc.php:779
+msgid "Scroll rather than jump to the anchor link"
+msgstr "Çapa metnine atlamak yerine kaydır"
+
+#: toc.php:778
+msgid "Enable smooth scroll effect"
+msgstr "Kaydırma efektini etkinleştir"
+
+#: toc.php:774
+msgid "Number list items"
+msgstr "Liste elemanlarını numaralandır"
+
+#: toc.php:770
+msgid "Show hierarchy"
+msgstr "Hiyerarşiyi göster"
+
+#: toc.php:764
+msgid "Hide the table of contents initially"
+msgstr "Başlangıçta içindekiler tablosunu gizle"
+
+#. translators: example text to display when you want to collapse the table of
+#. contents
+#: toc.php:760
+msgid "Eg: hide"
+msgstr "Örn: gizle"
+
+#: toc.php:756
+msgid "Hide text"
+msgstr "Metni gizle"
+
+#. translators: example text to display when you want to expand the table of
+#. contents
+#: toc.php:753
+msgid "Eg: show"
+msgstr "Örn: göster"
+
+#: toc.php:749
+msgid "Show text"
+msgstr "Metni göster"
+
+#: toc.php:744
+msgid "Allow the user to toggle the visibility of the table of contents"
+msgstr "Kullanıcının içindekiler tablosunun görünürlüğünü açıp kapatmasına izin ver."
+
+#: toc.php:742
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "Örn: İçindekiler, İçindekiler tablosu, Sayfa içerikleri"
+
+#: toc.php:739
+msgid "Show title on top of the table of contents"
+msgstr "İçindekiler tablosunun en üstünde başlık göster"
+
+#. translators: this is the title of the table of contents
+#: toc.php:737
+msgid "Heading text"
+msgstr "Başlık metni"
+
+#: toc.php:722
+msgid "Auto insert for the following content types"
+msgstr "Aşağıdaki içerik türleri için otomatik olarak ekle"
+
+#. translators: text follows drop down list of numbers
+#: toc.php:718
+msgid "or more headings are present"
+msgstr "yada mevcut olan daha fazla başlık"
+
+#: toc.php:706
+msgid "Show when"
+msgstr "Göster"
+
+#: toc.php:701
+msgid "Bottom"
+msgstr "Alt"
+
+#: toc.php:700
+msgid "Top"
+msgstr "Üst"
+
+#: toc.php:699
+msgid "After first heading"
+msgstr "İlk başlıktan sonra"
+
+#: toc.php:698
+msgid "Before first heading (default)"
+msgstr "İlk başlıktan önce (varsayılan)"
+
+#: toc.php:695
+msgid "Position"
+msgstr "Pozisyon"
+
+#: toc.php:687
+msgid "Help"
+msgstr "Yardım"
+
+#: toc.php:686
+msgid "Sitemap"
+msgstr "Site haritası"
+
+#: toc.php:685
+msgid "Main Options"
+msgstr "Ana seçenekler"
+
+#: toc.php:673
+msgid "Save failed."
+msgstr "Kaydetme başarısız."
+
+#: toc.php:671
+msgid "Options saved."
+msgstr "Seçenekler kaydedildi."
+
+#: toc.php:500 toc.php:501
+msgid "TOC"
+msgstr "TOC"
+
+#: toc.php:221
+msgid "Settings"
+msgstr "Ayarlar"
